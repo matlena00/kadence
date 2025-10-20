@@ -1,0 +1,6397 @@
+# Translation of Kadence - Kadence Blocks Pro in Italian
+# This file is distributed under the same license as the Kadence - Kadence Blocks Pro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-17 16:11:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: it\n"
+"Project-Id-Version: Kadence - Kadence Blocks Pro\n"
+
+#: dist/blocks/videopopup/block.json
+msgctxt "block title"
+msgid "Video Popup"
+msgstr ""
+
+#: dist/blocks/splitcontent/block.json
+msgctxt "block title"
+msgid "Split Content"
+msgstr ""
+
+#: dist/blocks/slider/block.json
+msgctxt "block title"
+msgid "Advanced Slider"
+msgstr ""
+
+#: dist/blocks/slide/block.json
+msgctxt "block title"
+msgid "Slide"
+msgstr ""
+
+#: dist/blocks/repeatertemplate/block.json
+msgctxt "block description"
+msgid "Contains the block elements used to render an item in a repeater loop."
+msgstr ""
+
+#: dist/blocks/repeatertemplate/block.json
+msgctxt "block title"
+msgid "Repeater Template"
+msgstr ""
+
+#: dist/blocks/repeater/block.json
+msgctxt "block description"
+msgid "An advanced block that allows displaying ACF Repeater fields."
+msgstr ""
+
+#: dist/blocks/repeater/block.json
+msgctxt "block title"
+msgid "Repeater"
+msgstr ""
+
+#: dist/blocks/query/children/pagination/block.json
+#: dist/blocks/query/children/result-count/block.json
+msgctxt "block title"
+msgid "Pagination"
+msgstr ""
+
+#: dist/blocks/query/children/filter-woo-attribute/block.json
+msgctxt "block title"
+msgid "Filter - Swatch"
+msgstr ""
+
+#: dist/blocks/query/children/filter-search/block.json
+msgctxt "block title"
+msgid "Query Filter Search"
+msgstr ""
+
+#: dist/blocks/query/children/filter-rating/block.json
+msgctxt "block title"
+msgid "Filter - Rating"
+msgstr ""
+
+#: dist/blocks/query/children/filter-range/block.json
+#: dist/blocks/query/children/filter/block.json
+#: dist/blocks/query/children/noresults/block.json
+#: dist/blocks/query/children/sort/block.json
+msgctxt "block title"
+msgid "No Results"
+msgstr ""
+
+#: dist/blocks/query/children/filter-date/block.json
+msgctxt "block title"
+msgid "Query Filter Date"
+msgstr ""
+
+#: dist/blocks/query/children/filter-checkbox/block.json
+msgctxt "block title"
+msgid "Filter - Checkbox"
+msgstr ""
+
+#: dist/blocks/query/children/filter-buttons/block.json
+msgctxt "block title"
+msgid "Filter - Buttons"
+msgstr ""
+
+#: dist/blocks/query/block.json dist/blocks/query/children/card/block.json
+msgctxt "block title"
+msgid "Query"
+msgstr ""
+
+#: dist/blocks/productcarousel/block.json
+msgctxt "block title"
+msgid "Product Carousel"
+msgstr ""
+
+#: dist/blocks/postgrid/block.json
+msgctxt "block title"
+msgid "Post Grid"
+msgstr ""
+
+#: dist/blocks/portfoliogrid/block.json
+msgctxt "block title"
+msgid "Portfolio Grid"
+msgstr ""
+
+#: dist/blocks/modal/block.json
+msgctxt "block title"
+msgid "Modal"
+msgstr ""
+
+#: dist/blocks/imageoverlay/block.json dist/blocks/userinfo/block.json
+msgctxt "block title"
+msgid "Image Overlay"
+msgstr ""
+
+#: dist/blocks/dynamiclist/block.json
+msgctxt "block title"
+msgid "Dynamic List"
+msgstr ""
+
+#: dist/blocks/dynamichtml/block.json
+msgctxt "block title"
+msgid "Dynamic HTML"
+msgstr ""
+
+#: dist/icon-upload.js:225 dist/icon-upload.js:175
+msgid "Icon Set Prefix:"
+msgstr "Prefisso set di icone:"
+
+#: dist/icon-upload.js:222 dist/icon-upload.js:163
+msgid "Upload"
+msgstr "Carica"
+
+#: dist/icon-upload.js:217 dist/icon-upload.js:156
+msgid "Cancel"
+msgstr "Annulla"
+
+#: dist/icon-upload.js:214 dist/icon-upload.js:150
+msgid "Select a file"
+msgstr "Seleziona un file"
+
+#: dist/icon-upload.js:214 dist/icon-upload.js:148
+msgid "Browse"
+msgstr "Sfoglia"
+
+#: dist/icon-upload.js:207 dist/icon-upload.js:136
+msgid "Visit the documentation here"
+msgstr ""
+
+#: dist/icon-upload.js:204 dist/icon-upload.js:131
+msgid "Need help?"
+msgstr ""
+
+#: dist/icon-upload.js:204 dist/icon-upload.js:125
+msgid "Upload the .json file from within the IcoMoon .zip file (Make sure each set has a unique prefix)"
+msgstr ""
+
+#: dist/icon-upload.js:199 dist/icon-upload.js:119
+msgid "Upload Icon JSON file"
+msgstr ""
+
+#: dist/icon-upload.js:198 dist/icon-upload.js:114
+msgid "Replace Icon file"
+msgstr ""
+
+#: dist/icon-upload.js:198 dist/icon-upload.js:112
+msgid "Upload an Icon file"
+msgstr ""
+
+#: dist/icon-upload.js:176 dist/icon-upload.js:84
+msgid "Invalid JSON file. File not an object."
+msgstr ""
+
+#: dist/icon-upload.js:170 dist/icon-upload.js:77
+msgid "Invalid JSON file"
+msgstr "File JSON non valido"
+
+#: dist/form-analytics.js:251 dist/form-analytics.js:267
+msgid "Conversion Rate"
+msgstr ""
+
+#: dist/form-analytics.js:245 dist/form-analytics.js:258
+msgid "Total Submitted"
+msgstr ""
+
+#: dist/form-analytics.js:239 dist/form-analytics.js:254
+msgid "Total Views"
+msgstr ""
+
+#: dist/form-analytics.js:222 dist/form-analytics.js:239
+msgid "Last 90 Days"
+msgstr ""
+
+#: dist/form-analytics.js:219 dist/form-analytics.js:238
+msgid "Last 30 Days"
+msgstr ""
+
+#: dist/form-analytics.js:216 dist/form-analytics.js:237
+msgid "Last 7 Days"
+msgstr ""
+
+#: dist/form-analytics.js:211 dist/form-analytics.js:233
+msgid "Period"
+msgstr ""
+
+#: dist/form-analytics.js:210 dist/form-analytics.js:230
+msgid "Performance"
+msgstr "Prestazioni"
+
+#: dist/form-analytics.js:194 dist/form-analytics.js:211
+msgid "Submitted"
+msgstr ""
+
+#: dist/form-analytics.js:188 dist/form-analytics.js:204
+msgid "Views"
+msgstr ""
+
+#: dist/blocks.js:69226
+msgid "Save/Close"
+msgstr ""
+
+#: dist/blocks.js:69188
+msgid "<footer>"
+msgstr ""
+
+#: dist/blocks.js:69159
+msgid "<body>"
+msgstr ""
+
+#: dist/blocks.js:69130
+msgid "<head>"
+msgstr ""
+
+#: dist/blocks.js:69130
+msgid "Post Specific Scripts"
+msgstr ""
+
+#: dist/blocks.js:69101
+msgid "Post Specific CSS"
+msgstr ""
+
+#: dist/blocks.js:69095 dist/blocks.js:69097
+msgid "Custom CSS and JS"
+msgstr ""
+
+#: dist/blocks.js:69084
+msgid "Page Scripts"
+msgstr ""
+
+#: dist/blocks.js:68365
+msgid "Insert Dynamic Content"
+msgstr ""
+
+#: dist/blocks.js:67593
+msgid "Add Dynamic Content"
+msgstr ""
+
+#: dist/blocks.js:67593
+msgid "Update Dynamic Content"
+msgstr ""
+
+#: dist/blocks.js:66409
+msgid "Fallback Link"
+msgstr ""
+
+#: dist/blocks.js:66401
+msgid "After link"
+msgstr ""
+
+#: dist/blocks.js:66393
+msgid "Before link"
+msgstr ""
+
+#: dist/blocks.js:66244
+msgid "Enable Dynamic Link"
+msgstr ""
+
+#: dist/blocks.js:65839
+msgid "Dynamic Image"
+msgstr "Imagine dinamica"
+
+#: dist/blocks.js:65580
+msgid "Enable Dynamic Image"
+msgstr ""
+
+#: dist/blocks.js:65128
+msgid "Dynamic Gallery"
+msgstr "Galleria dinamica"
+
+#: dist/blocks.js:65034
+msgid "Images Size"
+msgstr ""
+
+#: dist/blocks.js:64963
+msgid "Gallery Source"
+msgstr ""
+
+#: dist/blocks.js:64932
+msgid "Gallery"
+msgstr "Galleria"
+
+#: dist/blocks.js:64879
+msgid "Enable Dynamic Gallery"
+msgstr ""
+
+#: dist/blocks.js:64383
+msgid "Enable Dynamic Content"
+msgstr ""
+
+#: dist/blocks.js:64109
+msgid "Fallback URL"
+msgstr ""
+
+#: dist/blocks.js:64101
+msgid "After URL"
+msgstr ""
+
+#: dist/blocks.js:64093
+msgid "Before URL"
+msgstr ""
+
+#: dist/blocks.js:64051 dist/blocks.js:66324
+msgid "Link Source"
+msgstr ""
+
+#: dist/blocks.js:63964
+msgid "Enable Dynamic URL"
+msgstr ""
+
+#: dist/blocks.js:63551 dist/blocks.js:65744
+msgid "Fallback Image URL"
+msgstr ""
+
+#: dist/blocks.js:63543
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: dist/blocks.js:63540
+msgid "Medium"
+msgstr "Medium"
+
+#: dist/blocks.js:63537
+msgid "Medium Large"
+msgstr "Larghezza media"
+
+#: dist/blocks.js:63534
+msgid "Large"
+msgstr "Grande"
+
+#: dist/blocks.js:63531
+msgid "Full"
+msgstr "Completo"
+
+#: dist/blocks.js:63527 dist/blocks.js:65735
+msgid "Image Size"
+msgstr "Dimensioni dell'immagine"
+
+#: dist/blocks.js:63468
+msgid "*Using Previewing Post"
+msgstr ""
+
+#: dist/blocks.js:63456 dist/blocks.js:65664
+msgid "Image Source"
+msgstr ""
+
+#: dist/blocks.js:63425
+msgid "Background Image"
+msgstr "Immagine dello sfondo"
+
+#: dist/blocks.js:63372
+msgid "Enable Dynamic Background Image"
+msgstr ""
+
+#: dist/blocks.js:63113
+msgid "Show Block if"
+msgstr ""
+
+#: dist/blocks.js:63085 dist/blocks.js:67578
+msgid "Repeater Sub Field Key"
+msgstr ""
+
+#: dist/blocks.js:63044 dist/blocks.js:63460 dist/blocks.js:64055
+#: dist/blocks.js:64432 dist/blocks.js:66328
+msgid "Current Post"
+msgstr ""
+
+#: dist/blocks.js:63040
+msgid "Conditional Source"
+msgstr ""
+
+#: dist/blocks.js:63011
+msgid "Conditional"
+msgstr ""
+
+#: dist/blocks.js:63000
+msgid "Enable Conditional Display"
+msgstr ""
+
+#: dist/blocks.js:62986
+msgid "Conditional Type"
+msgstr ""
+
+#: dist/blocks.js:62959
+msgid "False"
+msgstr "Falso"
+
+#: dist/blocks.js:62956
+msgid "True"
+msgstr "Vero"
+
+#: dist/blocks.js:62696 dist/blocks.js:62698 dist/blocks.js:62997
+msgid "Conditional Display"
+msgstr ""
+
+#: dist/blocks.js:62689
+msgid "Conditional Display Defaults"
+msgstr ""
+
+#: dist/blocks.js:62500
+msgid "Default Animation Settings"
+msgstr ""
+
+#: dist/blocks.js:62497 dist/blocks.js:62722
+msgid "No Users"
+msgstr "Nessun utente"
+
+#: dist/blocks.js:62494 dist/blocks.js:62719
+msgid "Minimum User Role Admin"
+msgstr "Minimo ruolo utente Amministratore"
+
+#: dist/blocks.js:62491 dist/blocks.js:62716
+msgid "Minimum User Role Editor"
+msgstr "Minimo ruolo utente Editore"
+
+#: dist/blocks.js:62488 dist/blocks.js:62713
+msgid "Minimum User Role Author"
+msgstr "Minimo ruolo utente Autore"
+
+#: dist/blocks.js:62485 dist/blocks.js:62710
+msgid "Minimum User Role Contributor"
+msgstr "Minimo ruolo utente Collaboratore"
+
+#: dist/blocks.js:62482 dist/blocks.js:62707
+msgid "All Users"
+msgstr "Tutti gli utenti"
+
+#: dist/blocks.js:62470 dist/blocks.js:62472
+msgid "Animate On Scroll"
+msgstr ""
+
+#: dist/blocks.js:62463
+msgid "Animate On Scroll Defaults"
+msgstr ""
+
+#: dist/blocks.js:62261
+msgid "Play Animation"
+msgstr ""
+
+#: dist/blocks.js:62250
+msgid "Offset Delay for each part"
+msgstr ""
+
+#: dist/blocks.js:62240 dist/blocks.js:62524
+msgid "Pixel offset for when animation triggers"
+msgstr ""
+
+#: dist/blocks.js:62224 dist/blocks.js:62520
+msgid "Only show once per page load?"
+msgstr ""
+
+#: dist/blocks.js:62214 dist/blocks.js:62513
+msgid "Start Delay"
+msgstr ""
+
+#: dist/blocks.js:62207 dist/blocks.js:62508
+msgid "Animation Ease"
+msgstr ""
+
+#: dist/blocks.js:62197 dist/blocks.js:62501
+msgid "Animation Duration"
+msgstr "Durata animazione"
+
+#: dist/blocks.js:62190
+msgid "Animation"
+msgstr "Animazione"
+
+#: dist/blocks.js:62187
+msgid "Animate on Scroll"
+msgstr ""
+
+#: dist/blocks.js:62127
+msgid "Slide Center Out"
+msgstr ""
+
+#: dist/blocks.js:62124
+msgid "Slide Opposite Sides In"
+msgstr ""
+
+#: dist/blocks.js:62121
+msgid "Fade Center Out"
+msgstr ""
+
+#: dist/blocks.js:62118
+msgid "Fade Opposite Sides In"
+msgstr ""
+
+#: dist/blocks.js:62114
+msgid "Cover Swipes Right"
+msgstr ""
+
+#: dist/blocks.js:62111
+msgid "Cover Swipes Left"
+msgstr ""
+
+#: dist/blocks.js:62108
+msgid "Cover Swipes Down"
+msgstr ""
+
+#: dist/blocks.js:62105
+msgid "Cover Swipes Up"
+msgstr ""
+
+#: dist/blocks.js:62101
+msgid "Slide Reveal Right"
+msgstr ""
+
+#: dist/blocks.js:62098
+msgid "Slide Reveal Left"
+msgstr ""
+
+#: dist/blocks.js:62095
+msgid "Slide Reveal Down"
+msgstr ""
+
+#: dist/blocks.js:62092
+msgid "Slide Reveal Up"
+msgstr ""
+
+#: dist/blocks.js:62088
+msgid "Zoom Out Right"
+msgstr ""
+
+#: dist/blocks.js:62085
+msgid "Zoom Out Left"
+msgstr ""
+
+#: dist/blocks.js:62082
+msgid "Zoom Out Down"
+msgstr ""
+
+#: dist/blocks.js:62079
+msgid "Zoom Out Up"
+msgstr ""
+
+#: dist/blocks.js:62073
+msgid "Zoom In Right"
+msgstr ""
+
+#: dist/blocks.js:62070
+msgid "Zoom In Left"
+msgstr ""
+
+#: dist/blocks.js:62067
+msgid "Zoom In Down"
+msgstr ""
+
+#: dist/blocks.js:62064
+msgid "Zoom In Up"
+msgstr ""
+
+#: dist/blocks.js:62046
+msgid "Flip Right"
+msgstr ""
+
+#: dist/blocks.js:62043
+msgid "Flip Left"
+msgstr ""
+
+#: dist/blocks.js:62040
+msgid "Flip Down"
+msgstr ""
+
+#: dist/blocks.js:62037
+msgid "Flip Up"
+msgstr ""
+
+#: dist/blocks.js:62034
+msgid "Fade Down Left"
+msgstr ""
+
+#: dist/blocks.js:62031
+msgid "Fade Down Right"
+msgstr ""
+
+#: dist/blocks.js:62028
+msgid "Fade Up Left"
+msgstr ""
+
+#: dist/blocks.js:62025
+msgid "Fade Up Right"
+msgstr ""
+
+#: dist/blocks.js:62016
+msgid "Fade Down"
+msgstr "Dissolvenza"
+
+#: dist/blocks.js:62013
+msgid "Fade Up"
+msgstr "Assolvenza"
+
+#: dist/blocks.js:62010
+msgid "Fade"
+msgstr "Dissolvi"
+
+#: dist/blocks.js:61748 dist/blocks.js:61883
+msgid "this field if..."
+msgstr ""
+
+#: dist/blocks.js:61740 dist/blocks.js:61875
+msgid "Action"
+msgstr ""
+
+#: dist/blocks.js:61729 dist/blocks.js:61864
+msgid "Combine Logic"
+msgstr ""
+
+#: dist/blocks.js:61719 dist/blocks.js:61854
+msgid "Enable Conditional Field"
+msgstr ""
+
+#: dist/blocks.js:61715 dist/blocks.js:61850
+msgid "Conditional Field"
+msgstr ""
+
+#: dist/blocks.js:61669 dist/blocks.js:61805
+msgid "Show"
+msgstr ""
+
+#: dist/blocks.js:61662 dist/blocks.js:61798
+msgid "And"
+msgstr ""
+
+#: dist/blocks.js:61659 dist/blocks.js:61795
+msgid "Or"
+msgstr ""
+
+#: dist/blocks.js:27276
+msgid "Search for Tag"
+msgstr ""
+
+#: dist/blocks.js:27165
+msgid "No list found."
+msgstr ""
+
+#: dist/blocks.js:27149
+msgid "API Key (v3)"
+msgstr "API Key (v3)"
+
+#: dist/blocks.js:27146
+msgid "Get API Key"
+msgstr ""
+
+#: dist/blocks.js:27142
+msgid "Brevo (SendInBlue) Settings"
+msgstr ""
+
+#: dist/blocks.js:26833
+msgid "No Groups found."
+msgstr "Nessun gruppo trovato."
+
+#: dist/blocks.js:26833 dist/blocks.js:26835
+msgid "Select Groups"
+msgstr "Seleziona i gruppi"
+
+#: dist/blocks.js:26812
+msgid "No Audience found."
+msgstr ""
+
+#: dist/blocks.js:26812 dist/blocks.js:26814
+msgid "Select Audience"
+msgstr ""
+
+#: dist/blocks.js:26810 dist/blocks.js:27163
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: dist/blocks.js:26807 dist/blocks.js:27160
+msgid "Save"
+msgstr "Salva"
+
+#: dist/blocks.js:26807 dist/blocks.js:27160
+msgid "Saving"
+msgstr "Salvando"
+
+#: dist/blocks.js:26791
+msgid "MailChimp Settings"
+msgstr ""
+
+#: dist/blocks.js:26429
+msgid "Webhook Field Name"
+msgstr "Nome del campo Webhook"
+
+#: dist/blocks.js:26411
+msgid "Enter the URL that will receive the form submitted data."
+msgstr "Inserisci l'URL che riceverà dati del modulo inviato."
+
+#: dist/blocks.js:26410
+msgid "Webhook URL"
+msgstr "URL Webhook"
+
+#: dist/blocks.js:26407
+msgid "Webhook Settings"
+msgstr "Impostazaioni Webhook"
+
+#: dist/blocks.js:26386
+msgid "Saves the entrants device with form data"
+msgstr "Salva i dispositivi immessi insieme ai dati del modulo"
+
+#: dist/blocks.js:26385
+msgid "Save User Device"
+msgstr "Salva dispositivo utente"
+
+#: dist/blocks.js:26379
+msgid "Saves the entrants IP address with the form data"
+msgstr "Salva gli indirizzi IP immessi insieme ai dati del modulo"
+
+#: dist/blocks.js:26378
+msgid "Save User IP Address"
+msgstr "Salva l'indirizzo IP dell'utente"
+
+#: dist/blocks.js:26369
+msgid "Entry Settings"
+msgstr ""
+
+#: dist/blocks.js:26363
+msgid "By default email is sent to the email field, you can use this to override."
+msgstr "Come predefinito l'email viene spedita usando il campo emai, puoi utilizzare questo per sovrascrivere."
+
+#: dist/blocks.js:26362
+msgid "Override Email to Address"
+msgstr "Sovrascrivi invio all'indirizzo email"
+
+#: dist/blocks.js:26356
+msgid "If off plain text is used."
+msgstr "Se disattivato viene utilizzato testo semplice."
+
+#: dist/blocks.js:26355
+msgid "Send as HTML email?"
+msgstr "Inviare come email HTML?"
+
+#: dist/blocks.js:26349
+msgid "Bcc"
+msgstr "Ccc"
+
+#: dist/blocks.js:26343
+msgid "Cc"
+msgstr "Cc"
+
+#: dist/blocks.js:26337
+msgid "Reply To"
+msgstr "Rispondi a"
+
+#: dist/blocks.js:26331
+msgid "From Name"
+msgstr "Nome Mittente"
+
+#: dist/blocks.js:26325
+msgid "From Email"
+msgstr "Email Mittente"
+
+#: dist/blocks.js:26318
+msgid "Email Message"
+msgstr "Messaggio email"
+
+#: dist/blocks.js:26311
+msgid "Email Subject"
+msgstr "Oggetto Email"
+
+#: dist/blocks.js:26308
+msgid "Auto Response Settings"
+msgstr ""
+
+#: dist/blocks.js:26109
+msgid "Add subscriber to Active Campaign"
+msgstr ""
+
+#: dist/blocks.js:26108
+msgid "Active Campaign"
+msgstr ""
+
+#: dist/blocks.js:26104
+msgid "Send form information to any third party webhook"
+msgstr "Inviare le informazioni del modulo a qualsiasi webhook di terze parti"
+
+#: dist/blocks.js:26103
+msgid "WebHook"
+msgstr ""
+
+#: dist/blocks.js:26099
+msgid "Add User to MailChimp list"
+msgstr ""
+
+#: dist/blocks.js:26098
+msgid "MailChimp"
+msgstr ""
+
+#: dist/blocks.js:26094
+msgid "Add User to Brevo list"
+msgstr ""
+
+#: dist/blocks.js:26093
+msgid "Brevo (SendInBlue)"
+msgstr ""
+
+#: dist/blocks.js:26089
+msgid "Add user to FluentCRM list"
+msgstr ""
+
+#: dist/blocks.js:26088
+msgid "FluentCRM"
+msgstr "FluentCRM"
+
+#: dist/blocks.js:26084
+msgid "Add User to MailerLite list"
+msgstr "Aggiungi l'utente alla lista MailerLite"
+
+#: dist/blocks.js:26083
+msgid "Mailerlite"
+msgstr "Mailerlite"
+
+#: dist/blocks.js:26079
+msgid "Log each form submission"
+msgstr "Registra ogni modulo inviato"
+
+#: dist/blocks.js:26078
+msgid "Database Entry"
+msgstr ""
+
+#: dist/blocks.js:26074
+msgid "Send instant response to form entrant"
+msgstr "Invia una risposta immediata al mittente del modulo"
+
+#: dist/blocks.js:26073
+msgid "Auto Respond Email"
+msgstr ""
+
+#: dist/blocks.js:26068
+msgid "Redirect"
+msgstr "Reindirizza"
+
+#: dist/blocks.js:25990
+msgid "This will set the status of the contact to unconfirmed, you must setup an automation in ActiveCampaign to email the contact and update the status after confirmation."
+msgstr ""
+
+#: dist/blocks.js:25989 dist/blocks.js:26888
+msgid "Require Double Opt In?"
+msgstr "Richiede un doppio opt-in?"
+
+#: dist/blocks.js:25974 dist/blocks.js:26426 dist/blocks.js:26877
+#: dist/blocks.js:27195
+msgid "Form Field"
+msgstr "Campo modulo"
+
+#: dist/blocks.js:25964 dist/blocks.js:26867 dist/blocks.js:27185
+msgid "No Fields found."
+msgstr "Nessun campo trovato."
+
+#: dist/blocks.js:25964 dist/blocks.js:25966 dist/blocks.js:26418
+#: dist/blocks.js:26867 dist/blocks.js:26869 dist/blocks.js:27185
+#: dist/blocks.js:27187
+msgid "Map Fields"
+msgstr "Campi mappa"
+
+#: dist/blocks.js:25933 dist/blocks.js:26850
+msgid "No Tags found."
+msgstr "Nessun tag trovato."
+
+#: dist/blocks.js:25933 dist/blocks.js:25939 dist/blocks.js:26850
+#: dist/blocks.js:26852
+msgid "Select Tags"
+msgstr "Seleziona i tag"
+
+#: dist/blocks.js:25910
+msgid "No Lists found."
+msgstr "Nessun elenco trovato."
+
+#: dist/blocks.js:25910 dist/blocks.js:25914 dist/blocks.js:27165
+#: dist/blocks.js:27167
+msgid "Select List"
+msgstr "Seleziona l'elenco"
+
+#: dist/blocks.js:25902
+msgid "API URL"
+msgstr "URL API"
+
+#: dist/blocks.js:25897 dist/blocks.js:26796
+msgid "API Key"
+msgstr "Chiave API"
+
+#: dist/blocks.js:25896 dist/blocks.js:26795 dist/blocks.js:27148
+msgid "Get help"
+msgstr "Ottieni aiuto"
+
+#: dist/blocks.js:25892
+msgid "ActiveCampaign Settings"
+msgstr "Impostazioni ActiveCampaign"
+
+#: dist/blocks.js:25735 dist/blocks.js:25772 dist/blocks.js:25805
+msgid "Phone"
+msgstr "Telefono"
+
+#: dist/blocks.js:25723 dist/blocks.js:25760 dist/blocks.js:25793
+msgid "Email *"
+msgstr ""
+
+#: dist/blocks.js:25487
+msgid "Redirect (Pro addon)"
+msgstr "Reindirizza (Pro add-on)"
+
+#: dist/blocks.js:25483
+msgid "Replace with Content (Pro addon)"
+msgstr "Sostituisci con il contenuto (Pro add-on)"
+
+#: dist/blocks.js:25479
+msgid "Hide (Pro addon)"
+msgstr "Nascondi (Pro add-on)"
+
+#: dist/blocks.js:25475
+msgid "Show Timer at Zero"
+msgstr "Mostra il timer a zero"
+
+#: dist/blocks.js:25463
+msgid "Evergreen (Pro addon)"
+msgstr "Evergreen (Pro add-on)"
+
+#: dist/blocks.js:25459
+msgid "Date"
+msgstr "Data"
+
+#: dist/blocks-videopopup.js:4365
+msgid "Hover Box Shadow"
+msgstr "Ombra del riquadro al passaggio del mouse"
+
+#: dist/blocks-videopopup.js:4345
+msgid "Shadow"
+msgstr ""
+
+#: dist/blocks-videopopup.js:4247
+msgid "Right Bottom"
+msgstr "Destra in basso"
+
+#: dist/blocks-videopopup.js:4244
+msgid "Right Center"
+msgstr "Destra al centro"
+
+#: dist/blocks-videopopup.js:4241
+msgid "Right Top"
+msgstr "Destra in alto"
+
+#: dist/blocks-videopopup.js:4238
+msgid "Left Bottom"
+msgstr "In basso a sinistra"
+
+#: dist/blocks-videopopup.js:4235
+msgid "Left Center"
+msgstr "Centrato a sinistra"
+
+#: dist/blocks-videopopup.js:4232
+msgid "Left Top"
+msgstr "In alto a sinistra"
+
+#: dist/blocks-videopopup.js:4229
+msgid "Center Bottom"
+msgstr "Centrato in basso"
+
+#: dist/blocks-videopopup.js:4226
+msgid "Center Center"
+msgstr "Centrato in mezzo"
+
+#: dist/blocks-videopopup.js:4223
+msgid "Center Top"
+msgstr "Centrato in alto"
+
+#: dist/blocks-videopopup.js:4219
+msgid "Gradient Position"
+msgstr "Gradiente - Posizione"
+
+#: dist/blocks-videopopup.js:4211
+msgid "Gradient Angle"
+msgstr "Gradiente - Angolazione"
+
+#: dist/blocks-videopopup.js:4195 dist/blocks-videopopup.js:4197
+msgid "Gradient Type"
+msgstr "Gradiente - Tipo"
+
+#: dist/blocks-videopopup.js:4173
+msgid "Gradient Color 2"
+msgstr "Sfumatura Colore 2"
+
+#: dist/blocks-videopopup.js:4165 dist/blocks-videopopup.js:4184
+msgid "Location"
+msgstr "Posizione"
+
+#: dist/blocks-videopopup.js:4154
+msgid "Gradient Color 1"
+msgstr "Sfumatura Colore 1"
+
+#: dist/blocks-videopopup.js:4141
+msgid "Overlay Fill"
+msgstr ""
+
+#: dist/blocks-videopopup.js:4123 dist/blocks-videopopup.js:4125
+msgid "Overlay Type"
+msgstr "Tipo di sovrimpressione"
+
+#: dist/blocks-videopopup.js:4094
+msgid "Hover Opacity"
+msgstr ""
+
+#: dist/blocks-videopopup.js:4072
+msgid "Image Overlay Settings"
+msgstr ""
+
+#: dist/blocks-videopopup.js:4064
+msgid "Title for Icon"
+msgstr ""
+
+#: dist/blocks-videopopup.js:4053
+msgid "Padding (px)"
+msgstr "Spaziatura interna (px)"
+
+#: dist/blocks-videopopup.js:4045
+msgid "Individual"
+msgstr "Individuale"
+
+#: dist/blocks-videopopup.js:4041
+msgid "Linked"
+msgstr "Collegato"
+
+#: dist/blocks-videopopup.js:4029
+msgid "Border Radius (%)"
+msgstr "Raggio del bordo (%)"
+
+#: dist/blocks-videopopup.js:4018
+msgid "Border Width"
+msgstr "Bordo - Larghezza"
+
+#: dist/blocks-videopopup.js:4003
+msgid "Icon Border Color"
+msgstr "Colore bordo icona"
+
+#: dist/blocks-videopopup.js:3992
+msgid "Icon Background"
+msgstr "Sfondo dell'Icona"
+
+#: dist/blocks-videopopup.js:3968
+msgid "Icon Hover Border Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3957
+msgid "Icon Hover Background"
+msgstr "Sfondo dell'icona al passaggio del mouse"
+
+#: dist/blocks-videopopup.js:3946
+msgid "Icon Hover Color"
+msgstr "Colore dell'icona al passaggio del mouse"
+
+#: dist/blocks-videopopup.js:3919
+msgid "Line Width"
+msgstr "Spessore linea"
+
+#: dist/blocks-videopopup.js:3910
+msgid "Icon Size"
+msgstr "Dimensioni dell'Icona"
+
+#: dist/blocks-videopopup.js:3883
+msgid "Play Icon"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3877
+msgid "3d Unfold"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3874 dist/blocks.js:62019
+msgid "Fade Left"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3871 dist/blocks.js:62022
+msgid "Fade Right"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3858
+msgid "Pop Animation"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3851
+msgid "Popup Close Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3844
+msgid "Popup Close Background Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3833
+msgid "Popup Background Color"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3804
+msgid "Inherit from Image"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3782
+msgid "Poster Ratio"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3771
+msgid "Poster Background"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3764
+msgid "Poster Image File Size"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3748
+msgid "Video Poster"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3741
+msgid "Aria Label"
+msgstr "Etichetta Aria"
+
+#: dist/blocks-videopopup.js:3709
+msgid "Edit Video URL"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3681 dist/blocks-videopopup.js:3727
+msgid "Apply"
+msgstr "Applica"
+
+#: dist/blocks-videopopup.js:3674 dist/blocks-videopopup.js:3720
+#: dist/blocks.js:64020
+msgid "URL"
+msgstr "URL"
+
+#: dist/blocks-videopopup.js:3663
+msgid "Insert from URL"
+msgstr "Inserisci dall'URL"
+
+#: dist/blocks-videopopup.js:3655
+msgid "Select Video"
+msgstr "Seleziona video"
+
+#: dist/blocks-videopopup.js:3621
+msgid "Video URL"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3614
+msgid "Self Hosted"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3611
+msgid "YouTube/Vimeo/VideoPress"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3607
+msgid "Video Type"
+msgstr ""
+
+#: dist/blocks-videopopup.js:3591 dist/blocks-videopopup.js:3696
+msgid "Edit Video"
+msgstr "Modifica video"
+
+#: dist/blocks-videopopup.js:3261
+msgid "Radial"
+msgstr "Radiale"
+
+#: dist/blocks-videopopup.js:3258
+msgid "Linear"
+msgstr "Lineare"
+
+#: dist/blocks-videopopup.js:3254
+msgid "Gradient"
+msgstr "Gradiente"
+
+#: dist/blocks-videopopup.js:3251
+msgid "Solid"
+msgstr "Solido"
+
+#: dist/blocks-userinfo.js:2503
+msgid "Registered Date Color"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2499
+msgid "Registered Styles"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2383
+msgid "Name Color"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2379
+msgid "Name Styles"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2370
+msgid "Avatar Gap with Content"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2301
+msgid "Avatar Width"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2297
+msgid "Avatar Styles"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2213
+msgid "Container Background"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2193
+msgid "Before Registered Date Text"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2187
+msgid "Enable Registered Date"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2184
+msgid "Change Heading Level"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2182
+msgid "Name HTML Tag"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2173
+msgid "Before Name Text"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2167
+msgid "Enable Name"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2161
+msgid "Enable Avatar"
+msgstr ""
+
+#: dist/blocks-userinfo.js:2043
+msgid "Paragraph"
+msgstr "Paragrafo"
+
+#: dist/blocks-userinfo.js:2033
+msgid "Heading 6"
+msgstr "Titolo 6"
+
+#: dist/blocks-userinfo.js:2023
+msgid "Heading 5"
+msgstr "Titolo 5"
+
+#: dist/blocks-userinfo.js:2013
+msgid "Heading 4"
+msgstr "Titolo 4"
+
+#: dist/blocks-userinfo.js:2003
+msgid "Heading 3"
+msgstr "Titolo 3"
+
+#: dist/blocks-userinfo.js:1993
+msgid "Heading 2"
+msgstr "Titolo 2"
+
+#: dist/blocks-userinfo.js:1983
+msgid "Heading 1"
+msgstr "Titolo 1"
+
+#: dist/blocks-userinfo.js:1677
+msgid "Display a information about the current user."
+msgstr ""
+
+#: dist/blocks-userinfo.js:1675
+msgid "information"
+msgstr ""
+
+#: dist/blocks-userinfo.js:1675
+msgid "user info"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4527
+msgid "Media area"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4425
+msgid "Shadow Horizontal Offset"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4416
+msgid "Shadow Vertical Offset"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4407
+msgid "Shadow Spread"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4398
+msgid "Shadow Blur"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4387
+msgid "Shadow Color"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4377
+msgid "Content Shadow"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4354
+msgid "Content Max Width"
+msgstr "Larghezza massima del contenuto"
+
+#: dist/blocks-splitcontent.js:4318
+msgid "Content Style Settings"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4311
+msgid "Content Area Background Color"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4304
+msgid "Media Area Background Color"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4261
+msgid "Media Link"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4252
+msgid "Contain"
+msgstr "Adatta"
+
+#: dist/blocks-splitcontent.js:4249
+msgid "Auto"
+msgstr "Auto"
+
+#: dist/blocks-splitcontent.js:4245
+msgid "Media Size Control"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4232
+msgid "Media Side"
+msgstr ""
+
+#: dist/blocks-splitcontent.js:4162
+msgid "Minimum Height"
+msgstr "Altezza minima"
+
+#: dist/blocks-splitcontent.js:4135
+msgid "Edit Media"
+msgstr "Modifica Media"
+
+#: dist/blocks-splitcontent.js:1676
+msgid "Split"
+msgstr ""
+
+#: dist/blocks-slider.js:5090
+msgid "Inner Max Width"
+msgstr ""
+
+#: dist/blocks-slider.js:5068
+msgid "Min Height"
+msgstr "Altezza minima"
+
+#: dist/blocks-slider.js:4815
+msgid "Add Slide"
+msgstr ""
+
+#: dist/blocks-slider.js:4525
+msgid "Slide Text"
+msgstr ""
+
+#: dist/blocks-slider.js:4503
+msgid "Advanced Slider"
+msgstr ""
+
+#: dist/blocks-slide.js:4979
+msgid "Vertical Alignment"
+msgstr "Allineamento verticale"
+
+#: dist/blocks-slide.js:4960
+msgid "Notice: Blend Mode not supported in all browsers"
+msgstr "Avviso: La modalità di fusione non è supportata in tutti i navigatori"
+
+#: dist/blocks-slide.js:4955 dist/blocks-videopopup.js:4296
+msgid "Luminosity"
+msgstr "Luminosità"
+
+#: dist/blocks-slide.js:4949 dist/blocks-videopopup.js:4290
+msgid "Saturation"
+msgstr "Saturazione"
+
+#: dist/blocks-slide.js:4946 dist/blocks-videopopup.js:4287
+msgid "Hue"
+msgstr "Tinta"
+
+#: dist/blocks-slide.js:4943 dist/blocks-videopopup.js:4284
+msgid "Exclusion"
+msgstr "Esclusione"
+
+#: dist/blocks-slide.js:4940 dist/blocks-videopopup.js:4281
+msgid "Difference"
+msgstr "Differenza"
+
+#: dist/blocks-slide.js:4937 dist/blocks-videopopup.js:4278
+msgid "Color Burn"
+msgstr "Brucia il colore"
+
+#: dist/blocks-slide.js:4934 dist/blocks-videopopup.js:4275
+msgid "Color Dodge"
+msgstr "Scherma il colore"
+
+#: dist/blocks-slide.js:4931 dist/blocks-videopopup.js:4272
+msgid "Lighten"
+msgstr "Schiarire"
+
+#: dist/blocks-slide.js:4928 dist/blocks-videopopup.js:4269
+msgid "Darken"
+msgstr "Scurire"
+
+#: dist/blocks-slide.js:4922 dist/blocks-videopopup.js:4263
+msgid "Screen"
+msgstr "Schermo"
+
+#: dist/blocks-slide.js:4919 dist/blocks-videopopup.js:4260
+msgid "Multiply"
+msgstr "Moltiplicare"
+
+#: dist/blocks-slide.js:4877
+msgid "Background Overlay"
+msgstr "Sovrapposizione - Sfondo"
+
+#: dist/blocks-repeatertemplate.js:350
+msgid "No data found for this repeater and source."
+msgstr ""
+
+#: dist/blocks-repeatertemplate.js:71
+msgid "Repeater Layout"
+msgstr ""
+
+#: dist/blocks-repeater.js:2610
+msgid "Title & Excerpt"
+msgstr ""
+
+#: dist/blocks-repeater.js:2526
+msgid "Create a new repeater field."
+msgstr ""
+
+#: dist/blocks-repeater.js:2517
+msgid "If you don't see a field in the list, you may not have any repeaters set up."
+msgstr ""
+
+#: dist/blocks-repeater.js:2442
+msgid "Get started by choosing a source (the page or post the repater data is on) and repeater field below."
+msgstr ""
+
+#: dist/blocks-repeater.js:2442
+msgid " dynamically displays repeatable custom fields like ACF repeater fields"
+msgstr ""
+
+#: dist/blocks-repeater.js:2442
+msgid "The Repeater Block"
+msgstr ""
+
+#: dist/blocks-repeater.js:2347
+msgid "Skip"
+msgstr "Salta"
+
+#: dist/blocks-repeater.js:2330
+msgid "Block variations"
+msgstr ""
+
+#: dist/blocks-repeater.js:2327
+msgid "Use any block for static content."
+msgstr ""
+
+#: dist/blocks-repeater.js:2327
+msgid "Tip: Use blocks that support Kadence Dynamic Content to display repeater content."
+msgstr ""
+
+#: dist/blocks-repeater.js:2323
+msgid "Choose a starter template below or skip to build your own."
+msgstr ""
+
+#: dist/blocks-repeater.js:2323
+msgid "Next, build a template with blocks to display the content."
+msgstr ""
+
+#: dist/blocks-repeater.js:2128 dist/blocks-repeater.js:2470
+msgid "(Template Mode) Select Preview Source"
+msgstr ""
+
+#: dist/blocks-repeater.js:2044
+msgid "The <aside> element should represent a portion of a document whose content is only indirectly related to the document's main content."
+msgstr ""
+
+#: dist/blocks-repeater.js:2043
+msgid "The <section> element should represent a standalone portion of the document that can't be better represented by another element."
+msgstr ""
+
+#: dist/blocks-repeater.js:2042
+msgid "The <main> element should be used for the primary content of your document only."
+msgstr ""
+
+#: dist/blocks-repeater.js:1706 dist/blocks-repeatertemplate.js:76
+msgid "ACF"
+msgstr ""
+
+#: dist/blocks-query.js:14775
+msgid "Select Query Loop"
+msgstr ""
+
+#: dist/blocks-query.js:14774
+msgid "Select an existing query loop or create a new one."
+msgstr ""
+
+#: dist/blocks-query.js:14545
+msgid "Add an anchor"
+msgstr ""
+
+#: dist/blocks-query.js:14540
+msgid "HTML anchor"
+msgstr ""
+
+#: dist/blocks-query.js:14454
+msgid "Filter Radio/Checkbox Labels"
+msgstr ""
+
+#: dist/blocks-query.js:14446
+msgid "Filter Labels"
+msgstr ""
+
+#: dist/blocks-query.js:14437
+msgid "Filter Fields"
+msgstr ""
+
+#: dist/blocks-query.js:14428
+msgid "Shrink"
+msgstr ""
+
+#: dist/blocks-query.js:14425 dist/blocks-splitcontent.js:4255
+msgid "Cover"
+msgstr "Copertina"
+
+#: dist/blocks-query.js:14422
+msgid "Flip"
+msgstr "Flip"
+
+#: dist/blocks-query.js:14419
+msgid "Loader"
+msgstr ""
+
+#: dist/blocks-query.js:14412
+msgid "Loading Animation"
+msgstr ""
+
+#: dist/blocks-query.js:14394
+msgid "Compare Multiple Filters With:"
+msgstr ""
+
+#: dist/blocks-query.js:14378
+msgid "%d post selected"
+msgid_plural "%d posts selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/blocks-query.js:14365
+msgid "Select Specific Posts"
+msgstr ""
+
+#: dist/blocks-query.js:14348
+msgid "If the user applies filters, sticky posts will not be sticky."
+msgstr ""
+
+#: dist/blocks-query.js:14338
+msgid "Offset Starting Item"
+msgstr ""
+
+#: dist/blocks-query.js:14278
+msgid "Limit by Taxonomy"
+msgstr ""
+
+#: dist/blocks-query.js:14254
+msgid "Show posts in the same category as the current post."
+msgstr ""
+
+#: dist/blocks-query.js:14244
+msgid "Toggle to use the global query context that is set with the current template, such as an archive or search. Disable to customize the settings independently."
+msgstr ""
+
+#: dist/blocks-query.js:14224
+msgid "Edit Query Loop"
+msgstr ""
+
+#: dist/blocks-query.js:14220
+msgid "Advanced query loops can not be edited within the widgets screen."
+msgstr ""
+
+#: dist/blocks-query.js:14009 dist/blocks-query.js:14095
+#: dist/blocks-query.js:14126
+msgid "Reset filters"
+msgstr ""
+
+#: dist/blocks-query.js:14005 dist/blocks-query.js:14091
+#: dist/blocks-query.js:14120
+msgid "Categories"
+msgstr "Categorie"
+
+#: dist/blocks-query.js:13244
+msgid "Align field right"
+msgstr ""
+
+#: dist/blocks-query.js:13240
+msgid "Align field center"
+msgstr ""
+
+#: dist/blocks-query.js:13236
+msgid "Align field left"
+msgstr ""
+
+#: dist/blocks-query.js:12814
+msgid "Create New"
+msgstr "Crea nuovo"
+
+#: dist/blocks-query.js:12761
+msgid "Woo Templates"
+msgstr ""
+
+#: dist/blocks-query.js:12758
+msgid "Elements"
+msgstr ""
+
+#: dist/blocks-query.js:12755
+msgid "Query Loop Cards"
+msgstr ""
+
+#: dist/blocks-query.js:12722 dist/blocks-query.js:12727
+#: dist/blocks-query.js:12732
+msgid "(no title)"
+msgstr ""
+
+#: dist/blocks-query.js:12627
+msgid "Unknown Card"
+msgstr ""
+
+#: dist/blocks-query.js:12549 dist/blocks-query.js:14264
+msgid "Select Posts Type:"
+msgstr "Seleziona i tipi di contenuto:"
+
+#: dist/blocks-query.js:12539
+msgid "Query Loop"
+msgstr ""
+
+#: dist/blocks-query.js:12538
+msgid "Give your query loop a title (required)"
+msgstr ""
+
+#: dist/blocks-query.js:12526
+msgid "Query"
+msgstr ""
+
+#: dist/blocks-query.js:12485 dist/blocks-query.js:14213
+#: dist/blocks-query.js:14740 dist/blocks-query.js:14744
+#: dist/blocks-query.js:14773
+msgid "Advanced Query Loop"
+msgstr ""
+
+#: dist/blocks-query.js:12476
+msgid "Sidebar Left Single"
+msgstr ""
+
+#: dist/blocks-query.js:12471
+msgid "Sidebar Right"
+msgstr "Barra laterale a destra"
+
+#: dist/blocks-query.js:12466
+msgid "Sidebar Left"
+msgstr "Barra laterale a sinistra"
+
+#: dist/blocks-query.js:12461
+msgid "Advanced Filters"
+msgstr ""
+
+#: dist/blocks-query.js:12456
+msgid "Simple Filters"
+msgstr ""
+
+#: dist/blocks-query.js:12451
+msgid "No Filters"
+msgstr ""
+
+#: dist/blocks-query.js:12384 dist/blocks-query.js:12573
+msgid "Create"
+msgstr "Crea"
+
+#: dist/blocks-query.js:12372 dist/blocks-query.js:12561
+#: dist/blocks-query.js:14236
+msgid "Optionally add an description about your query loop"
+msgstr ""
+
+#: dist/blocks-query.js:12371 dist/blocks-query.js:12560
+#: dist/blocks-query.js:14235
+msgid "Query Loop Description"
+msgstr ""
+
+#: dist/blocks-query.js:12364
+msgid "Give your query loop card a title (required)"
+msgstr ""
+
+#: dist/blocks-query.js:12353
+msgid "Card"
+msgstr "Carta"
+
+#: dist/blocks-query.js:12353 dist/blocks-query.js:12526
+msgid "Blank Query"
+msgstr ""
+
+#: dist/blocks-query.js:12340 dist/blocks-query.js:12513
+msgid "Initial Layout"
+msgstr "Layout iniziale"
+
+#: dist/blocks-query.js:12338 dist/blocks-query.js:12511
+msgid "Select Initial Layout"
+msgstr "Seleziona layout iniziale"
+
+#. translators: 1: current page number 2: total number of pages
+#: dist/blocks-query.js:12329 dist/blocks-query.js:12502
+msgid "Page %1$d of %2$d"
+msgstr "Pagina %1$d di %2$d"
+
+#: dist/blocks-query.js:12312 dist/blocks-query.js:12365
+#: dist/blocks-query.js:12776
+msgid "Query Loop Card"
+msgstr ""
+
+#: dist/blocks-query.js:12300
+msgid "Bio"
+msgstr ""
+
+#: dist/blocks-query.js:12295
+msgid "Blog"
+msgstr ""
+
+#: dist/blocks-query.js:12290
+msgid "Simple"
+msgstr ""
+
+#: dist/blocks-query.js:12280
+msgid "Skip (blank)"
+msgstr "Salta (vuoto)"
+
+#: dist/blocks-query.js:11763
+msgid "After"
+msgstr ""
+
+#: dist/blocks-query.js:11760
+msgid "Before"
+msgstr ""
+
+#: dist/blocks-query.js:11756
+msgid "Label Icon Position"
+msgstr ""
+
+#: dist/blocks-query.js:11742 dist/blocks-query.js:11748
+msgid "Label Icon"
+msgstr ""
+
+#: dist/blocks-query.js:11725
+msgid "The date filter expects a date value."
+msgstr ""
+
+#: dist/blocks-query.js:11725
+msgid "The range filter expects a numeric value."
+msgstr ""
+
+#: dist/blocks-query.js:11707
+msgid "Exclude Terms"
+msgstr ""
+
+#: dist/blocks-query.js:11696
+msgid "On selection"
+msgstr ""
+
+#: dist/blocks-query.js:11693
+msgid "After or on selection"
+msgstr ""
+
+#: dist/blocks-query.js:11690
+msgid "After selection"
+msgstr ""
+
+#: dist/blocks-query.js:11687
+msgid "Before or on selection"
+msgstr ""
+
+#: dist/blocks-query.js:11684
+msgid "Before selection"
+msgstr ""
+
+#: dist/blocks-query.js:11680
+msgid "Display posts"
+msgstr ""
+
+#: dist/blocks-query.js:11672
+msgid "Enter the date format your post title or taxonomy uses. See the MySQL date format documentation for more information."
+msgstr ""
+
+#: dist/blocks-query.js:11671
+msgid "Date format"
+msgstr ""
+
+#: dist/blocks-query.js:11660 dist/blocks-query.js:14397
+msgid "AND"
+msgstr ""
+
+#: dist/blocks-query.js:11657 dist/blocks-query.js:14400
+msgid "OR"
+msgstr ""
+
+#: dist/blocks-query.js:11635
+msgid "Only Include Terms"
+msgstr ""
+
+#: dist/blocks-query.js:11607
+msgid "Select Post Field"
+msgstr ""
+
+#: dist/blocks-query.js:11605
+msgid "Loading variations..."
+msgstr ""
+
+#: dist/blocks-query.js:11599
+msgid "Product Variation"
+msgstr ""
+
+#: dist/blocks-query.js:11598
+msgid "Sale Status"
+msgstr ""
+
+#: dist/blocks-query.js:11596
+msgid "Stock Status"
+msgstr ""
+
+#: dist/blocks-query.js:11585
+msgid "Product Meta"
+msgstr ""
+
+#: dist/blocks-query.js:11576
+msgid "Select WooCommerce Field"
+msgstr ""
+
+#: dist/blocks-query.js:11569
+msgid "Filter Source"
+msgstr ""
+
+#: dist/blocks-query.js:11565
+msgid "Filter Settings"
+msgstr ""
+
+#: dist/blocks-query.js:11537
+msgid "Post Meta"
+msgstr ""
+
+#: dist/blocks-query.js:11516
+msgid "Post author"
+msgstr ""
+
+#: dist/blocks-query.js:11513 dist/blocks-query.js:11527
+msgid "Post title"
+msgstr ""
+
+#: dist/blocks-query.js:11510 dist/blocks-query.js:11524
+msgid "Post modified date"
+msgstr ""
+
+#: dist/blocks-query.js:11507 dist/blocks-query.js:11521
+msgid "Post date"
+msgstr ""
+
+#: dist/blocks-query.js:11504
+msgid "Post type"
+msgstr ""
+
+#: dist/blocks-query.js:11203
+msgid "sort"
+msgstr ""
+
+#: dist/blocks-query.js:11202
+msgid "Query - Sort Results"
+msgstr ""
+
+#: dist/blocks-query.js:11201
+msgid "Sort"
+msgstr ""
+
+#: dist/blocks-query.js:11134
+msgid "Sort results"
+msgstr ""
+
+#: dist/blocks-query.js:10905
+msgid "Desc"
+msgstr ""
+
+#: dist/blocks-query.js:10903
+msgid "Descending Text"
+msgstr ""
+
+#: dist/blocks-query.js:10892
+msgid "Show Descending"
+msgstr ""
+
+#: dist/blocks-query.js:10882
+msgid "Asc"
+msgstr ""
+
+#: dist/blocks-query.js:10880
+msgid "Ascending Text"
+msgstr ""
+
+#: dist/blocks-query.js:10869
+msgid "Show Ascending"
+msgstr ""
+
+#: dist/blocks-query.js:10850
+msgid "Dropdown Settings"
+msgstr ""
+
+#: dist/blocks-query.js:10833
+msgid "Sortable Items"
+msgstr ""
+
+#: dist/blocks-query.js:10598
+msgid "Query - Result Count"
+msgstr ""
+
+#: dist/blocks-query.js:10597
+msgid "Result Count"
+msgstr ""
+
+#: dist/blocks-query.js:10358
+msgid "Thousands Seperator"
+msgstr ""
+
+#: dist/blocks-query.js:10349
+msgid "After Count"
+msgstr ""
+
+#: dist/blocks-query.js:10340
+msgid "Between count"
+msgstr ""
+
+#: dist/blocks-query.js:10331
+msgid "Count through"
+msgstr ""
+
+#: dist/blocks-query.js:10322
+msgid "Before Count"
+msgstr ""
+
+#: dist/blocks-query.js:9136
+msgid "No results placeholder"
+msgstr ""
+
+#: dist/blocks-query.js:9122
+msgid "No results found."
+msgstr ""
+
+#: dist/blocks-query.js:9001
+msgid "Background Type"
+msgstr "Tipo di sfondo"
+
+#: dist/blocks-query.js:8990 dist/blocks.js:61666 dist/blocks.js:61802
+msgid "Hide"
+msgstr "Nascondi"
+
+#: dist/blocks-query.js:8986
+msgid "Show Content"
+msgstr "Mostra contenuto"
+
+#: dist/blocks-query.js:8799
+msgid "Query - Filter Dropdown"
+msgstr ""
+
+#: dist/blocks-query.js:8798
+msgid "Filter - Dropdown"
+msgstr ""
+
+#: dist/blocks-query.js:8609
+msgid "Show the number of results for each term. Count are not accurate in editor"
+msgstr ""
+
+#: dist/blocks-query.js:8596
+msgid "Dropdown Display"
+msgstr ""
+
+#: dist/blocks-query.js:8572
+msgid "Dropdown Order"
+msgstr ""
+
+#: dist/blocks-query.js:8478
+msgid "Term Order"
+msgstr ""
+
+#: dist/blocks-query.js:8473
+msgid "Total Results"
+msgstr ""
+
+#: dist/blocks-query.js:8470
+msgid "Name"
+msgstr "Nome"
+
+#: dist/blocks-query.js:8343
+msgid "swatch"
+msgstr ""
+
+#: dist/blocks-query.js:8342
+msgid "Query - Filter Swatch"
+msgstr ""
+
+#: dist/blocks-query.js:8341
+msgid "Filter - Swatch"
+msgstr ""
+
+#: dist/blocks-query.js:7998
+msgid "Swatch Size"
+msgstr ""
+
+#: dist/blocks-query.js:7994
+msgid "Swatch Style"
+msgstr ""
+
+#: dist/blocks-query.js:7945
+msgid "Swatch Display"
+msgstr ""
+
+#: dist/blocks-query.js:7915
+msgid "Swatch Order"
+msgstr ""
+
+#: dist/blocks-query.js:7872
+msgid "Swatches"
+msgstr ""
+
+#: dist/blocks-query.js:7565
+msgid "search"
+msgstr ""
+
+#: dist/blocks-query.js:7564
+msgid "Query - Filter Search"
+msgstr ""
+
+#: dist/blocks-query.js:7563
+msgid "Filter - Search"
+msgstr ""
+
+#: dist/blocks-query.js:7421 dist/blocks-query.js:11730
+msgid "Show Label"
+msgstr "Mostra etichetta"
+
+#: dist/blocks-query.js:7411 dist/blocks-query.js:11726
+#: dist/blocks-query.js:11736
+msgid "Filter Label"
+msgstr ""
+
+#: dist/blocks-query.js:7403 dist/blocks-query.js:8600
+#: dist/blocks-query.js:10854
+msgid "Placeholder"
+msgstr ""
+
+#: dist/blocks-query.js:7399
+msgid "Display Settings"
+msgstr ""
+
+#: dist/blocks-query.js:6124
+msgid "rating"
+msgstr "valutazione"
+
+#: dist/blocks-query.js:6123
+msgid "Query - Filter Rating"
+msgstr ""
+
+#: dist/blocks-query.js:6122
+msgid "Filter - Rating"
+msgstr ""
+
+#: dist/blocks-query.js:5921
+msgid "Stroke Width"
+msgstr ""
+
+#: dist/blocks-query.js:5914
+msgid "Icon Stroke Color"
+msgstr ""
+
+#: dist/blocks-query.js:5907
+msgid "Icon Selected Color"
+msgstr ""
+
+#: dist/blocks-query.js:5900 dist/blocks-videopopup.js:3981
+msgid "Icon Color"
+msgstr "Colore dell'Icona"
+
+#: dist/blocks-query.js:5896 dist/blocks-videopopup.js:3895
+msgid "Icon Style"
+msgstr "Stile dell'Icona"
+
+#: dist/blocks-query.js:5883
+msgid "Rating Display"
+msgstr ""
+
+#: dist/blocks-query.js:5876
+msgid "List"
+msgstr "Elenco"
+
+#: dist/blocks-query.js:5873
+msgid "Single"
+msgstr ""
+
+#: dist/blocks-query.js:5864
+msgid "After Text"
+msgstr ""
+
+#: dist/blocks-query.js:5852 dist/blocks-query.js:5856
+msgid "Rating Icon"
+msgstr ""
+
+#: dist/blocks-query.js:5624
+msgid "range"
+msgstr ""
+
+#: dist/blocks-query.js:5623
+msgid "Query - Filter Range"
+msgstr ""
+
+#: dist/blocks-query.js:5622
+msgid "Filter - Range"
+msgstr ""
+
+#: dist/blocks-query.js:5531
+msgid "Max"
+msgstr ""
+
+#: dist/blocks-query.js:5521
+msgid "Min"
+msgstr ""
+
+#: dist/blocks-query.js:5393
+msgid "Below"
+msgstr "Sotto"
+
+#: dist/blocks-query.js:5389
+msgid "Slider Values Type"
+msgstr ""
+
+#: dist/blocks-query.js:5383
+msgid "Both"
+msgstr ""
+
+#: dist/blocks-query.js:5380
+msgid "Slider"
+msgstr "Slider"
+
+#: dist/blocks-query.js:5377
+msgid "Fields"
+msgstr "Campi"
+
+#: dist/blocks-query.js:5373 dist/blocks-query.js:5870
+msgid "Display Type"
+msgstr ""
+
+#: dist/blocks-query.js:5143
+msgid "date"
+msgstr ""
+
+#: dist/blocks-query.js:5142
+msgid "Query - Filter Date"
+msgstr ""
+
+#: dist/blocks-query.js:5141
+msgid "Filter - Date"
+msgstr ""
+
+#: dist/blocks-query.js:4789
+msgid "checkbox"
+msgstr ""
+
+#: dist/blocks-query.js:4788
+msgid "Query - Filter Checkbox"
+msgstr ""
+
+#: dist/blocks-query.js:4787
+msgid "Filter - Checkbox"
+msgstr ""
+
+#: dist/blocks-query.js:4620 dist/blocks-query.js:7986
+#: dist/blocks-query.js:8638
+msgid "Show children in hierarchical list"
+msgstr ""
+
+#: dist/blocks-query.js:4619 dist/blocks-query.js:7985
+#: dist/blocks-query.js:8637
+msgid "Hierarchical"
+msgstr ""
+
+#: dist/blocks-query.js:4598 dist/blocks-query.js:7964
+#: dist/blocks-query.js:8616
+msgid "Limit the number of items shown in the dropdown"
+msgstr ""
+
+#: dist/blocks-query.js:4579
+msgid "Checkbox Display"
+msgstr ""
+
+#: dist/blocks-query.js:4549
+msgid "Checkbox Order"
+msgstr ""
+
+#: dist/blocks-query.js:4305
+msgid "pill"
+msgstr ""
+
+#: dist/blocks-query.js:4305
+msgid "button"
+msgstr "pulsante"
+
+#: dist/blocks-query.js:4305 dist/blocks-query.js:4789
+#: dist/blocks-query.js:5143 dist/blocks-query.js:5624
+#: dist/blocks-query.js:6124 dist/blocks-query.js:7565
+#: dist/blocks-query.js:8343 dist/blocks-query.js:8800
+msgid "filter"
+msgstr ""
+
+#: dist/blocks-query.js:4304
+msgid "Query - Filter Buttons"
+msgstr ""
+
+#: dist/blocks-query.js:4303
+msgid "Filter - Buttons"
+msgstr ""
+
+#. translators: %d: the number of fields that share the same value
+#: dist/blocks-query.js:4183 dist/blocks-query.js:4687
+#: dist/blocks-query.js:5057 dist/blocks-query.js:5480
+#: dist/blocks-query.js:6025 dist/blocks-query.js:8226
+#: dist/blocks-query.js:8705
+msgid "Conflicts with %d other filter"
+msgid_plural "Conflicts with %d other filters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dist/blocks-query.js:4181 dist/blocks-query.js:4685
+#: dist/blocks-query.js:5055 dist/blocks-query.js:5478
+#: dist/blocks-query.js:6023 dist/blocks-query.js:8224
+#: dist/blocks-query.js:8703
+msgid "Slug must be unique to this query loop or filters will not work properly."
+msgstr ""
+
+#: dist/blocks-query.js:4173 dist/blocks-query.js:4677
+#: dist/blocks-query.js:5047 dist/blocks-query.js:5470
+#: dist/blocks-query.js:6015 dist/blocks-query.js:8216
+#: dist/blocks-query.js:8695
+msgid "Filter URL slug"
+msgstr ""
+
+#: dist/blocks-query.js:4170 dist/blocks-query.js:4674
+#: dist/blocks-query.js:5044 dist/blocks-query.js:5467
+#: dist/blocks-query.js:6012 dist/blocks-query.js:8213
+#: dist/blocks-query.js:8692
+msgid "Filter Slug"
+msgstr ""
+
+#: dist/blocks-query.js:3913 dist/blocks-query.js:4613
+#: dist/blocks-query.js:7979 dist/blocks-query.js:8631
+msgid "Show child terms"
+msgstr ""
+
+#: dist/blocks-query.js:3912 dist/blocks-query.js:4612
+#: dist/blocks-query.js:7978 dist/blocks-query.js:8630
+msgid "Show children"
+msgstr ""
+
+#: dist/blocks-query.js:3904 dist/blocks-query.js:4597
+#: dist/blocks-query.js:4604 dist/blocks-query.js:7963
+#: dist/blocks-query.js:7970 dist/blocks-query.js:8615
+#: dist/blocks-query.js:8622
+msgid "Limit Dropdown Items"
+msgstr ""
+
+#: dist/blocks-query.js:3898
+msgid "Limit the total number of buttons shown."
+msgstr ""
+
+#: dist/blocks-query.js:3897
+msgid "Limit Total Buttons"
+msgstr ""
+
+#: dist/blocks-query.js:3891
+msgid "Add \"All\" Option"
+msgstr ""
+
+#: dist/blocks-query.js:3885 dist/blocks-query.js:4590
+#: dist/blocks-query.js:7956
+msgid "Display inline"
+msgstr ""
+
+#: dist/blocks-query.js:3879 dist/blocks-query.js:4584
+#: dist/blocks-query.js:5888 dist/blocks-query.js:7950
+msgid "Show the number of results for each term. Count are not accurate in editor."
+msgstr ""
+
+#: dist/blocks-query.js:3878 dist/blocks-query.js:4583
+#: dist/blocks-query.js:5887 dist/blocks-query.js:7949
+#: dist/blocks-query.js:8608
+msgid "Show result count"
+msgstr ""
+
+#: dist/blocks-query.js:3874
+msgid "Buttons Display"
+msgstr ""
+
+#: dist/blocks-query.js:3844
+msgid "Buttons Order"
+msgstr ""
+
+#: dist/blocks-query.js:3755 dist/blocks-query.js:3757
+#: dist/blocks-query.js:3759 dist/blocks-query.js:3761
+#: dist/blocks-query.js:4518 dist/blocks-query.js:4520
+#: dist/blocks-query.js:4522 dist/blocks-query.js:4524
+#: dist/blocks-query.js:4526
+msgid "Placeholder %d"
+msgstr ""
+
+#: dist/blocks-query.js:3170
+msgid "The selected query is in the trash."
+msgstr ""
+
+#: dist/blocks-query.js:3164 dist/blocks-query.js:3168
+msgid "Kadence Query Card"
+msgstr ""
+
+#: dist/blocks-query.js:2982 dist/blocks-query.js:14543
+msgid "Learn more about anchors"
+msgstr ""
+
+#: dist/blocks-query.js:2980 dist/blocks-query.js:14541
+msgid "Enter a word or two — without spaces — to make a unique web address just for this block, called an “anchor.” Then, you’ll be able to link directly to this section of your page."
+msgstr ""
+
+#: dist/blocks-query.js:2763
+msgid "Border Styles"
+msgstr "Stile del bordo"
+
+#: dist/blocks-query.js:2748 dist/blocks-slide.js:4881
+msgid "Type"
+msgstr "Tipo"
+
+#: dist/blocks-query.js:2733
+msgid "Hover Type"
+msgstr "Tipo di hover"
+
+#: dist/blocks-query.js:2729 dist/blocks-query.js:8997
+msgid "Background"
+msgstr "Sfondo"
+
+#: dist/blocks-query.js:2686 dist/blocks-query.js:2689
+msgid "Columns"
+msgstr "Colonne"
+
+#: dist/blocks-query.js:2680
+msgid "Preview Post Type"
+msgstr ""
+
+#: dist/blocks-query.js:2674 dist/blocks-query.js:12366
+#: dist/blocks-query.js:12373 dist/blocks-query.js:12540
+#: dist/blocks-query.js:12562 dist/blocks-query.js:14237
+msgid "This is used for your reference only."
+msgstr "Questo viene utlizzato solo per un tuo riferimento."
+
+#: dist/blocks-query.js:2673
+msgid "Optionally add an description about your query card"
+msgstr ""
+
+#: dist/blocks-query.js:2672
+msgid "Query Card Description"
+msgstr ""
+
+#: dist/blocks-query.js:2671
+msgid "Create a new card"
+msgstr ""
+
+#: dist/blocks-query.js:2652 dist/blocks-query.js:2655
+msgid "Selected Card"
+msgstr ""
+
+#: dist/blocks-query.js:2603
+msgid "Using"
+msgstr ""
+
+#: dist/blocks-query.js:2351 dist/blocks-query.js:2583
+msgid "Read more"
+msgstr ""
+
+#: dist/blocks-query.js:1695 dist/blocks-query.js:5143
+#: dist/blocks-query.js:7565 dist/blocks-query.js:8800
+msgid "query"
+msgstr ""
+
+#: dist/blocks-query.js:1695
+msgid "loop"
+msgstr ""
+
+#: dist/blocks-query.js:1694
+msgid "Create advanced query loops."
+msgstr ""
+
+#: dist/blocks-query.js:1693
+msgid "Query Loop (Adv)"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:2287 dist/blocks-query.js:9894
+#: dist/blocks-query.js:10482
+msgid "Padding/Margin"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:2223 dist/blocks-query.js:9830
+#: dist/blocks-query.js:10418
+msgid "Font"
+msgstr "Font"
+
+#: dist/blocks-query-pagination.js:2171 dist/blocks-query.js:9778
+msgid "Spacing"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:2086 dist/blocks-query.js:9693
+msgid "Borders"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:2031 dist/blocks-query.js:9638
+msgid "Colors"
+msgstr "Colori"
+
+#: dist/blocks-query-pagination.js:2023 dist/blocks-query.js:9630
+msgid "Next Icon"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:2015 dist/blocks-query.js:9622
+msgid "Previous Icon"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:2007 dist/blocks-query.js:9614
+msgid "Next Button Text"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1999 dist/blocks-query.js:9606
+msgid "Previous Button Text"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1991 dist/blocks-query.js:9598
+msgid "Icon"
+msgstr "Icona"
+
+#: dist/blocks-query-pagination.js:1988 dist/blocks-query.js:9595
+msgid "Text"
+msgstr "Testo"
+
+#: dist/blocks-query-pagination.js:1984 dist/blocks-query.js:9591
+msgid "Button Type"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1976 dist/blocks-query.js:9583
+msgid "Show Next/Previous Buttons"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1972 dist/blocks-query.js:9579
+msgid "Next & Previous Buttons"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1966 dist/blocks-query.js:9573
+msgid "Don't Scroll"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1963 dist/blocks-query.js:9570
+msgid "Top of Block"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1960 dist/blocks-query.js:9567
+msgid "Top of Cards"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1947 dist/blocks-query.js:9554
+#: dist/blocks-query.js:14385
+msgid "Infinite Scroll"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1938 dist/blocks-query.js:9545
+#: dist/blocks-query.js:14356
+msgid "Results per page"
+msgstr ""
+
+#: dist/blocks-query-pagination.js:1934 dist/blocks-query.js:9541
+msgid "Pages"
+msgstr "Pagine"
+
+#: dist/blocks-productcarousel.js:5419
+msgid "Add to cart"
+msgstr ""
+
+#: dist/blocks-productcarousel.js:4939
+msgid "Unboxed"
+msgstr "Unboxed"
+
+#: dist/blocks-productcarousel.js:4936
+msgid "Boxed"
+msgstr "Boxed"
+
+#: dist/blocks-productcarousel.js:4932
+msgid "Product Style"
+msgstr ""
+
+#: dist/blocks-productcarousel.js:4833 dist/blocks-productcarousel.js:4834
+#: dist/blocks-productcarousel.js:5145 dist/blocks-productcarousel.js:5146
+msgid "Select Products"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7497
+msgid "Show Comment Count (post must have comments)"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7491
+msgid "Show Author Icon"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7484
+msgid "Show Tags"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7482 dist/blocks-postgrid.js:7489
+msgid "Only shows if post type supports Categories"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7477
+msgid "Show Categories"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7465
+msgid "Force to align bottom?"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7461
+msgid "Footer Meta"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7361
+msgid "Read More Border Radius"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7352
+msgid "Read More Border Width"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7346
+msgid "Read More Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7340
+msgid "Show Read More"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7328
+msgid "Max number of words in excerpt"
+msgstr "Numero massimo di parole nel riassunto"
+
+#: dist/blocks-postgrid.js:7322
+msgid "Enable Custom Excerpt Length"
+msgstr "Abilita la lunghezza personalizzata del riassunto"
+
+#: dist/blocks-postgrid.js:7183
+msgid "Meta Typography Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7162 dist/blocks-query.js:10918
+#: dist/blocks-query.js:11835 dist/blocks-slide.js:4952
+#: dist/blocks-videopopup.js:4293
+msgid "Color"
+msgstr "Colore"
+
+#: dist/blocks-postgrid.js:7158
+msgid "Meta Color"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7139 dist/blocks-postgrid.js:7141
+msgid "Meta Divider"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7134
+msgid "Show Comment Count"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7128
+msgid "Category Pre Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7122
+msgid "Show Category"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7115
+msgid "The \"Author Website\" option will only be rendered if the \"Website\" field is filled in your user profile"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7111
+msgid "Author Website (from User Profile)"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7108
+msgid "Author Page"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7106
+msgid "Author Link Destination:"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7100
+msgid "Author Pre Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7094
+msgid "Show Author"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7088
+msgid "Modified Date Pre Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7082
+msgid "Show Modified Date"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7076
+msgid "Date Pre Text"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7070 dist/blocks-postgrid.js:7471
+msgid "Show Date"
+msgstr ""
+
+#: dist/blocks-postgrid.js:7066
+msgid "Below Title Meta"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6966
+msgid "Title Hover Color"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6944
+msgid "Title is a link to post"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6827
+msgid "Taxonomy Divider"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6807
+msgid "Show Taxonomy Above title"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6803
+msgid "Above Title Taxonomy"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6738
+msgid "Categories Typography Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6717
+msgid "Link Color Advanced"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6713
+msgid "Categories Color"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6689
+msgid "Show Categories Above title"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6685
+msgid "Above Title Categories"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6456
+msgid "Align text right"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6452
+msgid "Align text center"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6448
+msgid "Align text left"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6408
+msgid "Display Filter"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6349
+msgid "Footer Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6312
+msgid "Content Settings"
+msgstr "Impostazioni del contenuto"
+
+#: dist/blocks-postgrid.js:6290
+msgid "Header Margin"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6268
+msgid "Header Padding"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6253
+msgid "Header Settings"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6202 dist/blocks-userinfo.js:2258
+#: dist/blocks-videopopup.js:4412
+msgid "Box Shadow"
+msgstr "Ombra del riquadro"
+
+#: dist/blocks-postgrid.js:6141
+msgid "Container Padding"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6097
+msgid "Image Padding"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6084
+msgid "Image is a link to post"
+msgstr ""
+
+#: dist/blocks-postgrid.js:6047
+msgid "Image ratio"
+msgstr "Proporzioni immagine"
+
+#: dist/blocks-postgrid.js:6009
+msgid "Image Settings"
+msgstr "Impostazioni immagine"
+
+#: dist/blocks-postgrid.js:5921
+msgid "Arrow Style"
+msgstr "Stile freccia"
+
+#: dist/blocks-postgrid.js:5893 dist/blocks-productcarousel.js:4981
+msgid "Pause on Hover"
+msgstr ""
+
+#: dist/blocks-postgrid.js:5884 dist/blocks-productcarousel.js:4972
+msgid "Scroll Speed"
+msgstr ""
+
+#: dist/blocks-postgrid.js:5847 dist/blocks-query.js:12273
+msgid "Layout"
+msgstr "Layout"
+
+#: dist/blocks-postgrid.js:5843
+msgid "Layout Settings"
+msgstr "Impostazioni del layout"
+
+#: dist/blocks-postgrid.js:5837 dist/blocks-query.js:14347
+msgid "Allow Sticky Posts?"
+msgstr "Permettere gli articoli in evidenza?"
+
+#: dist/blocks-postgrid.js:5831
+msgid "Exclude posts in this block from showing in others on the same page."
+msgstr "Previene che gli articoli di questo blocco siano visualizzati in altri blocchi della stessa pagina."
+
+#: dist/blocks-postgrid.js:5830
+msgid "Show Unique"
+msgstr "Visualizzazione unica"
+
+#: dist/blocks-postgrid.js:5824
+msgid "Exclude the current post/page from query."
+msgstr ""
+
+#: dist/blocks-postgrid.js:5823
+msgid "Exclude Current"
+msgstr ""
+
+#: dist/blocks-postgrid.js:5804
+msgid "Whether to include or exclude items from selected terms."
+msgstr "Se includere o escludere elementi dai termini selezionati."
+
+#: dist/blocks-postgrid.js:5771 dist/blocks-postgrid.js:5810
+msgid "Exclude"
+msgstr "Escludi"
+
+#: dist/blocks-postgrid.js:5768 dist/blocks-postgrid.js:5807
+msgid "Include"
+msgstr "Includi"
+
+#: dist/blocks-postgrid.js:5503 dist/blocks-postgrid.js:7336
+msgid "Read More"
+msgstr "Leggi tutto"
+
+#: dist/blocks-postgrid.js:4481
+msgid "Display a grid or carousel of posts."
+msgstr ""
+
+#: dist/blocks-postgrid.js:4480 dist/blocks-userinfo.js:1675
+msgid "KB"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6893 dist/blocks-portfoliogrid.js:6927
+msgid "(Untitled)"
+msgstr "(Senza titolo)"
+
+#: dist/blocks-portfoliogrid.js:6852 dist/blocks-productcarousel.js:5148
+msgid "No posts found."
+msgstr "Nessun articolo trovato."
+
+#: dist/blocks-portfoliogrid.js:6678 dist/blocks-postgrid.js:6869
+msgid "Taxonomy Typography Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6664 dist/blocks-postgrid.js:6724
+#: dist/blocks-postgrid.js:6855 dist/blocks-postgrid.js:7176
+msgid "Link Hover Color"
+msgstr "Colore del link al passaggio del mouse"
+
+#: dist/blocks-portfoliogrid.js:6653 dist/blocks-postgrid.js:6844
+msgid "Taxonomy Color"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6636 dist/blocks-postgrid.js:6696
+msgid "Category Divider"
+msgstr "Divisore categorie"
+
+#: dist/blocks-portfoliogrid.js:6613
+msgid "Show Taxonomies"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6609
+msgid "Taxonomies"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6544 dist/blocks-postgrid.js:6620
+msgid "Filter Typography Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6529
+msgid "Filter Border"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6518
+msgid "Filter Background"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6511 dist/blocks-postgrid.js:6587
+msgid "Filter Color"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6498
+msgid "Active Border"
+msgstr "Bordo attivo"
+
+#: dist/blocks-portfoliogrid.js:6487
+msgid "Active Background"
+msgstr "Sfondo attivo"
+
+#: dist/blocks-portfoliogrid.js:6480 dist/blocks-postgrid.js:6556
+msgid "Active Color"
+msgstr "Colore attivo"
+
+#: dist/blocks-portfoliogrid.js:6467
+msgid "Hover Border"
+msgstr "Bordo al Passaggio del mouse"
+
+#: dist/blocks-portfoliogrid.js:6441 dist/blocks-postgrid.js:6517
+#: dist/blocks-query-pagination.js:2044 dist/blocks-query-pagination.js:2099
+#: dist/blocks-query.js:4059 dist/blocks-query.js:9651
+#: dist/blocks-query.js:9706
+msgid "Active"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6425 dist/blocks-postgrid.js:6501
+msgid "Filter Colors"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6414
+msgid "Filter Item Margin"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6403
+msgid "Filter Item Padding"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6395
+msgid "Filter Border Radius"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6384
+msgid "Filter Border Width"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6364
+msgid "Filter All Label"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6349 dist/blocks-postgrid.js:6412
+msgid "Show Filter"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6284
+msgid "Excerpt Typography Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6277
+msgid "Excerpt Color"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6271 dist/blocks-postgrid.js:7252
+msgid "Show Excerpt"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6267 dist/blocks-postgrid.js:7248
+msgid "Excerpt"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6185 dist/blocks-postgrid.js:6989
+msgid "Title Typography Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6172 dist/blocks-postgrid.js:6938
+msgid "Show Title"
+msgstr "Mostra il titolo"
+
+#: dist/blocks-portfoliogrid.js:6156
+msgid "Content Border Offset"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6096
+msgid "Hover Border Offset"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6029 dist/blocks-portfoliogrid.js:6106
+msgid "Content Background"
+msgstr "Sfondo del contenuto"
+
+#: dist/blocks-portfoliogrid.js:6014 dist/blocks-portfoliogrid.js:6370
+#: dist/blocks-postgrid.js:6440 dist/blocks-query.js:13230
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6010
+msgid "Hover & Content Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:6004 dist/blocks.js:62052
+msgid "Slide Down"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:5995 dist/blocks.js:62049
+msgid "Slide Up"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:5982
+msgid "On Hover Content:"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:5973 dist/blocks-portfoliogrid.js:6001
+#: dist/blocks.js:62055
+msgid "Slide Left"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:5970 dist/blocks-portfoliogrid.js:5998
+#: dist/blocks.js:62058
+msgid "Slide Right"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:5953
+msgid "Hover Animation Settings"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:5892
+msgid "Container Pad"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:5885 dist/blocks-query.js:2742
+#: dist/blocks-query.js:2757 dist/blocks-query.js:9014
+#: dist/blocks-slide.js:4905
+msgid "Background Color"
+msgstr "Colore dello sfondo"
+
+#: dist/blocks-portfoliogrid.js:5874 dist/blocks-postgrid.js:5954
+msgid "Outline Light"
+msgstr "Contorno chiaro"
+
+#: dist/blocks-portfoliogrid.js:5871 dist/blocks-postgrid.js:5951
+msgid "Outline Dark"
+msgstr "Contorno scuro"
+
+#: dist/blocks-portfoliogrid.js:5868 dist/blocks-postgrid.js:5948
+msgid "Light"
+msgstr "Chiaro"
+
+#: dist/blocks-portfoliogrid.js:5865 dist/blocks-postgrid.js:5945
+msgid "Dark"
+msgstr "Scuro"
+
+#: dist/blocks-portfoliogrid.js:5863 dist/blocks-postgrid.js:5943
+msgid "Dot Style"
+msgstr "Stile punti"
+
+#: dist/blocks-portfoliogrid.js:5852 dist/blocks-postgrid.js:5932
+msgid "Outline White"
+msgstr "Contorno bianco"
+
+#: dist/blocks-portfoliogrid.js:5849 dist/blocks-postgrid.js:5929
+msgid "Outline Black"
+msgstr "Contorno nero"
+
+#: dist/blocks-portfoliogrid.js:5846 dist/blocks-postgrid.js:5926
+msgid "Black on Light"
+msgstr "Nero su chiaro"
+
+#: dist/blocks-portfoliogrid.js:5843 dist/blocks-postgrid.js:5923
+msgid "White on Dark"
+msgstr "Bianco su nero"
+
+#: dist/blocks-portfoliogrid.js:5828 dist/blocks-postgrid.js:5908
+msgid "Slides to Scroll"
+msgstr "Diapositive da scorrere"
+
+#: dist/blocks-portfoliogrid.js:5819 dist/blocks-postgrid.js:5899
+msgid "Carousel Slide Transition Speed"
+msgstr "Carosello - velocità delle diapositive"
+
+#: dist/blocks-portfoliogrid.js:5810 dist/blocks-postgrid.js:5869
+msgid "Autoplay Speed"
+msgstr "Velocità della riproduzione automatica"
+
+#: dist/blocks-portfoliogrid.js:5804
+msgid "Carousel Auto Play"
+msgstr "Carosello - Riproduzione automatica"
+
+#: dist/blocks-portfoliogrid.js:5800 dist/blocks-productcarousel.js:4947
+msgid "Carousel Settings"
+msgstr "Carosello - Impostazioni"
+
+#: dist/blocks-portfoliogrid.js:5794
+msgid "Carousel Center Mode"
+msgstr "Modalità carosello centrato"
+
+#: dist/blocks-portfoliogrid.js:5735
+msgid "Carousel Height"
+msgstr "Altezza Carosello"
+
+#: dist/blocks-portfoliogrid.js:5735
+msgid "Row Height"
+msgstr "Altezza Riga"
+
+#: dist/blocks-portfoliogrid.js:5712 dist/blocks-postgrid.js:5987
+#: dist/blocks-query.js:2700 dist/blocks-repeater.js:2211
+msgid "Row Gap"
+msgstr "Interlinea"
+
+#: dist/blocks-portfoliogrid.js:5690 dist/blocks-postgrid.js:5965
+#: dist/blocks-productcarousel.js:5053 dist/blocks-query.js:2714
+#: dist/blocks-repeater.js:2189
+msgid "Column Gap"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:5663 dist/blocks-postgrid.js:6064
+msgid "Landscape 4:1"
+msgstr "Panorama  4:1"
+
+#: dist/blocks-portfoliogrid.js:5660 dist/blocks-postgrid.js:6061
+msgid "Landscape 3:1"
+msgstr "Panorama  3:1"
+
+#: dist/blocks-portfoliogrid.js:5657 dist/blocks-postgrid.js:6058
+msgid "Landscape 2:1"
+msgstr "Panorama 2:1"
+
+#: dist/blocks-portfoliogrid.js:5654 dist/blocks-postgrid.js:6055
+msgid "Landscape 16:9"
+msgstr "Panorama 16:9"
+
+#: dist/blocks-portfoliogrid.js:5646
+msgid "Item Ratio"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:5628 dist/blocks-postgrid.js:5778
+#: dist/blocks-postgrid.js:5817
+msgid "Select the post Taxonomy"
+msgstr "Seleziona la tassonomia dell'articolo"
+
+#: dist/blocks-portfoliogrid.js:5618 dist/blocks-postgrid.js:5794
+msgid "Filter by Tag"
+msgstr "Filtra per tag"
+
+#: dist/blocks-portfoliogrid.js:5608 dist/blocks-postgrid.js:5784
+msgid "Filter by Category"
+msgstr "Filtra per categoria"
+
+#. translators: label for ordering posts by title in descending order
+#: dist/blocks-portfoliogrid.js:5550 dist/blocks-postgrid.js:5713
+#: dist/blocks-query.js:14317
+msgid "Random"
+msgstr "Casuale"
+
+#. translators: label for ordering posts by title in descending order
+#: dist/blocks-portfoliogrid.js:5546 dist/blocks-postgrid.js:5709
+#: dist/blocks-query.js:14313
+msgid "Menu Order"
+msgstr "Ordinamento del menu"
+
+#. translators: label for ordering posts by title in descending order
+#: dist/blocks-portfoliogrid.js:5542 dist/blocks-postgrid.js:5705
+#: dist/blocks-query.js:14309
+msgid "Z → A"
+msgstr "Z → A"
+
+#. translators: label for ordering posts by title in ascending order
+#: dist/blocks-portfoliogrid.js:5538 dist/blocks-postgrid.js:5701
+#: dist/blocks-query.js:14305
+msgid "A → Z"
+msgstr "A → Z"
+
+#: dist/blocks-portfoliogrid.js:5534 dist/blocks-postgrid.js:5697
+#: dist/blocks-query.js:14301
+msgid "Modified Decending"
+msgstr "Decrescente modificato"
+
+#: dist/blocks-portfoliogrid.js:5531 dist/blocks-postgrid.js:5694
+#: dist/blocks-query.js:14298
+msgid "Modified Ascending"
+msgstr "Crescente modificato"
+
+#: dist/blocks-portfoliogrid.js:5528 dist/blocks-postgrid.js:5691
+#: dist/blocks-query.js:14295
+msgid "Oldest to Newest"
+msgstr "Dal più vecchio al più recente"
+
+#: dist/blocks-portfoliogrid.js:5525 dist/blocks-postgrid.js:5688
+#: dist/blocks-query.js:14292
+msgid "Newest to Oldest"
+msgstr "Dal più recente al più vecchio"
+
+#: dist/blocks-portfoliogrid.js:5523 dist/blocks-postgrid.js:5686
+#: dist/blocks-productcarousel.js:4853 dist/blocks-query.js:14290
+msgid "Order by"
+msgstr "Ordina per"
+
+#: dist/blocks-portfoliogrid.js:5515 dist/blocks-postgrid.js:5678
+#: dist/blocks-productcarousel.js:4845
+msgid "Current Selection"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:4609
+msgid "Rollup Post"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:4604
+msgid "Center on Hover"
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:4594
+msgid "Fluid Carousel"
+msgstr "Carosello fluido"
+
+#: dist/blocks-portfoliogrid.js:4589 dist/blocks-postgrid.js:5855
+msgid "Carousel"
+msgstr "Carosello"
+
+#: dist/blocks-portfoliogrid.js:4584 dist/blocks-postgrid.js:5849
+msgid "Grid"
+msgstr "Griglia"
+
+#: dist/blocks-portfoliogrid.js:4579 dist/blocks-postgrid.js:5852
+msgid "Masonry"
+msgstr "Masonry"
+
+#: dist/blocks-portfoliogrid.js:4476
+msgid "Display a grid or carousel of portfolio styled posts."
+msgstr ""
+
+#: dist/blocks-portfoliogrid.js:4475 dist/blocks-postgrid.js:4480
+msgid "Grid Carousel"
+msgstr ""
+
+#: dist/blocks-modal.js:4519
+msgid "Create Awesome"
+msgstr ""
+
+#: dist/blocks-modal.js:4454
+msgid "Modal Content"
+msgstr ""
+
+#: dist/blocks-modal.js:4430
+msgid "Learn More"
+msgstr "Maggiori informazioni"
+
+#: dist/blocks-modal.js:4383
+msgid "Using this you can define a custom open ID making it possible to open from another link on your page. The link should be #CUSTOMID and you need to give the link the class “modal-trigger”."
+msgstr ""
+
+#: dist/blocks-modal.js:4382
+msgid "Custom Open ID"
+msgstr ""
+
+#: dist/blocks-modal.js:4376
+msgid "This creates better support for a modal if placed outside of content area."
+msgstr ""
+
+#: dist/blocks-modal.js:4375
+msgid "Load Content After Footer"
+msgstr ""
+
+#: dist/blocks-modal.js:4297
+msgid "Show only Icon"
+msgstr "Mostra solo le icone"
+
+#: dist/blocks-modal.js:4284
+msgid "Icon Side"
+msgstr "Icona laterale"
+
+#: dist/blocks-modal.js:4269
+msgid "Link Border Radius (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:4258
+msgid "Link Border Width (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:4215
+msgid "Link Box Shadow"
+msgstr ""
+
+#: dist/blocks-modal.js:4208
+msgid "Link Border Color"
+msgstr ""
+
+#: dist/blocks-modal.js:4201
+msgid "Link Background"
+msgstr ""
+
+#: dist/blocks-modal.js:4153
+msgid "HOVER: Link Box Shadow"
+msgstr ""
+
+#: dist/blocks-modal.js:4146
+msgid "HOVER: Link Border Color"
+msgstr ""
+
+#: dist/blocks-modal.js:4139
+msgid "HOVER: Link Background"
+msgstr ""
+
+#: dist/blocks-modal.js:4132
+msgid "HOVER: Link Color"
+msgstr ""
+
+#: dist/blocks-modal.js:4097
+msgid "Link Styling"
+msgstr ""
+
+#: dist/blocks-modal.js:4052 dist/blocks-splitcontent.js:4381
+msgid "Enable Shadow"
+msgstr "Abilita ombra"
+
+#: dist/blocks-modal.js:4048 dist/blocks-modal.js:4058
+msgid "Modal Box Shadow"
+msgstr ""
+
+#: dist/blocks-modal.js:4024
+msgid "Modal Margin"
+msgstr ""
+
+#: dist/blocks-modal.js:4000
+msgid "Modal Padding"
+msgstr ""
+
+#: dist/blocks-modal.js:3975 dist/blocks-query.js:2782
+#: dist/blocks-query.js:2848
+msgid "Border Radius"
+msgstr "Raggio del bordo"
+
+#: dist/blocks-modal.js:3961 dist/blocks-query.js:2768
+#: dist/blocks-query.js:2834 dist/blocks-query.js:9021
+msgid "Border"
+msgstr "Bordo"
+
+#: dist/blocks-modal.js:3950
+msgid "Modal Background Color"
+msgstr ""
+
+#: dist/blocks-modal.js:3934
+msgid "Inner Vertical Align"
+msgstr ""
+
+#: dist/blocks-modal.js:3918
+msgid "Inner Horizonal Align"
+msgstr ""
+
+#: dist/blocks-modal.js:3914
+msgid "Modal Box Styling"
+msgstr ""
+
+#: dist/blocks-modal.js:3908
+msgid "This defines the aria label to make the close button more accessible."
+msgstr ""
+
+#: dist/blocks-modal.js:3907
+msgid "Close Button Aria Label"
+msgstr ""
+
+#: dist/blocks-modal.js:3896
+msgid "X Background"
+msgstr ""
+
+#: dist/blocks-modal.js:3889
+msgid "X Color"
+msgstr ""
+
+#: dist/blocks-modal.js:3880
+msgid "HOVER: X Background"
+msgstr ""
+
+#: dist/blocks-modal.js:3873
+msgid "HOVER: X Color"
+msgstr ""
+
+#: dist/blocks-modal.js:3856 dist/blocks-modal.js:4111
+msgid "Color Settings"
+msgstr "Impostazioni del colore"
+
+#: dist/blocks-modal.js:3833
+msgid "Close X Size (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:3820
+msgid "Close X Position"
+msgstr ""
+
+#: dist/blocks-modal.js:3814
+msgid "Enable Close X"
+msgstr ""
+
+#: dist/blocks-modal.js:3810
+msgid "Modal Close Button"
+msgstr ""
+
+#: dist/blocks-modal.js:3804 dist/blocks-portfoliogrid.js:5967
+#: dist/blocks-portfoliogrid.js:5992 dist/blocks-videopopup.js:3868
+#: dist/blocks.js:62076
+msgid "Zoom Out"
+msgstr ""
+
+#: dist/blocks-modal.js:3801
+msgid "Slide Out Right"
+msgstr ""
+
+#: dist/blocks-modal.js:3798
+msgid "Slide Out Left"
+msgstr ""
+
+#: dist/blocks-modal.js:3795
+msgid "Slide Out Down"
+msgstr ""
+
+#: dist/blocks-modal.js:3792
+msgid "Slide Out Up"
+msgstr ""
+
+#: dist/blocks-modal.js:3789
+msgid "Fade Out Right"
+msgstr ""
+
+#: dist/blocks-modal.js:3786
+msgid "Fade Out Left"
+msgstr ""
+
+#: dist/blocks-modal.js:3783
+msgid "Fade Out Down"
+msgstr ""
+
+#: dist/blocks-modal.js:3780
+msgid "Fade Out Up"
+msgstr ""
+
+#: dist/blocks-modal.js:3777
+msgid "Fade Out"
+msgstr ""
+
+#: dist/blocks-modal.js:3773
+msgid "Modal Close Animation"
+msgstr ""
+
+#: dist/blocks-modal.js:3767 dist/blocks-portfoliogrid.js:5964
+#: dist/blocks-portfoliogrid.js:5989 dist/blocks.js:62061
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: dist/blocks-modal.js:3764
+msgid "Slide In Right"
+msgstr ""
+
+#: dist/blocks-modal.js:3761
+msgid "Slide In Left"
+msgstr ""
+
+#: dist/blocks-modal.js:3758
+msgid "Slide In Down"
+msgstr ""
+
+#: dist/blocks-modal.js:3755
+msgid "Slide In Up"
+msgstr ""
+
+#: dist/blocks-modal.js:3752
+msgid "Fade In Right"
+msgstr ""
+
+#: dist/blocks-modal.js:3749
+msgid "Fade In Left"
+msgstr ""
+
+#: dist/blocks-modal.js:3746
+msgid "Fade In Down"
+msgstr ""
+
+#: dist/blocks-modal.js:3743
+msgid "Fade In Up"
+msgstr ""
+
+#: dist/blocks-modal.js:3740
+msgid "Fade In"
+msgstr "Dissolvenza in entrata"
+
+#: dist/blocks-modal.js:3736
+msgid "Modal Open Animation"
+msgstr ""
+
+#: dist/blocks-modal.js:3725
+msgid "Overlay Background Color"
+msgstr ""
+
+#: dist/blocks-modal.js:3710
+msgid "Modal Max Width (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:3686
+msgid "Modal Width (%)"
+msgstr ""
+
+#: dist/blocks-modal.js:3677
+msgid "Fixed Minimum Height (px)"
+msgstr ""
+
+#: dist/blocks-modal.js:3671
+msgid "Full Screen Height"
+msgstr ""
+
+#: dist/blocks-modal.js:3668
+msgid "Fixed Minimum Height"
+msgstr ""
+
+#: dist/blocks-modal.js:3665
+msgid "Fit to Content"
+msgstr ""
+
+#: dist/blocks-modal.js:3661
+msgid "Modal Box Height"
+msgstr ""
+
+#: dist/blocks-modal.js:3649 dist/blocks-modal.js:3938
+msgid "Middle"
+msgstr "Mezzo"
+
+#: dist/blocks-modal.js:3645
+msgid "Modal Box Vertical Align"
+msgstr ""
+
+#: dist/blocks-modal.js:3629
+msgid "Modal Box Horizonal Align"
+msgstr ""
+
+#: dist/blocks-modal.js:3622
+msgid "Hide Modal Content"
+msgstr ""
+
+#: dist/blocks-modal.js:3618 dist/blocks-modal.js:4450
+msgid "Show Modal Content"
+msgstr ""
+
+#: dist/blocks-modal.js:3588
+msgid "Close X Desktop Size"
+msgstr ""
+
+#: dist/blocks-modal.js:3578
+msgid "Close X Tablet Size"
+msgstr ""
+
+#: dist/blocks-modal.js:3547
+msgid "Theme"
+msgstr "Tema"
+
+#: dist/blocks-modal.js:3544 dist/blocks-repeater.js:1706
+#: dist/blocks-repeatertemplate.js:76
+msgid "Custom"
+msgstr "Personalizza"
+
+#: dist/blocks-modal.js:1674
+msgid "Popup"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:39250 dist/blocks.js:64486 dist/blocks.js:67013
+#: dist/blocks.js:67562
+msgid "Fallback Content"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:39242 dist/blocks.js:64478 dist/blocks.js:67005
+msgid "After Content"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:39234 dist/blocks.js:64470 dist/blocks.js:66997
+msgid "Before Content"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:39231 dist/blocks.js:63524 dist/blocks.js:64090
+#: dist/blocks.js:64467 dist/blocks.js:65031 dist/blocks.js:65732
+#: dist/blocks.js:66390 dist/blocks.js:66994 dist/blocks.js:67559
+msgid "Advanced"
+msgstr "Avanzato"
+
+#: dist/blocks-imageoverlay.js:39177 dist/blocks.js:64975 dist/blocks.js:65676
+#: dist/blocks.js:66940
+msgid "*Previewing Latest Post"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:39165 dist/blocks.js:64428 dist/blocks.js:66928
+#: dist/blocks.js:67495
+msgid "Content Source"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:39136 dist/blocks.js:64397 dist/blocks.js:66899
+#: dist/blocks.js:67464
+msgid "Content"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6538
+msgid "Subtitle"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6468 dist/blocks-videopopup.js:4575
+msgid "Select Image"
+msgstr "Seleziona un'immagine"
+
+#: dist/blocks-imageoverlay.js:6251
+msgid "Subtitle Background"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6244
+msgid "Subtitle Color"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6237
+msgid "Always Visible"
+msgstr "Sempre visibile"
+
+#: dist/blocks-imageoverlay.js:6234
+msgid "Hidden until Hover"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6231
+msgid "Subtitle Style"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6221
+msgid "Use Subtitle"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6217
+msgid "Subtitle Settings"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6209
+msgid "Divider Width by %"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6201
+msgid "Divider Height in px"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6190 dist/blocks-portfoliogrid.js:6671
+#: dist/blocks-postgrid.js:6731 dist/blocks-postgrid.js:6862
+msgid "Divider Color"
+msgstr "Divisore - Colore"
+
+#: dist/blocks-imageoverlay.js:6183
+msgid "Double Line"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6180
+msgid "Dotted Line"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6177
+msgid "Dashed Line"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6174
+msgid "Solid Line"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6168
+msgid "Divider Style"
+msgstr "Divisore - Stile"
+
+#: dist/blocks-imageoverlay.js:6164
+msgid "Title and Subtitle Divider"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6059
+msgid "Title Background"
+msgstr "Titolo - Sfondo"
+
+#: dist/blocks-imageoverlay.js:6052 dist/blocks-portfoliogrid.js:6178
+#: dist/blocks-postgrid.js:6975
+msgid "Title Color"
+msgstr "Titolo - Colore"
+
+#: dist/blocks-imageoverlay.js:6042
+msgid "Use Title"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6038 dist/blocks-postgrid.js:6934
+msgid "Title Settings"
+msgstr "Impostazioni titolo"
+
+#: dist/blocks-imageoverlay.js:6032
+msgid "Make Text Background Full"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6023 dist/blocks-modal.js:3639
+#: dist/blocks-modal.js:3928 dist/blocks-modal.js:4288
+#: dist/blocks-splitcontent.js:4239 dist/blocks-splitcontent.js:4348
+msgid "Right"
+msgstr "Destra"
+
+#: dist/blocks-imageoverlay.js:6020 dist/blocks-modal.js:3636
+#: dist/blocks-modal.js:3925 dist/blocks-modal.js:4291
+#: dist/blocks-splitcontent.js:4236 dist/blocks-splitcontent.js:4345
+msgid "Left"
+msgstr "Sinistra"
+
+#: dist/blocks-imageoverlay.js:6013 dist/blocks-splitcontent.js:4338
+msgid "Horizontal Align"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6007 dist/blocks-imageoverlay.js:6026
+msgid "Opposite"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:6004 dist/blocks-modal.js:3655
+#: dist/blocks-modal.js:3944 dist/blocks-splitcontent.js:4332
+msgid "Bottom"
+msgstr "Basso"
+
+#: dist/blocks-imageoverlay.js:6001 dist/blocks-modal.js:3652
+#: dist/blocks-modal.js:3941 dist/blocks-splitcontent.js:4329
+msgid "Top"
+msgstr "Alto"
+
+#: dist/blocks-imageoverlay.js:5998 dist/blocks-imageoverlay.js:6017
+#: dist/blocks-modal.js:3633 dist/blocks-modal.js:3922
+#: dist/blocks-splitcontent.js:4326 dist/blocks-splitcontent.js:4342
+msgid "Center"
+msgstr "Centrato"
+
+#: dist/blocks-imageoverlay.js:5994 dist/blocks-splitcontent.js:4322
+msgid "Vertical Align"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5990
+msgid "Text Alignment Settings"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5982
+msgid "Border Position from Edge"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5939 dist/blocks-videopopup.js:4302
+msgid "Border Settings"
+msgstr "Bordo - Impostazioni"
+
+#: dist/blocks-imageoverlay.js:5930
+msgid "Overlay Hover Opacity"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5919
+msgid "Overlay Color"
+msgstr "Colore di sovrapposizione"
+
+#: dist/blocks-imageoverlay.js:5884
+msgid "Use ratio size instead of image size"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5875 dist/blocks-slide.js:4888
+#: dist/blocks-videopopup.js:4107
+msgid "Overlay Opacity"
+msgstr "Sovrapposizione - Opacità"
+
+#: dist/blocks-imageoverlay.js:5869 dist/blocks-portfoliogrid.js:5976
+msgid "Blur"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5866
+msgid "Gray Scale"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5863
+msgid "Slide"
+msgstr "Diapositiva"
+
+#: dist/blocks-imageoverlay.js:5860
+msgid "Zoom in"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5857 dist/blocks-portfoliogrid.js:5961
+#: dist/blocks-portfoliogrid.js:5986
+msgid "Static"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5853 dist/blocks-portfoliogrid.js:5957
+msgid "On Hover Img:"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5829 dist/blocks-query.js:2951
+#: dist/blocks-query.js:14512 dist/blocks-videopopup.js:4509
+msgid "Max Width"
+msgstr "Larghezza massima"
+
+#: dist/blocks-imageoverlay.js:5792 dist/blocks.js:66293
+msgid "Link"
+msgstr "Link"
+
+#: dist/blocks-imageoverlay.js:5769 dist/blocks-slide.js:4859
+#: dist/blocks-splitcontent.js:4202
+msgid "Image File Size"
+msgstr "Dimensione file Immagine"
+
+#: dist/blocks-imageoverlay.js:5738
+msgid "Edit image"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5717 dist/blocks-imageoverlay.js:5721
+#: dist/blocks-portfoliogrid.js:5675 dist/blocks-postgrid.js:6076
+msgid "Inherit"
+msgstr "Eredita"
+
+#: dist/blocks-imageoverlay.js:5713 dist/blocks-videopopup.js:3801
+msgid "Wider Landscape 2:1"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5710 dist/blocks-videopopup.js:3798
+msgid "Wide Landscape 16:9"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5707 dist/blocks-portfoliogrid.js:5651
+#: dist/blocks-postgrid.js:6052
+msgid "Landscape 3:2"
+msgstr "Panorama  3:2"
+
+#: dist/blocks-imageoverlay.js:5704 dist/blocks-portfoliogrid.js:5648
+#: dist/blocks-postgrid.js:6049 dist/blocks-videopopup.js:3795
+msgid "Landscape 4:3"
+msgstr "Panorama  4:3"
+
+#: dist/blocks-imageoverlay.js:5701 dist/blocks-videopopup.js:3792
+msgid "Tall Portrait 1:2"
+msgstr ""
+
+#: dist/blocks-imageoverlay.js:5698 dist/blocks-portfoliogrid.js:5669
+#: dist/blocks-postgrid.js:6070
+msgid "Portrait 2:3"
+msgstr "Ritratto 2:3"
+
+#: dist/blocks-imageoverlay.js:5695 dist/blocks-portfoliogrid.js:5666
+#: dist/blocks-postgrid.js:6067 dist/blocks-videopopup.js:3789
+msgid "Portrait 3:4"
+msgstr "Ritratto 3:4"
+
+#: dist/blocks-imageoverlay.js:5692 dist/blocks-portfoliogrid.js:5672
+#: dist/blocks-postgrid.js:6073 dist/blocks-videopopup.js:3786
+msgid "Square 1:1"
+msgstr "Quadrato 1:1"
+
+#: dist/blocks-imageoverlay.js:1688 dist/blocks-query.js:14416
+#: dist/blocks-slide.js:4925 dist/blocks-videopopup.js:4266
+msgid "Overlay"
+msgstr "Sovrapposizione"
+
+#: dist/blocks-imageoverlay.js:1688 dist/blocks-imageoverlay.js:5759
+#: dist/blocks-query.js:12285 dist/blocks-splitcontent.js:1676
+#: dist/blocks-splitcontent.js:4192 dist/blocks-videopopup.js:3749
+#: dist/blocks.js:65633
+msgid "Image"
+msgstr "Immagine"
+
+#: dist/blocks-dynamiclist.js:2350
+msgid "No Items found."
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:2221 dist/blocks-modal.js:4303
+msgid "Typography"
+msgstr "Tipografia"
+
+#: dist/blocks-dynamiclist.js:2216 dist/blocks-portfoliogrid.js:6046
+#: dist/blocks-portfoliogrid.js:6456
+msgid "Hover Background"
+msgstr "Passaggio del mouse - Sfondo"
+
+#: dist/blocks-dynamiclist.js:2201 dist/blocks-dynamiclist.js:2208
+msgid "Item Background"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:2177 dist/blocks-portfoliogrid.js:6449
+#: dist/blocks-postgrid.js:6525
+msgid "Hover Color"
+msgstr "Passaggio del mouse - Colore"
+
+#: dist/blocks-dynamiclist.js:2162 dist/blocks-dynamiclist.js:2169
+msgid "Item Color"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:2140
+msgid "List Divider"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:2133
+msgid "List Style"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:2116
+msgid "Vertical"
+msgstr "Verticale"
+
+#: dist/blocks-dynamiclist.js:2113
+msgid "Horizontal"
+msgstr "Orizzontale"
+
+#: dist/blocks-dynamiclist.js:2109
+msgid "List Direction"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:2061
+msgid "Enable Link"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:2044
+msgid "Custom Post Meta"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:2041 dist/blocks-query.js:11534
+msgid "Taxonomy"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:2037
+msgid "Source Type"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:1939
+msgid "Pill"
+msgstr "Pillola"
+
+#: dist/blocks-dynamiclist.js:1936
+msgid "Basic"
+msgstr "Basico"
+
+#: dist/blocks-dynamiclist.js:1930
+msgid "Number List"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:1927
+msgid "Bullets"
+msgstr "Pallini"
+
+#: dist/blocks-dynamiclist.js:1678
+msgid "Display dynamic items in a list."
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:1677
+msgid "list"
+msgstr ""
+
+#: dist/blocks-dynamiclist.js:1671
+msgid "Dynamic List"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:36246 dist/blocks-dynamiclist.js:35436
+#: dist/blocks-imageoverlay.js:40182 dist/blocks-query.js:10865
+#: dist/blocks-repeater.js:35679 dist/blocks.js:68940
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: dist/blocks-dynamichtml.js:36235 dist/blocks-dynamiclist.js:35425
+#: dist/blocks-imageoverlay.js:40171 dist/blocks-repeater.js:35668
+#: dist/blocks.js:68929
+msgid "Show fields from all post types"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:36052 dist/blocks-dynamiclist.js:35242
+#: dist/blocks-imageoverlay.js:39988 dist/blocks-repeater.js:35485
+#: dist/blocks.js:68746
+msgid "Type to search"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:18934 dist/blocks-dynamiclist.js:2050
+#: dist/blocks-dynamiclist.js:18124 dist/blocks-imageoverlay.js:22480
+#: dist/blocks-modal.js:20483 dist/blocks-portfoliogrid.js:5600
+#: dist/blocks-portfoliogrid.js:6355 dist/blocks-portfoliogrid.js:6623
+#: dist/blocks-portfoliogrid.js:6624 dist/blocks-portfoliogrid.js:23004
+#: dist/blocks-postgrid.js:5757 dist/blocks-postgrid.js:6422
+#: dist/blocks-postgrid.js:6815 dist/blocks-postgrid.js:24005
+#: dist/blocks-productcarousel.js:21181 dist/blocks-query-pagination.js:18332
+#: dist/blocks-query.js:11617 dist/blocks-query.js:30656
+#: dist/blocks-repeater.js:18367 dist/blocks-slide.js:20831
+#: dist/blocks-slider.js:21092 dist/blocks-splitcontent.js:20501
+#: dist/blocks-userinfo.js:18533 dist/blocks-videopopup.js:20464
+#: dist/blocks.js:45185 dist/blocks.js:63051
+msgid "Select Taxonomy"
+msgstr "Seleziona la tassonomia"
+
+#: dist/blocks-dynamichtml.js:18002 dist/blocks-dynamiclist.js:17192
+#: dist/blocks-imageoverlay.js:21548 dist/blocks-modal.js:19551
+#: dist/blocks-portfoliogrid.js:22072 dist/blocks-postgrid.js:23073
+#: dist/blocks-productcarousel.js:20249 dist/blocks-query-pagination.js:17400
+#: dist/blocks-query.js:29724 dist/blocks-repeater.js:17435
+#: dist/blocks-slide.js:19899 dist/blocks-slider.js:20160
+#: dist/blocks-splitcontent.js:19569 dist/blocks-userinfo.js:17601
+#: dist/blocks-videopopup.js:19532 dist/blocks.js:44253
+msgid "Browse Posts"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:17999 dist/blocks-dynamiclist.js:17189
+#: dist/blocks-imageoverlay.js:21545 dist/blocks-modal.js:19548
+#: dist/blocks-portfoliogrid.js:22069 dist/blocks-postgrid.js:23070
+#: dist/blocks-productcarousel.js:20246 dist/blocks-query-pagination.js:17397
+#: dist/blocks-query.js:29721 dist/blocks-repeater.js:17432
+#: dist/blocks-slide.js:19896 dist/blocks-slider.js:20157
+#: dist/blocks-splitcontent.js:19566 dist/blocks-userinfo.js:17598
+#: dist/blocks-videopopup.js:19529 dist/blocks.js:44250
+msgid "View Selected"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:17996 dist/blocks-dynamichtml.js:35654
+#: dist/blocks-dynamiclist.js:17186 dist/blocks-dynamiclist.js:34844
+#: dist/blocks-imageoverlay.js:21542 dist/blocks-imageoverlay.js:39590
+#: dist/blocks-modal.js:19545 dist/blocks-portfoliogrid.js:22066
+#: dist/blocks-postgrid.js:23067 dist/blocks-productcarousel.js:20243
+#: dist/blocks-query-pagination.js:17394 dist/blocks-query.js:12362
+#: dist/blocks-query.js:12536 dist/blocks-query.js:12809
+#: dist/blocks-query.js:29718 dist/blocks-repeater.js:17429
+#: dist/blocks-repeater.js:35087 dist/blocks-slide.js:19893
+#: dist/blocks-slider.js:20154 dist/blocks-splitcontent.js:19563
+#: dist/blocks-userinfo.js:17595 dist/blocks-videopopup.js:19526
+#: dist/blocks.js:44247 dist/blocks.js:62167 dist/blocks.js:67906
+msgid "Select"
+msgstr "Seleziona"
+
+#: dist/blocks-dynamichtml.js:17982 dist/blocks-dynamiclist.js:17172
+#: dist/blocks-imageoverlay.js:21528 dist/blocks-modal.js:19531
+#: dist/blocks-portfoliogrid.js:22052 dist/blocks-postgrid.js:23053
+#: dist/blocks-productcarousel.js:20229 dist/blocks-query-pagination.js:17380
+#: dist/blocks-query.js:29704 dist/blocks-repeater.js:17415
+#: dist/blocks-slide.js:19879 dist/blocks-slider.js:20140
+#: dist/blocks-splitcontent.js:19549 dist/blocks-userinfo.js:17581
+#: dist/blocks-videopopup.js:19512 dist/blocks.js:44233
+msgid "No posts have been selected"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:17978 dist/blocks-dynamiclist.js:17168
+#: dist/blocks-imageoverlay.js:21524 dist/blocks-modal.js:19527
+#: dist/blocks-portfoliogrid.js:22048 dist/blocks-postgrid.js:23049
+#: dist/blocks-productcarousel.js:20225 dist/blocks-query-pagination.js:17376
+#: dist/blocks-query.js:29700 dist/blocks-repeater.js:17411
+#: dist/blocks-slide.js:19875 dist/blocks-slider.js:20136
+#: dist/blocks-splitcontent.js:19545 dist/blocks-userinfo.js:17577
+#: dist/blocks-videopopup.js:19508 dist/blocks.js:44229
+msgid "No posts found matching filters"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:17944 dist/blocks-dynamichtml.js:17970
+#: dist/blocks-dynamiclist.js:17134 dist/blocks-dynamiclist.js:17160
+#: dist/blocks-imageoverlay.js:21490 dist/blocks-imageoverlay.js:21516
+#: dist/blocks-modal.js:19493 dist/blocks-modal.js:19519
+#: dist/blocks-portfoliogrid.js:22014 dist/blocks-portfoliogrid.js:22040
+#: dist/blocks-postgrid.js:23015 dist/blocks-postgrid.js:23041
+#: dist/blocks-productcarousel.js:20191 dist/blocks-productcarousel.js:20217
+#: dist/blocks-query-pagination.js:17342 dist/blocks-query-pagination.js:17368
+#: dist/blocks-query.js:29666 dist/blocks-query.js:29692
+#: dist/blocks-repeater.js:17377 dist/blocks-repeater.js:17403
+#: dist/blocks-slide.js:19841 dist/blocks-slide.js:19867
+#: dist/blocks-slider.js:20102 dist/blocks-slider.js:20128
+#: dist/blocks-splitcontent.js:19511 dist/blocks-splitcontent.js:19537
+#: dist/blocks-userinfo.js:17543 dist/blocks-userinfo.js:17569
+#: dist/blocks-videopopup.js:19474 dist/blocks-videopopup.js:19500
+#: dist/blocks.js:44195 dist/blocks.js:44221
+msgid "Filter Posts"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:17918 dist/blocks-dynamiclist.js:17108
+#: dist/blocks-imageoverlay.js:21464 dist/blocks-modal.js:19467
+#: dist/blocks-portfoliogrid.js:21988 dist/blocks-postgrid.js:22989
+#: dist/blocks-productcarousel.js:20165 dist/blocks-query-pagination.js:2376
+#: dist/blocks-query-pagination.js:17316 dist/blocks-query.js:9983
+#: dist/blocks-query.js:29640 dist/blocks-repeater.js:17351
+#: dist/blocks-slide.js:19815 dist/blocks-slider.js:20076
+#: dist/blocks-splitcontent.js:19485 dist/blocks-userinfo.js:17517
+#: dist/blocks-videopopup.js:19448 dist/blocks.js:44169
+msgid "Next"
+msgstr "Seguente"
+
+#: dist/blocks-dynamichtml.js:17914 dist/blocks-dynamiclist.js:17104
+#: dist/blocks-imageoverlay.js:21460 dist/blocks-modal.js:19463
+#: dist/blocks-portfoliogrid.js:21984 dist/blocks-postgrid.js:22985
+#: dist/blocks-productcarousel.js:20161 dist/blocks-query-pagination.js:2346
+#: dist/blocks-query-pagination.js:17312 dist/blocks-query.js:9953
+#: dist/blocks-query.js:29636 dist/blocks-repeater.js:17347
+#: dist/blocks-slide.js:19811 dist/blocks-slider.js:20072
+#: dist/blocks-splitcontent.js:19481 dist/blocks-userinfo.js:17513
+#: dist/blocks-videopopup.js:19444 dist/blocks.js:44165
+msgid "Previous"
+msgstr "Precedente"
+
+#: dist/blocks-dynamichtml.js:17910 dist/blocks-dynamichtml.js:17982
+#: dist/blocks-dynamiclist.js:17100 dist/blocks-dynamiclist.js:17172
+#: dist/blocks-imageoverlay.js:21456 dist/blocks-imageoverlay.js:21528
+#: dist/blocks-modal.js:19459 dist/blocks-modal.js:19531
+#: dist/blocks-portfoliogrid.js:21980 dist/blocks-portfoliogrid.js:22052
+#: dist/blocks-postgrid.js:22981 dist/blocks-postgrid.js:23053
+#: dist/blocks-productcarousel.js:20157 dist/blocks-productcarousel.js:20229
+#: dist/blocks-query-pagination.js:17308 dist/blocks-query-pagination.js:17380
+#: dist/blocks-query.js:29632 dist/blocks-query.js:29704
+#: dist/blocks-repeater.js:17343 dist/blocks-repeater.js:17415
+#: dist/blocks-slide.js:19807 dist/blocks-slide.js:19879
+#: dist/blocks-slider.js:20068 dist/blocks-slider.js:20140
+#: dist/blocks-splitcontent.js:19477 dist/blocks-splitcontent.js:19549
+#: dist/blocks-userinfo.js:17509 dist/blocks-userinfo.js:17581
+#: dist/blocks-videopopup.js:19440 dist/blocks-videopopup.js:19512
+#: dist/blocks.js:44161 dist/blocks.js:44233
+msgid "Show Filters"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:17731 dist/blocks-dynamichtml.js:17732
+#: dist/blocks-dynamiclist.js:16921 dist/blocks-dynamiclist.js:16922
+#: dist/blocks-imageoverlay.js:21277 dist/blocks-imageoverlay.js:21278
+#: dist/blocks-modal.js:19280 dist/blocks-modal.js:19281
+#: dist/blocks-portfoliogrid.js:21801 dist/blocks-portfoliogrid.js:21802
+#: dist/blocks-postgrid.js:22802 dist/blocks-postgrid.js:22803
+#: dist/blocks-productcarousel.js:19978 dist/blocks-productcarousel.js:19979
+#: dist/blocks-query-pagination.js:17129 dist/blocks-query-pagination.js:17130
+#: dist/blocks-query.js:29453 dist/blocks-query.js:29454
+#: dist/blocks-repeater.js:17164 dist/blocks-repeater.js:17165
+#: dist/blocks-slide.js:19628 dist/blocks-slide.js:19629
+#: dist/blocks-slider.js:19889 dist/blocks-slider.js:19890
+#: dist/blocks-splitcontent.js:19298 dist/blocks-splitcontent.js:19299
+#: dist/blocks-userinfo.js:17330 dist/blocks-userinfo.js:17331
+#: dist/blocks-videopopup.js:19261 dist/blocks-videopopup.js:19262
+#: dist/blocks.js:43982 dist/blocks.js:43983
+msgid "Select posts"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:16430 dist/blocks-dynamiclist.js:15620
+#: dist/blocks-imageoverlay.js:19976 dist/blocks-modal.js:17979
+#: dist/blocks-portfoliogrid.js:20500 dist/blocks-postgrid.js:21501
+#: dist/blocks-productcarousel.js:18677 dist/blocks-query-pagination.js:15828
+#: dist/blocks-query.js:28152 dist/blocks-repeater.js:15863
+#: dist/blocks-slide.js:18327 dist/blocks-slider.js:18588
+#: dist/blocks-splitcontent.js:17997 dist/blocks-userinfo.js:16029
+#: dist/blocks-videopopup.js:17960 dist/blocks.js:42681
+msgid "Select Term"
+msgstr "Seleziona i termini"
+
+#: dist/blocks-dynamichtml.js:13416 dist/blocks-dynamiclist.js:12606
+#: dist/blocks-imageoverlay.js:6494 dist/blocks-imageoverlay.js:16962
+#: dist/blocks-modal.js:14965 dist/blocks-portfoliogrid.js:6168
+#: dist/blocks-portfoliogrid.js:17486 dist/blocks-postgrid.js:18487
+#: dist/blocks-productcarousel.js:15663 dist/blocks-query-pagination.js:12814
+#: dist/blocks-query.js:12276 dist/blocks-query.js:25138
+#: dist/blocks-repeater.js:12849 dist/blocks-slide.js:15313
+#: dist/blocks-slider.js:15574 dist/blocks-splitcontent.js:14983
+#: dist/blocks-userinfo.js:13015 dist/blocks-videopopup.js:14946
+#: dist/blocks.js:39667
+msgid "Title"
+msgstr "Titolo"
+
+#: dist/blocks-dynamichtml.js:13412 dist/blocks-dynamiclist.js:12602
+#: dist/blocks-imageoverlay.js:16958 dist/blocks-modal.js:14961
+#: dist/blocks-portfoliogrid.js:17482 dist/blocks-postgrid.js:18483
+#: dist/blocks-productcarousel.js:15659 dist/blocks-query-pagination.js:12810
+#: dist/blocks-query.js:25134 dist/blocks-repeater.js:12845
+#: dist/blocks-slide.js:15309 dist/blocks-slider.js:15570
+#: dist/blocks-splitcontent.js:14979 dist/blocks-userinfo.js:13011
+#: dist/blocks-videopopup.js:14942 dist/blocks.js:39663
+msgid "Download"
+msgstr "Scarica"
+
+#: dist/blocks-dynamichtml.js:13408 dist/blocks-dynamiclist.js:12598
+#: dist/blocks-imageoverlay.js:16954 dist/blocks-modal.js:14957
+#: dist/blocks-portfoliogrid.js:17478 dist/blocks-postgrid.js:18479
+#: dist/blocks-productcarousel.js:15655 dist/blocks-query-pagination.js:12806
+#: dist/blocks-query.js:25130 dist/blocks-repeater.js:12841
+#: dist/blocks-slide.js:15305 dist/blocks-slider.js:15566
+#: dist/blocks-splitcontent.js:14975 dist/blocks-userinfo.js:13007
+#: dist/blocks-videopopup.js:14938 dist/blocks.js:39659
+msgid "Sponsored"
+msgstr "Sponsorizzato"
+
+#: dist/blocks-dynamichtml.js:13404 dist/blocks-dynamiclist.js:12594
+#: dist/blocks-imageoverlay.js:16950 dist/blocks-modal.js:14953
+#: dist/blocks-portfoliogrid.js:17474 dist/blocks-postgrid.js:18475
+#: dist/blocks-productcarousel.js:15651 dist/blocks-query-pagination.js:12802
+#: dist/blocks-query.js:25126 dist/blocks-repeater.js:12837
+#: dist/blocks-slide.js:15301 dist/blocks-slider.js:15562
+#: dist/blocks-splitcontent.js:14971 dist/blocks-userinfo.js:13003
+#: dist/blocks-videopopup.js:14934 dist/blocks.js:39655
+msgid "No Follow"
+msgstr "No Follow"
+
+#: dist/blocks-dynamichtml.js:13400 dist/blocks-dynamiclist.js:12590
+#: dist/blocks-imageoverlay.js:16946 dist/blocks-modal.js:14949
+#: dist/blocks-portfoliogrid.js:17470 dist/blocks-postgrid.js:18471
+#: dist/blocks-productcarousel.js:15647 dist/blocks-query-pagination.js:12798
+#: dist/blocks-query.js:25122 dist/blocks-repeater.js:12833
+#: dist/blocks-slide.js:15297 dist/blocks-slider.js:15558
+#: dist/blocks-splitcontent.js:14967 dist/blocks-userinfo.js:12999
+#: dist/blocks-videopopup.js:14930 dist/blocks.js:39651
+msgid "Open in New Tab"
+msgstr "Apri in un'altra scheda"
+
+#: dist/blocks-dynamichtml.js:13399 dist/blocks-dynamiclist.js:12589
+#: dist/blocks-imageoverlay.js:16945 dist/blocks-modal.js:14948
+#: dist/blocks-portfoliogrid.js:17469 dist/blocks-postgrid.js:18470
+#: dist/blocks-productcarousel.js:15646 dist/blocks-query-pagination.js:12797
+#: dist/blocks-query.js:25121 dist/blocks-repeater.js:12832
+#: dist/blocks-slide.js:15296 dist/blocks-slider.js:15557
+#: dist/blocks-splitcontent.js:14966 dist/blocks-userinfo.js:12998
+#: dist/blocks-videopopup.js:14929 dist/blocks.js:39650
+msgid "NOTE: Video popup only works with youtube and vimeo links."
+msgstr "NOTA: Video popup funziona solo con collegamenti YouTube e vimeo."
+
+#: dist/blocks-dynamichtml.js:13393 dist/blocks-dynamiclist.js:12583
+#: dist/blocks-imageoverlay.js:16939 dist/blocks-modal.js:14942
+#: dist/blocks-portfoliogrid.js:17463 dist/blocks-postgrid.js:18464
+#: dist/blocks-productcarousel.js:15640 dist/blocks-query-pagination.js:12791
+#: dist/blocks-query.js:25115 dist/blocks-repeater.js:12826
+#: dist/blocks-slide.js:15290 dist/blocks-slider.js:15551
+#: dist/blocks-splitcontent.js:14960 dist/blocks-userinfo.js:12992
+#: dist/blocks-videopopup.js:14923 dist/blocks.js:39644
+msgid "New Window"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:13390 dist/blocks-dynamiclist.js:12580
+#: dist/blocks-imageoverlay.js:16936 dist/blocks-modal.js:14939
+#: dist/blocks-portfoliogrid.js:17460 dist/blocks-postgrid.js:18461
+#: dist/blocks-productcarousel.js:15637 dist/blocks-query-pagination.js:12788
+#: dist/blocks-query.js:25112 dist/blocks-repeater.js:12823
+#: dist/blocks-slide.js:15287 dist/blocks-slider.js:15548
+#: dist/blocks-splitcontent.js:14957 dist/blocks-userinfo.js:12989
+#: dist/blocks-videopopup.js:14920 dist/blocks.js:39641
+msgid "Same Window"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:13386 dist/blocks-dynamiclist.js:12576
+#: dist/blocks-imageoverlay.js:16932 dist/blocks-modal.js:14935
+#: dist/blocks-portfoliogrid.js:17456 dist/blocks-postgrid.js:18457
+#: dist/blocks-productcarousel.js:15633 dist/blocks-query-pagination.js:12784
+#: dist/blocks-query.js:25108 dist/blocks-repeater.js:12819
+#: dist/blocks-slide.js:15283 dist/blocks-slider.js:15544
+#: dist/blocks-splitcontent.js:14953 dist/blocks-userinfo.js:12985
+#: dist/blocks-videopopup.js:14916 dist/blocks.js:39637
+msgid "Link Target"
+msgstr "Destinazione del collegamento"
+
+#: dist/blocks-dynamichtml.js:12869 dist/blocks-dynamiclist.js:12059
+#: dist/blocks-imageoverlay.js:16415 dist/blocks-modal.js:14418
+#: dist/blocks-portfoliogrid.js:16939 dist/blocks-postgrid.js:17940
+#: dist/blocks-productcarousel.js:15116 dist/blocks-query-pagination.js:12267
+#: dist/blocks-query.js:24591 dist/blocks-repeater.js:12302
+#: dist/blocks-slide.js:14766 dist/blocks-slider.js:15027
+#: dist/blocks-splitcontent.js:14436 dist/blocks-userinfo.js:12468
+#: dist/blocks-videopopup.js:14399 dist/blocks.js:39120
+msgid "Submit"
+msgstr "Invia"
+
+#: dist/blocks-dynamichtml.js:12854 dist/blocks-dynamiclist.js:12044
+#: dist/blocks-imageoverlay.js:16400 dist/blocks-modal.js:14403
+#: dist/blocks-portfoliogrid.js:16924 dist/blocks-postgrid.js:17925
+#: dist/blocks-productcarousel.js:15101 dist/blocks-query-pagination.js:12252
+#: dist/blocks-query.js:24576 dist/blocks-repeater.js:12287
+#: dist/blocks-slide.js:14751 dist/blocks-slider.js:15012
+#: dist/blocks-splitcontent.js:14421 dist/blocks-userinfo.js:12453
+#: dist/blocks-videopopup.js:3675 dist/blocks-videopopup.js:3721
+#: dist/blocks-videopopup.js:14384 dist/blocks.js:39105
+msgid "Paste or type URL"
+msgstr "Incolla o digita un URL"
+
+#: dist/blocks-dynamichtml.js:12840 dist/blocks-dynamichtml.js:36091
+#: dist/blocks-dynamiclist.js:12030 dist/blocks-dynamiclist.js:35281
+#: dist/blocks-imageoverlay.js:16386 dist/blocks-imageoverlay.js:40027
+#: dist/blocks-modal.js:14389 dist/blocks-portfoliogrid.js:16910
+#: dist/blocks-postgrid.js:17911 dist/blocks-productcarousel.js:15087
+#: dist/blocks-query-pagination.js:12238 dist/blocks-query.js:24562
+#: dist/blocks-repeater.js:12273 dist/blocks-repeater.js:35524
+#: dist/blocks-slide.js:14737 dist/blocks-slider.js:14998
+#: dist/blocks-splitcontent.js:14407 dist/blocks-userinfo.js:12439
+#: dist/blocks-videopopup.js:14370 dist/blocks.js:39091 dist/blocks.js:68785
+msgid "Edit"
+msgstr "Modifica"
+
+#: dist/blocks-dynamichtml.js:12638 dist/blocks-dynamiclist.js:11828
+#: dist/blocks-imageoverlay.js:16184 dist/blocks-modal.js:14187
+#: dist/blocks-portfoliogrid.js:16708 dist/blocks-postgrid.js:17709
+#: dist/blocks-productcarousel.js:14885 dist/blocks-query-pagination.js:12036
+#: dist/blocks-query.js:24360 dist/blocks-repeater.js:12071
+#: dist/blocks-slide.js:14535 dist/blocks-slider.js:14796
+#: dist/blocks-splitcontent.js:14205 dist/blocks-userinfo.js:12237
+#: dist/blocks-videopopup.js:14168 dist/blocks.js:38889
+msgid "Create dynamic sites by populating urls from various sources."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:12638 dist/blocks-dynamiclist.js:11828
+#: dist/blocks-imageoverlay.js:16184 dist/blocks-modal.js:14187
+#: dist/blocks-portfoliogrid.js:16708 dist/blocks-postgrid.js:17709
+#: dist/blocks-productcarousel.js:14885 dist/blocks-query-pagination.js:12036
+#: dist/blocks-query.js:24360 dist/blocks-repeater.js:12071
+#: dist/blocks-slide.js:14535 dist/blocks-slider.js:14796
+#: dist/blocks-splitcontent.js:14205 dist/blocks-userinfo.js:12237
+#: dist/blocks-videopopup.js:14168 dist/blocks.js:38889 dist/blocks.js:64193
+msgid "Dynamic URL"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:12625 dist/blocks-dynamiclist.js:11815
+#: dist/blocks-imageoverlay.js:16171 dist/blocks-modal.js:14174
+#: dist/blocks-portfoliogrid.js:16695 dist/blocks-postgrid.js:17696
+#: dist/blocks-productcarousel.js:14872 dist/blocks-query-pagination.js:12023
+#: dist/blocks-query.js:24347 dist/blocks-repeater.js:12058
+#: dist/blocks-slide.js:14522 dist/blocks-slider.js:14783
+#: dist/blocks-splitcontent.js:14192 dist/blocks-userinfo.js:12224
+#: dist/blocks-videopopup.js:14155 dist/blocks.js:38876 dist/blocks.js:66617
+msgid "Dynamic Link"
+msgstr "Link dinamico"
+
+#: dist/blocks-dynamichtml.js:7844 dist/blocks-dynamiclist.js:7034
+#: dist/blocks-imageoverlay.js:11390 dist/blocks-modal.js:9393
+#: dist/blocks-portfoliogrid.js:11914 dist/blocks-postgrid.js:12915
+#: dist/blocks-productcarousel.js:10091 dist/blocks-query-pagination.js:7242
+#: dist/blocks-query.js:19566 dist/blocks-repeater.js:7277
+#: dist/blocks-slide.js:9741 dist/blocks-slider.js:10002
+#: dist/blocks-splitcontent.js:9411 dist/blocks-userinfo.js:7443
+#: dist/blocks-videopopup.js:9374 dist/blocks.js:34095
+msgid "Add Rule"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7820 dist/blocks-dynamiclist.js:7010
+#: dist/blocks-imageoverlay.js:11366 dist/blocks-modal.js:9369
+#: dist/blocks-portfoliogrid.js:11890 dist/blocks-postgrid.js:12891
+#: dist/blocks-productcarousel.js:10067 dist/blocks-query-pagination.js:7218
+#: dist/blocks-query.js:11654 dist/blocks-query.js:19542
+#: dist/blocks-repeater.js:7253 dist/blocks-slide.js:9717
+#: dist/blocks-slider.js:9978 dist/blocks-splitcontent.js:9387
+#: dist/blocks-userinfo.js:7419 dist/blocks-videopopup.js:9350
+#: dist/blocks.js:34071 dist/blocks.js:63095
+msgid "Compare Type"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7797 dist/blocks-dynamiclist.js:6987
+#: dist/blocks-imageoverlay.js:11343 dist/blocks-modal.js:9346
+#: dist/blocks-portfoliogrid.js:11867 dist/blocks-postgrid.js:12868
+#: dist/blocks-productcarousel.js:10044 dist/blocks-query-pagination.js:7195
+#: dist/blocks-query.js:19519 dist/blocks-repeater.js:7230
+#: dist/blocks-slide.js:9694 dist/blocks-slider.js:9955
+#: dist/blocks-splitcontent.js:9364 dist/blocks-userinfo.js:7396
+#: dist/blocks-videopopup.js:9327 dist/blocks.js:34048
+msgid "Field"
+msgstr "Campo"
+
+#: dist/blocks-dynamichtml.js:7786 dist/blocks-dynamiclist.js:6976
+#: dist/blocks-imageoverlay.js:11332 dist/blocks-modal.js:9335
+#: dist/blocks-portfoliogrid.js:11856 dist/blocks-postgrid.js:12857
+#: dist/blocks-productcarousel.js:10033 dist/blocks-query-pagination.js:7184
+#: dist/blocks-query.js:19508 dist/blocks-repeater.js:7219
+#: dist/blocks-slide.js:9683 dist/blocks-slider.js:9944
+#: dist/blocks-splitcontent.js:9353 dist/blocks-userinfo.js:7385
+#: dist/blocks-videopopup.js:9316 dist/blocks.js:34037
+msgid "Remove Rule"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7709 dist/blocks-dynamiclist.js:6899
+#: dist/blocks-imageoverlay.js:11255 dist/blocks-modal.js:9258
+#: dist/blocks-portfoliogrid.js:11779 dist/blocks-postgrid.js:12780
+#: dist/blocks-productcarousel.js:9956 dist/blocks-query-pagination.js:7107
+#: dist/blocks-query.js:19431 dist/blocks-repeater.js:7142
+#: dist/blocks-slide.js:9606 dist/blocks-slider.js:9867
+#: dist/blocks-splitcontent.js:9276 dist/blocks-userinfo.js:7308
+#: dist/blocks-videopopup.js:9239 dist/blocks.js:33960 dist/blocks.js:63104
+msgid "Compare Value"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7654 dist/blocks-dynamiclist.js:6844
+#: dist/blocks-imageoverlay.js:11200 dist/blocks-modal.js:9203
+#: dist/blocks-portfoliogrid.js:11724 dist/blocks-postgrid.js:12725
+#: dist/blocks-productcarousel.js:9901 dist/blocks-query-pagination.js:7052
+#: dist/blocks-query.js:19376 dist/blocks-repeater.js:7087
+#: dist/blocks-slide.js:9551 dist/blocks-slider.js:9812
+#: dist/blocks-splitcontent.js:9221 dist/blocks-userinfo.js:7253
+#: dist/blocks-videopopup.js:9184 dist/blocks.js:33905
+msgid "Select Option"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7546 dist/blocks-dynamiclist.js:6736
+#: dist/blocks-imageoverlay.js:11092 dist/blocks-modal.js:9095
+#: dist/blocks-portfoliogrid.js:11616 dist/blocks-postgrid.js:12617
+#: dist/blocks-productcarousel.js:9793 dist/blocks-query-pagination.js:6944
+#: dist/blocks-query.js:19268 dist/blocks-repeater.js:6979
+#: dist/blocks-slide.js:9443 dist/blocks-slider.js:9704
+#: dist/blocks-splitcontent.js:9113 dist/blocks-userinfo.js:7145
+#: dist/blocks-videopopup.js:9076 dist/blocks.js:33797
+msgid "Does Not End With"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7543 dist/blocks-dynamiclist.js:6733
+#: dist/blocks-imageoverlay.js:11089 dist/blocks-modal.js:9092
+#: dist/blocks-portfoliogrid.js:11613 dist/blocks-postgrid.js:12614
+#: dist/blocks-productcarousel.js:9790 dist/blocks-query-pagination.js:6941
+#: dist/blocks-query.js:19265 dist/blocks-repeater.js:6976
+#: dist/blocks-slide.js:9440 dist/blocks-slider.js:9701
+#: dist/blocks-splitcontent.js:9110 dist/blocks-userinfo.js:7142
+#: dist/blocks-videopopup.js:9073 dist/blocks.js:33794
+msgid "Ends With"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7540 dist/blocks-dynamiclist.js:6730
+#: dist/blocks-imageoverlay.js:11086 dist/blocks-modal.js:9089
+#: dist/blocks-portfoliogrid.js:11610 dist/blocks-postgrid.js:12611
+#: dist/blocks-productcarousel.js:9787 dist/blocks-query-pagination.js:6938
+#: dist/blocks-query.js:19262 dist/blocks-repeater.js:6973
+#: dist/blocks-slide.js:9437 dist/blocks-slider.js:9698
+#: dist/blocks-splitcontent.js:9107 dist/blocks-userinfo.js:7139
+#: dist/blocks-videopopup.js:9070 dist/blocks.js:33791
+msgid "Does Not Begin With"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7537 dist/blocks-dynamiclist.js:6727
+#: dist/blocks-imageoverlay.js:11083 dist/blocks-modal.js:9086
+#: dist/blocks-portfoliogrid.js:11607 dist/blocks-postgrid.js:12608
+#: dist/blocks-productcarousel.js:9784 dist/blocks-query-pagination.js:6935
+#: dist/blocks-query.js:19259 dist/blocks-repeater.js:6970
+#: dist/blocks-slide.js:9434 dist/blocks-slider.js:9695
+#: dist/blocks-splitcontent.js:9104 dist/blocks-userinfo.js:7136
+#: dist/blocks-videopopup.js:9067 dist/blocks.js:33788
+msgid "Begins With"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7534 dist/blocks-dynamiclist.js:6724
+#: dist/blocks-imageoverlay.js:11080 dist/blocks-modal.js:9083
+#: dist/blocks-portfoliogrid.js:11604 dist/blocks-postgrid.js:12605
+#: dist/blocks-productcarousel.js:9781 dist/blocks-query-pagination.js:6932
+#: dist/blocks-query.js:19256 dist/blocks-repeater.js:6967
+#: dist/blocks-slide.js:9431 dist/blocks-slider.js:9692
+#: dist/blocks-splitcontent.js:9101 dist/blocks-userinfo.js:7133
+#: dist/blocks-videopopup.js:9064 dist/blocks.js:33785
+msgid "Does Not Contain"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7531 dist/blocks-dynamichtml.js:7588
+#: dist/blocks-dynamiclist.js:6721 dist/blocks-dynamiclist.js:6778
+#: dist/blocks-imageoverlay.js:11077 dist/blocks-imageoverlay.js:11134
+#: dist/blocks-modal.js:9080 dist/blocks-modal.js:9137
+#: dist/blocks-portfoliogrid.js:11601 dist/blocks-portfoliogrid.js:11658
+#: dist/blocks-postgrid.js:12602 dist/blocks-postgrid.js:12659
+#: dist/blocks-productcarousel.js:9778 dist/blocks-productcarousel.js:9835
+#: dist/blocks-query-pagination.js:6929 dist/blocks-query-pagination.js:6986
+#: dist/blocks-query.js:19253 dist/blocks-query.js:19310
+#: dist/blocks-repeater.js:6964 dist/blocks-repeater.js:7021
+#: dist/blocks-slide.js:9428 dist/blocks-slide.js:9485
+#: dist/blocks-slider.js:9689 dist/blocks-slider.js:9746
+#: dist/blocks-splitcontent.js:9098 dist/blocks-splitcontent.js:9155
+#: dist/blocks-userinfo.js:7130 dist/blocks-userinfo.js:7187
+#: dist/blocks-videopopup.js:9061 dist/blocks-videopopup.js:9118
+#: dist/blocks.js:33782 dist/blocks.js:33839
+msgid "Contains"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7522 dist/blocks-dynamichtml.js:7553
+#: dist/blocks-dynamichtml.js:7595 dist/blocks-dynamiclist.js:6712
+#: dist/blocks-dynamiclist.js:6743 dist/blocks-dynamiclist.js:6785
+#: dist/blocks-imageoverlay.js:11068 dist/blocks-imageoverlay.js:11099
+#: dist/blocks-imageoverlay.js:11141 dist/blocks-modal.js:9071
+#: dist/blocks-modal.js:9102 dist/blocks-modal.js:9144
+#: dist/blocks-portfoliogrid.js:11592 dist/blocks-portfoliogrid.js:11623
+#: dist/blocks-portfoliogrid.js:11665 dist/blocks-postgrid.js:12593
+#: dist/blocks-postgrid.js:12624 dist/blocks-postgrid.js:12666
+#: dist/blocks-productcarousel.js:9769 dist/blocks-productcarousel.js:9800
+#: dist/blocks-productcarousel.js:9842 dist/blocks-query-pagination.js:6920
+#: dist/blocks-query-pagination.js:6951 dist/blocks-query-pagination.js:6993
+#: dist/blocks-query.js:19244 dist/blocks-query.js:19275
+#: dist/blocks-query.js:19317 dist/blocks-repeater.js:6955
+#: dist/blocks-repeater.js:6986 dist/blocks-repeater.js:7028
+#: dist/blocks-slide.js:9419 dist/blocks-slide.js:9450
+#: dist/blocks-slide.js:9492 dist/blocks-slider.js:9680
+#: dist/blocks-slider.js:9711 dist/blocks-slider.js:9753
+#: dist/blocks-splitcontent.js:9089 dist/blocks-splitcontent.js:9120
+#: dist/blocks-splitcontent.js:9162 dist/blocks-userinfo.js:7121
+#: dist/blocks-userinfo.js:7152 dist/blocks-userinfo.js:7194
+#: dist/blocks-videopopup.js:9052 dist/blocks-videopopup.js:9083
+#: dist/blocks-videopopup.js:9125 dist/blocks.js:33773 dist/blocks.js:33804
+#: dist/blocks.js:33846 dist/blocks.js:62953
+msgid "Empty"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7519 dist/blocks-dynamichtml.js:7550
+#: dist/blocks-dynamichtml.js:7592 dist/blocks-dynamiclist.js:6709
+#: dist/blocks-dynamiclist.js:6740 dist/blocks-dynamiclist.js:6782
+#: dist/blocks-imageoverlay.js:11065 dist/blocks-imageoverlay.js:11096
+#: dist/blocks-imageoverlay.js:11138 dist/blocks-modal.js:9068
+#: dist/blocks-modal.js:9099 dist/blocks-modal.js:9141
+#: dist/blocks-portfoliogrid.js:11589 dist/blocks-portfoliogrid.js:11620
+#: dist/blocks-portfoliogrid.js:11662 dist/blocks-postgrid.js:12590
+#: dist/blocks-postgrid.js:12621 dist/blocks-postgrid.js:12663
+#: dist/blocks-productcarousel.js:9766 dist/blocks-productcarousel.js:9797
+#: dist/blocks-productcarousel.js:9839 dist/blocks-query-pagination.js:6917
+#: dist/blocks-query-pagination.js:6948 dist/blocks-query-pagination.js:6990
+#: dist/blocks-query.js:19241 dist/blocks-query.js:19272
+#: dist/blocks-query.js:19314 dist/blocks-repeater.js:6952
+#: dist/blocks-repeater.js:6983 dist/blocks-repeater.js:7025
+#: dist/blocks-slide.js:9416 dist/blocks-slide.js:9447
+#: dist/blocks-slide.js:9489 dist/blocks-slider.js:9677
+#: dist/blocks-slider.js:9708 dist/blocks-slider.js:9750
+#: dist/blocks-splitcontent.js:9086 dist/blocks-splitcontent.js:9117
+#: dist/blocks-splitcontent.js:9159 dist/blocks-userinfo.js:7118
+#: dist/blocks-userinfo.js:7149 dist/blocks-userinfo.js:7191
+#: dist/blocks-videopopup.js:9049 dist/blocks-videopopup.js:9080
+#: dist/blocks-videopopup.js:9122 dist/blocks.js:33770 dist/blocks.js:33801
+#: dist/blocks.js:33843 dist/blocks.js:62950 dist/blocks.js:62990
+msgid "Not Empty"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7507 dist/blocks-dynamiclist.js:6697
+#: dist/blocks-imageoverlay.js:11053 dist/blocks-modal.js:9056
+#: dist/blocks-portfoliogrid.js:11577 dist/blocks-postgrid.js:12578
+#: dist/blocks-productcarousel.js:9754 dist/blocks-query-pagination.js:6905
+#: dist/blocks-query.js:19229 dist/blocks-repeater.js:6940
+#: dist/blocks-slide.js:9404 dist/blocks-slider.js:9665
+#: dist/blocks-splitcontent.js:9074 dist/blocks-userinfo.js:7106
+#: dist/blocks-videopopup.js:9037 dist/blocks.js:33758
+msgid "Select Field"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7406 dist/blocks-dynamiclist.js:6596
+#: dist/blocks-imageoverlay.js:10952 dist/blocks-modal.js:8955
+#: dist/blocks-portfoliogrid.js:11476 dist/blocks-postgrid.js:12477
+#: dist/blocks-productcarousel.js:9653 dist/blocks-query-pagination.js:6804
+#: dist/blocks-query.js:19128 dist/blocks-repeater.js:6839
+#: dist/blocks-slide.js:9303 dist/blocks-slider.js:9564
+#: dist/blocks-splitcontent.js:8973 dist/blocks-userinfo.js:7005
+#: dist/blocks-videopopup.js:8936 dist/blocks.js:33657
+msgid "Create dynamic sites by populating content from various sources."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7406 dist/blocks-dynamiclist.js:6596
+#: dist/blocks-imageoverlay.js:10952 dist/blocks-modal.js:8955
+#: dist/blocks-portfoliogrid.js:11476 dist/blocks-postgrid.js:12477
+#: dist/blocks-productcarousel.js:9653 dist/blocks-query-pagination.js:6804
+#: dist/blocks-query.js:19128 dist/blocks-repeater.js:6839
+#: dist/blocks-slide.js:9303 dist/blocks-slider.js:9564
+#: dist/blocks-splitcontent.js:8973 dist/blocks-userinfo.js:7005
+#: dist/blocks-videopopup.js:8936 dist/blocks.js:33657 dist/blocks.js:67449
+#: dist/blocks.js:67681
+msgid "Dynamic Content"
+msgstr "Contenuto dinamico"
+
+#: dist/blocks-dynamichtml.js:7065 dist/blocks-dynamichtml.js:7408
+#: dist/blocks-dynamichtml.js:12640 dist/blocks-dynamiclist.js:6255
+#: dist/blocks-dynamiclist.js:6598 dist/blocks-dynamiclist.js:11830
+#: dist/blocks-imageoverlay.js:10611 dist/blocks-imageoverlay.js:10954
+#: dist/blocks-imageoverlay.js:16186 dist/blocks-modal.js:8614
+#: dist/blocks-modal.js:8957 dist/blocks-modal.js:14189
+#: dist/blocks-portfoliogrid.js:11135 dist/blocks-portfoliogrid.js:11478
+#: dist/blocks-portfoliogrid.js:16710 dist/blocks-postgrid.js:12136
+#: dist/blocks-postgrid.js:12479 dist/blocks-postgrid.js:17711
+#: dist/blocks-productcarousel.js:9312 dist/blocks-productcarousel.js:9655
+#: dist/blocks-productcarousel.js:14887 dist/blocks-query-pagination.js:6463
+#: dist/blocks-query-pagination.js:6806 dist/blocks-query-pagination.js:12038
+#: dist/blocks-query.js:18787 dist/blocks-query.js:19130
+#: dist/blocks-query.js:24362 dist/blocks-repeater.js:6498
+#: dist/blocks-repeater.js:6841 dist/blocks-repeater.js:12073
+#: dist/blocks-slide.js:8962 dist/blocks-slide.js:9305
+#: dist/blocks-slide.js:14537 dist/blocks-slider.js:9223
+#: dist/blocks-slider.js:9566 dist/blocks-slider.js:14798
+#: dist/blocks-splitcontent.js:8632 dist/blocks-splitcontent.js:8975
+#: dist/blocks-splitcontent.js:14207 dist/blocks-userinfo.js:6664
+#: dist/blocks-userinfo.js:7007 dist/blocks-userinfo.js:12239
+#: dist/blocks-videopopup.js:8595 dist/blocks-videopopup.js:8938
+#: dist/blocks-videopopup.js:14170 dist/blocks.js:33316 dist/blocks.js:33659
+#: dist/blocks.js:38891
+msgid "Upgrade to Pro"
+msgstr "Aggiornamento a Pro"
+
+#: dist/blocks-dynamichtml.js:7063 dist/blocks-dynamiclist.js:6253
+#: dist/blocks-imageoverlay.js:10609 dist/blocks-modal.js:8612
+#: dist/blocks-portfoliogrid.js:11133 dist/blocks-postgrid.js:12134
+#: dist/blocks-productcarousel.js:9310 dist/blocks-query-pagination.js:6461
+#: dist/blocks-query.js:18785 dist/blocks-repeater.js:6496
+#: dist/blocks-slide.js:8960 dist/blocks-slider.js:9221
+#: dist/blocks-splitcontent.js:8630 dist/blocks-userinfo.js:6662
+#: dist/blocks-videopopup.js:8593 dist/blocks.js:33314
+msgid "Create dynamic sites by populating background images from various sources."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:7063 dist/blocks-dynamiclist.js:6253
+#: dist/blocks-imageoverlay.js:10609 dist/blocks-modal.js:8612
+#: dist/blocks-portfoliogrid.js:11133 dist/blocks-postgrid.js:12134
+#: dist/blocks-productcarousel.js:9310 dist/blocks-query-pagination.js:6461
+#: dist/blocks-query.js:18785 dist/blocks-repeater.js:6496
+#: dist/blocks-slide.js:8960 dist/blocks-slider.js:9221
+#: dist/blocks-splitcontent.js:8630 dist/blocks-userinfo.js:6662
+#: dist/blocks-videopopup.js:8593 dist/blocks.js:33314 dist/blocks.js:63646
+msgid "Dynamic Background Image"
+msgstr "Immagine di sfondo dinamica"
+
+#: dist/blocks-dynamichtml.js:3175
+msgid "Block cannot render source post content inside the source post content."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:3142
+msgid "This content is password protected."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:3085
+msgid "No content found."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:3027 dist/blocks-dynamiclist.js:2316
+#: dist/blocks-query.js:2924 dist/blocks-query.js:9090
+#: dist/blocks-query.js:14485 dist/blocks-slider.js:5180
+msgid "Margin"
+msgstr "Margine"
+
+#: dist/blocks-dynamichtml.js:3001 dist/blocks-dynamiclist.js:2290
+#: dist/blocks-query.js:2902 dist/blocks-query.js:9066
+#: dist/blocks-query.js:14463 dist/blocks-slider.js:5156
+msgid "Padding"
+msgstr "Spaziatura interna"
+
+#: dist/blocks-dynamichtml.js:2931
+msgid "H6 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2925
+msgid "H6 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2855
+msgid "H5 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2849
+msgid "H5 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2779
+msgid "H4 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2773
+msgid "H4 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2703
+msgid "H3 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2697
+msgid "H3 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2627
+msgid "H2 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2621
+msgid "H2 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2551
+msgid "H1 Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2545
+msgid "H1 Typography Settings"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2475
+msgid "Text Typography"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2469 dist/blocks-dynamiclist.js:2195
+msgid "Underline on Hover"
+msgstr "Sottolineato in hover"
+
+#: dist/blocks-dynamichtml.js:2466 dist/blocks-dynamiclist.js:2192
+msgid "Underline"
+msgstr "Sottolinea"
+
+#: dist/blocks-dynamichtml.js:2460 dist/blocks-dynamiclist.js:2186
+msgid "Unset"
+msgstr "Non impostato"
+
+#: dist/blocks-dynamichtml.js:2456 dist/blocks-dynamiclist.js:2182
+msgid "Link Style"
+msgstr "Stile del link"
+
+#: dist/blocks-dynamichtml.js:2449 dist/blocks-modal.js:3865
+#: dist/blocks-modal.js:4124 dist/blocks-portfoliogrid.js:6038
+#: dist/blocks-portfoliogrid.js:6437 dist/blocks-postgrid.js:6513
+#: dist/blocks-postgrid.js:6958 dist/blocks-postgrid.js:7378
+#: dist/blocks-query-pagination.js:2041 dist/blocks-query-pagination.js:2096
+#: dist/blocks-query.js:4055 dist/blocks-query.js:9648
+#: dist/blocks-query.js:9703 dist/blocks-videopopup.js:3938
+#: dist/blocks-videopopup.js:4084 dist/blocks-videopopup.js:4357
+msgid "Hover"
+msgstr "Passaggio del mouse"
+
+#: dist/blocks-dynamichtml.js:2443 dist/blocks-modal.js:3861
+#: dist/blocks-modal.js:4120 dist/blocks-portfoliogrid.js:6034
+#: dist/blocks-portfoliogrid.js:6433 dist/blocks-postgrid.js:6509
+#: dist/blocks-postgrid.js:6954 dist/blocks-postgrid.js:7374
+#: dist/blocks-query-pagination.js:2038 dist/blocks-query-pagination.js:2093
+#: dist/blocks-query.js:4051 dist/blocks-query.js:9645
+#: dist/blocks-query.js:9700 dist/blocks-slide.js:4916
+#: dist/blocks-videopopup.js:3934 dist/blocks-videopopup.js:4080
+#: dist/blocks-videopopup.js:4257 dist/blocks-videopopup.js:4353
+msgid "Normal"
+msgstr "Normale"
+
+#: dist/blocks-dynamichtml.js:2442 dist/blocks-modal.js:4194
+#: dist/blocks-portfoliogrid.js:6657 dist/blocks-postgrid.js:6848
+#: dist/blocks-postgrid.js:7169
+msgid "Link Color"
+msgstr "Colore Link"
+
+#: dist/blocks-dynamichtml.js:2435
+msgid "Heading Color"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2428
+msgid "Text Color"
+msgstr "Colore testo"
+
+#: dist/blocks-dynamichtml.js:2414 dist/blocks-dynamiclist.js:2095
+#: dist/blocks-slide.js:4965 dist/blocks-userinfo.js:2199
+msgid "Content Alignment"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2406
+msgid "Remove all HTML tags from the content."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2405
+msgid "Strip HTML"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2397
+msgid "Show Ellipsis"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2389
+msgid "Max Word Count"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2383
+msgid "Set Max Word Count"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2379
+msgid "Content Modification"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2345
+msgid "Use Inner Tag Wrap"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2317
+msgid "Container HTML tag"
+msgstr "Tag HTML contenitore"
+
+#: dist/blocks-dynamichtml.js:2289 dist/blocks-dynamiclist.js:2067
+#: dist/blocks-imageoverlay.js:39202 dist/blocks.js:63060 dist/blocks.js:63494
+#: dist/blocks.js:64062 dist/blocks.js:64439 dist/blocks.js:65001
+#: dist/blocks.js:65702 dist/blocks.js:66360 dist/blocks.js:66965
+#: dist/blocks.js:67530
+msgid "Custom Field"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2281 dist/blocks-dynamichtml.js:2309
+#: dist/blocks-dynamiclist.js:2085 dist/blocks-imageoverlay.js:39194
+#: dist/blocks-imageoverlay.js:39221 dist/blocks.js:63077 dist/blocks.js:63486
+#: dist/blocks.js:63514 dist/blocks.js:64080 dist/blocks.js:64457
+#: dist/blocks.js:64993 dist/blocks.js:65021 dist/blocks.js:65694
+#: dist/blocks.js:65722 dist/blocks.js:66352 dist/blocks.js:66380
+#: dist/blocks.js:66957 dist/blocks.js:66984 dist/blocks.js:67522
+#: dist/blocks.js:67549
+msgid "Custom Meta Key"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2264 dist/blocks-imageoverlay.js:39178
+#: dist/blocks.js:63469 dist/blocks.js:64976 dist/blocks.js:65677
+#: dist/blocks.js:66335 dist/blocks.js:66941 dist/blocks.js:67506
+msgid "Relationship Source"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2251 dist/blocks-dynamichtml.js:2463
+#: dist/blocks-dynamiclist.js:1933 dist/blocks-dynamiclist.js:2154
+#: dist/blocks-dynamiclist.js:2189 dist/blocks-imageoverlay.js:6171
+#: dist/blocks-imageoverlay.js:39149 dist/blocks-portfoliogrid.js:5855
+#: dist/blocks-portfoliogrid.js:5877 dist/blocks-postgrid.js:5935
+#: dist/blocks-query.js:5396 dist/blocks-query.js:14431
+#: dist/blocks-videopopup.js:3862 dist/blocks.js:25719 dist/blocks.js:25756
+#: dist/blocks.js:25789 dist/blocks.js:62007 dist/blocks.js:63024
+#: dist/blocks.js:66912 dist/blocks.js:67479
+msgid "None"
+msgstr "Nessuno"
+
+#: dist/blocks-dynamichtml.js:2238
+msgid "HTML Content"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2218 dist/blocks-dynamiclist.js:2020
+#: dist/blocks-repeater.js:2104 dist/blocks-repeater.js:2446
+msgid "Source"
+msgstr "Sorgente"
+
+#: dist/blocks-dynamichtml.js:2194 dist/blocks-imageoverlay.js:39112
+#: dist/blocks-repeater.js:2150 dist/blocks-repeater.js:2492
+#: dist/blocks.js:63401 dist/blocks.js:63988 dist/blocks.js:64908
+#: dist/blocks.js:65609 dist/blocks.js:66269 dist/blocks.js:66875
+msgid "Repeater Field"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:2179 dist/blocks-imageoverlay.js:39100
+#: dist/blocks.js:63389 dist/blocks.js:63977 dist/blocks.js:64896
+#: dist/blocks.js:65597 dist/blocks.js:66257 dist/blocks.js:66863
+#: dist/blocks.js:67570
+msgid "Use Repeater Context"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:1678
+msgid "Display dynamic html content."
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:1677 dist/blocks-dynamiclist.js:1677
+msgid "dynamic"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:1677
+msgid "html"
+msgstr ""
+
+#: dist/blocks-dynamichtml.js:1672
+msgid "Dynamic HTML"
+msgstr ""
+
+#: includes/uplink/Connect.php:437 includes/uplink/Connect.php:448
+msgid "Click here to activate."
+msgstr ""
+
+#: includes/uplink/Connect.php:437 includes/uplink/Connect.php:448
+msgid "Kadence Blocks Pro is not activated."
+msgstr ""
+
+#: includes/uplink/Connect.php:255 includes/uplink/Connect.php:261
+msgid "License Key"
+msgstr ""
+
+#: includes/uplink/Connect.php:251
+msgid "A valid license key is required for support and updates"
+msgstr ""
+
+#: includes/uplink/Connect.php:197
+msgid "Network License Controlled"
+msgstr ""
+
+#: includes/uplink/Connect.php:180
+msgid "License"
+msgstr ""
+
+#: includes/uplink/Connect.php:180
+msgid "Kadence Blocks - License"
+msgstr ""
+
+#: includes/uplink/Connect.php:157 dist/blocks-dynamichtml.js:12859
+#: dist/blocks-dynamichtml.js:36106 dist/blocks-dynamiclist.js:12049
+#: dist/blocks-dynamiclist.js:35296 dist/blocks-imageoverlay.js:16405
+#: dist/blocks-imageoverlay.js:40042 dist/blocks-modal.js:14408
+#: dist/blocks-portfoliogrid.js:16929 dist/blocks-postgrid.js:17930
+#: dist/blocks-productcarousel.js:15106 dist/blocks-query-pagination.js:12257
+#: dist/blocks-query.js:24581 dist/blocks-repeater.js:12292
+#: dist/blocks-repeater.js:35539 dist/blocks-slide.js:14756
+#: dist/blocks-slider.js:15017 dist/blocks-splitcontent.js:14426
+#: dist/blocks-userinfo.js:12458 dist/blocks-videopopup.js:3698
+#: dist/blocks-videopopup.js:3730 dist/blocks-videopopup.js:14389
+#: dist/blocks.js:39110 dist/blocks.js:68800
+msgid "Clear"
+msgstr "Pulisci"
+
+#: includes/uplink/Connect.php:91 includes/uplink/Connect.php:94
+msgid "Your license key is valid"
+msgstr ""
+
+#: includes/uplink/admin-views/field.php:46 includes/uplink/Connect.php:269
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#. translators: %s - link to a site.
+#: includes/templates/form-auto-email.php:136
+msgid "Sent from %s"
+msgstr "Inviato da %s"
+
+#: includes/query/query-rest-api.php:325
+msgid "The query loop post id."
+msgstr ""
+
+#: includes/query/query-rest-api.php:320
+msgid "If the request is coming from the frontend block."
+msgstr ""
+
+#: includes/query/query-rest-api.php:315
+msgid "The results page requested."
+msgstr ""
+
+#: includes/query/query-rest-api.php:280
+msgid "Please select a query card in the editor."
+msgstr ""
+
+#: includes/query/query-indexer-woo.php:62
+msgid "Out of Stock"
+msgstr ""
+
+#: includes/query/query-indexer-woo.php:62
+msgid "In Stock"
+msgstr ""
+
+#: includes/query/query-indexer-woo.php:53
+msgid "On Sale"
+msgstr ""
+
+#: includes/query/query-frontend-pagination.php:53
+msgctxt "next set of posts"
+msgid "Next"
+msgstr ""
+
+#: includes/query/query-frontend-pagination.php:52
+msgctxt "previous set of posts"
+msgid "Previous"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:321 dist/blocks-query.js:10807
+msgid "Modified last"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:320 dist/blocks-query.js:10806
+msgid "Modified recently"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:317 dist/blocks-query.js:10811
+msgid "Sort by title (Z-A)"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:316 dist/blocks-query.js:10810
+msgid "Sort by title (A-Z)"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:313 dist/blocks-query.js:10803
+msgid "Sort by newest"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:312 dist/blocks-query.js:10802
+msgid "Sort by oldest"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:309 dist/blocks-query.js:10815
+msgid "Sort by author (Z-A)"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:308 dist/blocks-query.js:10814
+msgid "Sort by author (A-Z)"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:305 dist/blocks-query.js:10799
+msgid "Post ID descending"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:304 dist/blocks-query.js:10798
+msgid "Post ID ascending"
+msgstr ""
+
+#: includes/query/query-frontend-filters.php:285
+#: includes/query/query-frontend-filters.php:288
+#: dist/blocks-dynamichtml.js:17945 dist/blocks-dynamiclist.js:17135
+#: dist/blocks-imageoverlay.js:21491 dist/blocks-modal.js:19494
+#: dist/blocks-portfoliogrid.js:22015 dist/blocks-postgrid.js:23016
+#: dist/blocks-productcarousel.js:20192 dist/blocks-query-pagination.js:17343
+#: dist/blocks-query.js:7486 dist/blocks-query.js:14002
+#: dist/blocks-query.js:14088 dist/blocks-query.js:14116
+#: dist/blocks-query.js:29667 dist/blocks-repeater.js:17378
+#: dist/blocks-slide.js:19842 dist/blocks-slider.js:20103
+#: dist/blocks-splitcontent.js:19512 dist/blocks-userinfo.js:17544
+#: dist/blocks-videopopup.js:19475 dist/blocks.js:27289 dist/blocks.js:27298
+#: dist/blocks.js:44196
+msgid "Search"
+msgstr "Cerca"
+
+#: includes/query/query-frontend-filters.php:58 dist/blocks-query.js:8742
+msgid "Select..."
+msgstr ""
+
+#: includes/query/query-cpt.php:794
+msgid "Force Reindex"
+msgstr ""
+
+#: includes/query/query-cpt.php:119
+msgid "Loop through post, pages, or other custom post types"
+msgstr ""
+
+#: includes/query/query-cpt.php:111
+msgid "Search Queries"
+msgstr ""
+
+#: includes/query/query-cpt.php:110
+msgid "View Queries"
+msgstr ""
+
+#: includes/query/query-cpt.php:109
+msgid "View Query"
+msgstr ""
+
+#: includes/query/query-cpt.php:108
+msgid "Update Query"
+msgstr ""
+
+#: includes/query/query-cpt.php:107
+msgid "Edit Query"
+msgstr ""
+
+#: includes/query/query-cpt.php:106
+msgid "New Query"
+msgstr ""
+
+#: includes/query/query-cpt.php:105
+msgid "Add New Query"
+msgstr ""
+
+#: includes/query/query-cpt.php:104
+msgid "Queries"
+msgstr ""
+
+#: includes/query/query-cpt.php:103
+msgid "Parent Queries:"
+msgstr ""
+
+#: includes/query/query-cpt.php:102
+msgid "Query Attributes"
+msgstr ""
+
+#: includes/query/query-cpt.php:101
+msgid "Query Archives"
+msgstr ""
+
+#: includes/query/query-cpt.php:100
+msgctxt "Admin Menu text"
+msgid "Query"
+msgstr ""
+
+#: includes/query/query-cpt.php:99
+msgctxt "Post Type Singular Name"
+msgid "Query"
+msgstr ""
+
+#: includes/query/query-cpt.php:98
+msgctxt "Post Type General Name"
+msgid "Query"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:119
+msgid "Cards for Kadence Query Loops."
+msgstr ""
+
+#: includes/query/query-card-cpt.php:114 includes/query/query-cpt.php:114
+msgid "Filter items list"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:113 includes/query/query-cpt.php:113
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:112 includes/query/query-cpt.php:112
+msgid "Not found"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:111
+msgid "Search Query Cards"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:110
+msgid "View Query Cards"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:109
+msgid "View Query Card"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:108
+msgid "Update Query Card"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:107
+msgid "Edit Query Card"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:106
+msgid "New Query Card"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:105
+msgid "Add New Query Card"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:104
+msgid "Query Cards"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:103
+msgid "Parent Query Cards:"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:102
+msgid "Query Card Attributes"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:101
+msgid "Query Card Archives"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:100
+msgctxt "Admin Menu text"
+msgid "Query Card"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:99
+msgctxt "Post Type Singular Name"
+msgid "Query Card"
+msgstr ""
+
+#: includes/query/query-card-cpt.php:98
+msgctxt "Post Type General Name"
+msgid "Query Card"
+msgstr ""
+
+#: includes/form/kbp-form-actions.php:146
+msgid "submission"
+msgstr "invio"
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:694
+msgid "Filter by form"
+msgstr "Filtra per modulo"
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:679
+msgid "Empty Trash"
+msgstr "Svuota cestino"
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:673
+msgid "Export CSV"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:669
+#: dist/blocks-portfoliogrid.js:6345
+msgid "Filter"
+msgstr "Filtro"
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:640
+msgid "Trash permanently deleted"
+msgstr "Cestino svuotato completamente"
+
+#. translators: %d: number of entries
+#: includes/form/admin/kb-form-admin-entries-table-list.php:632
+msgid "%d entry trashed."
+msgid_plural "%d entries trashed."
+msgstr[0] "%d voce cestinata."
+msgstr[1] "%d voci cestinate."
+
+#. translators: %d: number of entries
+#: includes/form/admin/kb-form-admin-entries-table-list.php:622
+msgid "%d entry permanently deleted."
+msgid_plural "%d entries permanently deleted."
+msgstr[0] "%d voce cancellata definitivamente."
+msgstr[1] "%d voci cancellate definitivamente."
+
+#. translators: %d: number of entries
+#: includes/form/admin/kb-form-admin-entries-table-list.php:612
+msgid "%d entry restored."
+msgid_plural "%d entries restored."
+msgstr[0] "%d voce ripristinata."
+msgstr[1] "%d voci ripristinate."
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:423
+msgid "Second Field"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:422
+msgid "First Field"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:418
+msgid "Actions"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:304
+msgid "Delete Permanently"
+msgstr "Elimina definitivamente"
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:287
+msgid "Restore"
+msgstr "Ripristina"
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:251
+msgid "View"
+msgstr "Visualizza"
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:214
+msgid "No entries avaliable."
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:112
+#: includes/form/admin/kb-form-admin-entries-table-list.php:390
+msgid "{Deleted}"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:60
+#: includes/form/admin/kb-form-admin-entries-table-list.php:187
+#: includes/form/admin/kb-form-admin-entries-table-list.php:267
+msgid "Trash"
+msgstr "Cestino"
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:59
+#: includes/form/admin/kb-form-admin-entries-table-list.php:186
+msgid "Published"
+msgstr "Pubblicato"
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:43
+msgid "Entries"
+msgstr ""
+
+#: includes/form/admin/kb-form-admin-entries-table-list.php:42
+msgid "Entry"
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:341
+msgid "Insufficient privileges to export entries."
+msgstr ""
+
+#: includes/form/admin/kadence-admin-form-entries.php:311
+msgid "Search entries"
+msgstr "Cerca voci"
+
+#: includes/form/admin/kadence-admin-form-entries.php:276
+msgid "Move to trash"
+msgstr "Sposta nel cestino"
+
+#: includes/form/admin/kadence-admin-form-entries.php:253
+msgid "User Device:"
+msgstr "Dispositivo utente:"
+
+#: includes/form/admin/kadence-admin-form-entries.php:246
+msgid "User IP:"
+msgstr "IP utente:"
+
+#: includes/form/admin/kadence-admin-form-entries.php:239
+msgid "Page:"
+msgstr "Pagina:"
+
+#: includes/form/admin/kadence-admin-form-entries.php:221
+msgid "User:"
+msgstr "Utente:"
+
+#: includes/form/admin/kadence-admin-form-entries.php:213
+msgid "Submitted:"
+msgstr "Inviato:"
+
+#: includes/form/admin/kadence-admin-form-entries.php:204
+msgid "Form Name:"
+msgstr "Nome modulo:"
+
+#: includes/form/admin/kadence-admin-form-entries.php:195
+msgid "Form ID:"
+msgstr "ID Modulo:"
+
+#: includes/form/admin/kadence-admin-form-entries.php:190
+msgid "Entry ID:"
+msgstr "ID Voce:"
+
+#: includes/form/admin/kadence-admin-form-entries.php:184
+msgid "Entry Details"
+msgstr "Dettagli voce"
+
+#. translators: %1$s refers to form name, #%2$s refers to the entry number.
+#: includes/form/admin/kadence-admin-form-entries.php:150
+msgid "%1$s : Entry #%2$s"
+msgstr "%1$s : Entrata #%2$s"
+
+#: includes/form/admin/kadence-admin-form-entries.php:140
+msgid "Back to All Entries"
+msgstr "Torna a tutte le voci"
+
+#: includes/form/admin/kadence-admin-form-entries.php:139
+msgid "Form Entry"
+msgstr "Voce Modulo"
+
+#: includes/form/admin/kadence-admin-form-entries.php:55
+#: includes/form/admin/kadence-admin-form-entries.php:303
+msgid "Form Entries"
+msgstr "Voci Modulo"
+
+#: includes/form/admin/kadence-admin-form-entries.php:55
+msgid "Kadence Blocks - Form Entries"
+msgstr "Kadence Blocks - Voci modulo"
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:278
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:281
+#: includes/form/admin/kadence-admin-form-entries.php:163
+#: includes/form/admin/kadence-admin-form-entries.php:169
+#: includes/form/admin/kadence-admin-form-entries.php:174
+msgid "No Data"
+msgstr "Nessun dato"
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:211
+msgid "User Device"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:210
+msgid "User IP"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:209
+msgid "Page"
+msgstr "Pagina"
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:208
+#: includes/form/admin/kb-form-admin-entries-table-list.php:419
+msgid "Form ID"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:207
+msgid "Entry ID"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:95
+#: includes/form/admin/kb-form-admin-entries-table-list.php:420
+msgid "Date Created"
+msgstr ""
+
+#: includes/form/admin/export/class-kb-entry-csv-exporter.php:94
+#: includes/form/admin/kb-form-admin-entries-table-list.php:421
+#: dist/blocks.js:26372
+msgid "Form Name"
+msgstr "Nome modulo"
+
+#: includes/dynamic-content/inc/tec.php:117
+msgid "All Day"
+msgstr ""
+
+#: includes/dynamic-content/inc/tec.php:93
+#: includes/dynamic-content/inc/tec.php:141
+msgid "End of Day"
+msgstr ""
+
+#: includes/dynamic-content/inc/tec.php:60
+#: includes/dynamic-content/inc/tec.php:129
+msgid "Start of Day"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3530
+#: dist/blocks-query.js:11594
+msgid "Average Rating"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3526
+#: dist/blocks-query.js:11592
+msgid "Regular Price"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3522
+#: dist/blocks-query.js:11590
+msgid "Sale Price"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3518
+#: dist/blocks-query.js:11588
+msgid "Price"
+msgstr ""
+
+#. translators: %s: search query
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3425
+msgid "Search Results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3419
+msgid "Nothing Found"
+msgstr "Non è stato trovato nulla"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3417
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! La pagina non è stata trovata."
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2505
+msgid "Author Image"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2479
+msgid "Logo Image"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2457
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2518
+msgid "Featured Image"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2332
+msgid "Author Image URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2306
+msgid "Logo Image URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2199
+msgid "Author Archive URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2122
+msgid "Comments Count"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2075
+msgid "Repeater Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2071
+#: dist/blocks-repeater.js:1701 dist/blocks-repeater.js:1706
+#: dist/blocks-repeater.js:2321 dist/blocks-repeatertemplate.js:76
+msgid "Repeater"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2066
+msgid "Post Has Taxonomy"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1914
+msgid "User Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1910
+msgid "User ID"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1898
+msgid "User Description"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1878
+msgid "Current User"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1742
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1842
+msgid "Post Content"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1682
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1834
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1993
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2208
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2263
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2341
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2392
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2436
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2514
+msgid "Meta Relationship"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1677
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1829
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2113
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2203
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2336
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2509
+msgid "Author Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1673
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1825
+msgid "Author Bio Info"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1669
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1821
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2109
+msgid "Author Last Name"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1665
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1817
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2105
+msgid "Author First Name"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1661
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1813
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2101
+msgid "Author Display Name"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1657
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1809
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2097
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2195
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2328
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2501
+msgid "Author"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1652
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2190
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2258
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2323
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2496
+msgid "Media Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1648
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2186
+msgid "Media Attachment URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1644
+msgid "Media filename"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1640
+msgid "Media Alt Text"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1636
+msgid "Media Description"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1632
+msgid "Media Caption"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1628
+msgid "Media Title"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1624
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2182
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2319
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2492
+msgid "Media URL"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1620
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2178
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2254
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2315
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2488
+msgid "Media"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1615
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1804
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1988
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2173
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2310
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2387
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2431
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2483
+msgid "Site Custom Setting"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1611
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1800
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1984
+msgid "Current User Display Name"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1607
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1796
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1980
+msgid "Page Title"
+msgstr "Titolo pagina"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1599
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1788
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1972
+msgid "Site Tagline"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1595
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1784
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1968
+msgid "Site Title"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1586
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1775
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2092
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2160
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2249
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2297
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2378
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2422
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2470
+msgid "Archive Custom Field"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1582
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1771
+msgid "Archive Description"
+msgstr ""
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1574
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1767
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2084
+msgid "Archive Title"
+msgstr "Titolo dell’archivio"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1570
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1763
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2080
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2152
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2245
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2293
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2374
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2418
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2466
+msgid "Archive"
+msgstr "Archivio"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1565
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1706
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1758
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1850
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1959
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2013
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2030
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2147
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2220
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2240
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2267
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2288
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2349
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2369
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2396
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2413
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2440
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2461
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2522
+msgid "Post Custom Field"
+msgstr "Campo personalizzato dell'articolo"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1561
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1955
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2062
+msgid "Post Status"
+msgstr "Stato dell'articolo"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1557
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1702
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1951
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2009
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2058
+msgid "Post Type"
+msgstr "Tipo di articolo"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1549
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1754
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1943
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2050
+msgid "Post Last Modified Date"
+msgstr "Ultima data di modifica dell'articolo"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1545
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1750
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1939
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2046
+msgid "Post Date"
+msgstr "Data dell'articolo"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1541
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1935
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2042
+msgid "Post ID"
+msgstr "ID dell'articolo"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1537
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1694
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1746
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1846
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1931
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2005
+msgid "Post Excerpt"
+msgstr "Riassunto dell'articolo"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1529
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1686
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1738
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1838
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1923
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1997
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2034
+msgid "Post Title"
+msgstr "Titolo dell’articolo"
+
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1525
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1734
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1919
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2026
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2135
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2236
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2280
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2365
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2409
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2453
+msgid "Post"
+msgstr "Articolo"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:513
+msgid "Not Found"
+msgstr "Non trovato"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:488
+msgid "Custom Icon Set"
+msgstr "Gruppo icone personalizzate"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:438
+msgid "No Custom Icons found in Trash"
+msgstr "Non ci sono icone personalizzate nel cestino"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:437
+msgid "No Custom Icons found"
+msgstr "Non ci sono icone personalizzate"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:436
+msgid "Search Custom Icons"
+msgstr "Cerca icone personalizzate"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:435
+msgid "View Custom Icon"
+msgstr "Vedi icona personalizzata"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:434
+msgid "All Custom Icons"
+msgstr "Tutte le icone personalizzate"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:433
+msgid "New Custom Icon"
+msgstr "Nuova icona personalizzata"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:432
+msgid "Edit Custom Icon"
+msgstr "Modifica icona personalizzata"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:430
+#: includes/class-kadence-blocks-pro-custom-icons.php:431
+msgid "Add New Custom Icon"
+msgstr "Aggiungi nuova icona personalizzata"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:429
+msgid "Custom Icon"
+msgstr "Icona personalizzata"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:428
+#: includes/class-kadence-blocks-pro-custom-icons.php:440
+msgid "Custom Icons"
+msgstr "Icone personalizzate"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:221
+msgid "Icon Set"
+msgstr "Set di icone"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:209
+msgid "Use this File"
+msgstr "Usa questo file"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:208
+msgid "Choose or Upload File"
+msgstr "Seleziona o carica un file"
+
+#: includes/class-kadence-blocks-pro-custom-icons.php:180
+msgctxt "Kadence Blocks"
+msgid "Custom Icons"
+msgstr "Icone personalizzate"
+
+#: includes/class-kadence-blocks-pro-backend.php:170
+msgid "Display a grid or carousel of portfolio styled posts. Use any post type and define colors, hover animations. You can also add a filter for sorting."
+msgstr "Visualizza una griglia o un carosello di articoli in stile portfolio. Usa qualsiasi tipo di articoli e definisci i colori, animazioni al passaggio del mouse. Puoi anche aggiungere un filtro per l'ordinamento."
+
+#: includes/class-kadence-blocks-pro-backend.php:169
+#: dist/blocks-portfoliogrid.js:4469 dist/blocks-portfoliogrid.js:4475
+#: dist/blocks-portfoliogrid.js:6834 dist/blocks-portfoliogrid.js:6843
+msgid "Portfolio Grid/Carousel"
+msgstr "Griglia/carosello portfolio"
+
+#: includes/class-kadence-blocks-pro-backend.php:164
+msgid "Beautifully display a thumbnail with overlay and hover effect that links to a video popup on click. Works with local or external videos!"
+msgstr "Visualizza magnificamente una miniatura con effetto sovrimpressione e al passaggio del mouse che si collega a un video popup con un clic. Funziona con video locali o esterni!"
+
+#: includes/class-kadence-blocks-pro-backend.php:163
+#: dist/blocks-dynamichtml.js:13396 dist/blocks-dynamiclist.js:12586
+#: dist/blocks-imageoverlay.js:16942 dist/blocks-modal.js:14945
+#: dist/blocks-portfoliogrid.js:17466 dist/blocks-postgrid.js:18467
+#: dist/blocks-productcarousel.js:15643 dist/blocks-query-pagination.js:12794
+#: dist/blocks-query.js:25118 dist/blocks-repeater.js:12829
+#: dist/blocks-slide.js:15293 dist/blocks-slider.js:15554
+#: dist/blocks-splitcontent.js:14963 dist/blocks-userinfo.js:12995
+#: dist/blocks-videopopup.js:1709 dist/blocks-videopopup.js:1714
+#: dist/blocks-videopopup.js:14926 dist/blocks.js:39647
+msgid "Video Popup"
+msgstr "Video Popup"
+
+#: includes/class-kadence-blocks-pro-backend.php:158
+msgid "Add a Woocommerce Product Carousel to your page or post. You can select products by category, on sale, best selling or just individually select the products you want to show."
+msgstr "Aggiungi un carosello di prodotti Woocommerce alla tua pagina o al tuo post. Puoi selezionare i prodotti per categoria, in vendita, i più venduti o semplicemente selezionare singolarmente i prodotti che desideri mostrare."
+
+#: includes/class-kadence-blocks-pro-backend.php:157
+#: dist/blocks-productcarousel.js:4469 dist/blocks-productcarousel.js:5137
+msgid "Product Carousel"
+msgstr "Carosello prodotti"
+
+#: includes/class-kadence-blocks-pro-backend.php:152
+msgid "Easily create call to action buttons that open a modal box. Include any kind of content within your modal. Customize overlay, animation, size, placement etc."
+msgstr "Crea facilmente pulsanti di invito all'azione che aprono una casella modale. Includi qualsiasi tipo di contenuto nel tuo modale. Personalizza sovrimpressione, animazione, dimensioni, posizionamento ecc."
+
+#: includes/class-kadence-blocks-pro-backend.php:151 dist/blocks-modal.js:1668
+#: dist/blocks-modal.js:1674 dist/blocks-videopopup.js:1714
+msgid "Modal"
+msgstr "Modale"
+
+#: includes/class-kadence-blocks-pro-backend.php:146
+msgid "Add a grid or carousel of posts and customize the styling to your desired look. Posts can be selected individually or by category or tag."
+msgstr "Aggiungi una griglia o carosello di post e personalizza lo stile per come desideri che appaia. I post/articoli possono essere selezionati individualmente o per categoria o per tag."
+
+#: includes/class-kadence-blocks-pro-backend.php:145
+#: dist/blocks-postgrid.js:4469 dist/blocks-postgrid.js:4480
+msgid "Post Grid/Carousel"
+msgstr "Griglia/carosello articoli"
+
+#: includes/class-kadence-blocks-pro-backend.php:140
+msgid "Easily create a two column row using an image or video in one column, drag to adjust the media column width and input any desirable blocks in the content column."
+msgstr "Crea facilmente righe a due colonne usando un'immagine o un video in una colonna, trascina o regola la larghezza della colonna dei media e inserisci qualsiasi blocco desideri nella colonna del contenuto."
+
+#: includes/class-kadence-blocks-pro-backend.php:139
+#: dist/blocks-splitcontent.js:1671 dist/blocks-splitcontent.js:1687
+msgid "Split Content"
+msgstr "Contenuto diviso"
+
+#: includes/class-kadence-blocks-pro-backend.php:134
+msgid "The Image Overlay block is a beautiful way to create an image link with an overlay title and subtitle. Using the powerful options you can set placement, animations, and hover effects."
+msgstr "Il blocco dell'immagine sovrapposta è un bel modo per creare link con immagine con sovrapposto un titolo e sottotitolo. Utilizzando le potenti opzioni puoi impostare posizione, animazione ed effetti al passaggio del mouse."
+
+#: includes/class-kadence-blocks-pro-backend.php:133
+#: dist/blocks-imageoverlay.js:1678
+msgid "Image Overlay"
+msgstr "Sovrapponi immagine"
+
+#: includes/class-kadence-blocks-pro-backend.php:110
+msgid "ActiveCampaign API Base"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:99
+msgid "ActiveCampaign API Key"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:88
+msgid "GetResponse API endpoint"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:77
+msgid "GetResponse API Key"
+msgstr ""
+
+#: includes/class-kadence-blocks-pro-backend.php:66
+msgid "Mail Chimp API Key"
+msgstr "Chiave API Mail Chimp"
+
+#: includes/class-kadence-blocks-pro-backend.php:55
+msgid "Send in Blue V3 API Key"
+msgstr "Invia chiave API V3 Blue"
+
+#: includes/class-kadence-blocks-post-select-controller.php:725
+msgid "Limit results to items that match search query."
+msgstr "Limita i risultati agli elementi che coincidono con la domanda richiesta."
+
+#: includes/class-kadence-blocks-post-select-controller.php:714
+msgid "Limit results to items of an object type."
+msgstr "Limita i risultati agli elementi di un tipo di oggetto."
+
+#: includes/class-kadence-blocks-post-select-controller.php:697
+msgid "Include posts tags."
+msgstr "Includi i tag degli articoli."
+
+#: includes/class-kadence-blocks-post-select-controller.php:692
+msgid "Include posts category."
+msgstr "Includere le categorie di articoli."
+
+#: includes/class-kadence-blocks-post-select-controller.php:683
+msgid "Check if using a custom Taxonomy"
+msgstr "Controllare se si sta usando una tassonomia personalizzata"
+
+#: includes/class-kadence-blocks-post-select-controller.php:677
+msgid "Number of items to offset in query."
+msgstr "Numero di elementi da offset nella query."
+
+#: includes/class-kadence-blocks-post-select-controller.php:673
+msgid "Exclude Category."
+msgstr "Escludere categoria."
+
+#: includes/class-kadence-blocks-post-select-controller.php:668
+msgid "Allow Sticky in Query."
+msgstr "Consentire l'evidenza nella query."
+
+#: includes/class-kadence-blocks-post-select-controller.php:664
+#: includes/class-kadence-blocks-post-select-controller.php:688
+msgid "Define Query Order By."
+msgstr "Definire l'ordine della query per."
+
+#: includes/class-kadence-blocks-post-select-controller.php:660
+msgid "Define Query Order."
+msgstr "Definire l'ordine della query."
+
+#: includes/class-kadence-blocks-post-select-controller.php:656
+msgid "Define Type of Query."
+msgstr "Definire il tipo di query."
+
+#: includes/class-kadence-blocks-post-select-controller.php:644
+#: includes/class-kadence-blocks-post-select-controller.php:730
+msgid "Include posts by ID."
+msgstr "Includi gli articoli per ID."
+
+#: includes/class-kadence-blocks-post-select-controller.php:608
+#: includes/class-kadence-blocks-post-select-controller.php:624
+msgid "Limit results to items of a specific post type."
+msgstr "Limita i risultati agli articoli di uno specifico tipo di contenuto."
+
+#: includes/class-kadence-blocks-post-select-controller.php:589
+msgid "Taxonomy Type."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2518
+msgid "Custom Input"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2514
+msgid "Manual"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2442
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2504
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2397
+msgid "Events"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2382
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:3514
+#: dist/blocks-query.js:11542 dist/blocks-query.js:11548
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2062
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2097
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2158
+msgid "Pods Group"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1751
+msgid "Options"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1714
+msgid "Event Organizer Name"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1710
+msgid "Event Location Name"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1706
+msgid "Event End Year"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1702
+msgid "Event Start Year"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1698
+msgid "Event End Month Number"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1694
+msgid "Event End Month"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1690
+msgid "Event Start Month Number"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1686
+msgid "Event Start Month"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1682
+msgid "Event End Day of the Month"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1678
+msgid "Event End Day of the Week"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1674
+msgid "Event Start Day of the Month"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1670
+msgid "Event Start Day of the Week"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1666
+msgid "Event End Time"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1662
+msgid "Event Start Time"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1658
+msgid "Event Time"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1654
+msgid "Event End Date"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1650
+msgid "Event Start Date"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1646
+msgid "Event Date"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1626
+msgid "Product Gallery w/o Featured Image"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1622
+msgid "Product Gallery"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1605
+msgid "The repeater row to use for repeater context."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1600
+msgid "If this dynamic content should be rendered in repeater context."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1594
+#: includes/class-kadence-blocks-post-select-controller.php:744
+msgid "Page of results to return."
+msgstr "Pagina di risultati da mostrare."
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1588
+#: includes/class-kadence-blocks-post-select-controller.php:650
+#: includes/class-kadence-blocks-post-select-controller.php:737
+msgid "Number of results to return."
+msgstr "Numero di risultati da restituire."
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1576
+msgid "If the content is current."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1572
+msgid "Fallback."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1568
+msgid "Text After Item."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1564
+msgid "Text Before Item."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1559
+msgid "Fetch all fields"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1554
+msgid "For a string return"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1550
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1584
+msgid "The custom field Key."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1546
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1580
+msgid "The custom field setting."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1541
+msgid "The dynamic field"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1535
+msgid "The group for source."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1529
+#: includes/class-kadence-blocks-post-select-controller.php:593
+msgid "The source of the content."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1523
+msgid "The origin of content."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1416
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2256
+msgid "Meta Box"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1375
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2212
+msgid "Setting:"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1368
+#: includes/class-kadence-blocks-dynamic-content-controller.php:2205
+msgid "Site Option:"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1313
+#: includes/query/query-card-cpt.php:68
+msgid "Description"
+msgstr "Descrizione"
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1310
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1890
+msgid "Display Name"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1307
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1886
+#: dist/blocks.js:25731 dist/blocks.js:25768 dist/blocks.js:25801
+msgid "Last Name"
+msgstr "Cognome"
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1304
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1882
+#: dist/blocks.js:25727 dist/blocks.js:25764 dist/blocks.js:25797
+msgid "First Name"
+msgstr "Nome"
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1301
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1906
+msgid "Username"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1298
+msgid "ID"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1278
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1319
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1902
+msgid "Website"
+msgstr "Sito web"
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1275
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1316
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1894
+#: dist/blocks.js:26063
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1233
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1591
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1780
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1964
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2165
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2302
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2383
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2427
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2475
+msgid "Site"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1031
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1262
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1292
+#: dist/blocks-userinfo.js:1670
+msgid "User Info"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1001
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1230
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1603
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1792
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1976
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2169
+msgid "Site URL"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:970
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1198
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1578
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2088
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2156
+msgid "Archive URL"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:954
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1183
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1553
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1698
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1947
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2054
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2143
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2216
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2284
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2345
+msgid "Featured Image URL"
+msgstr "URL dell'immagine in evidenza"
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:922
+#: includes/class-kadence-blocks-dynamic-content-controller.php:1149
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1533
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1690
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:1927
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2001
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2038
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2139
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2212
+msgid "Post URL"
+msgstr "URL dell'articolo"
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:822
+#: includes/class-kadence-blocks-dynamic-content-controller.php:824
+#: dist/blocks.js:66538
+msgid "No Link"
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:342
+#: includes/class-kadence-blocks-dynamic-content-controller.php:644
+msgid "User does not have capability to view site settings."
+msgstr ""
+
+#: includes/class-kadence-blocks-dynamic-content-controller.php:338
+#: includes/class-kadence-blocks-dynamic-content-controller.php:393
+#: includes/class-kadence-blocks-dynamic-content-controller.php:854
+#: includes/class-kadence-blocks-dynamic-content-controller.php:856
+#: dist/blocks-dynamichtml.js:35442 dist/blocks-dynamiclist.js:34632
+#: dist/blocks-imageoverlay.js:39378 dist/blocks-repeater.js:34875
+#: dist/blocks.js:64616 dist/blocks.js:67141 dist/blocks.js:67286
+#: dist/blocks.js:67381
+msgid "No Content"
+msgstr ""
+
+#: includes/blocks/form-sendinblue-rest-api.php:126
+msgid "The API Key for Brevo (SendInBlue ) account."
+msgstr ""
+
+#: includes/blocks/form-mailchimp-rest-api.php:147
+msgid "The API Key for mailchimp account."
+msgstr "La chiave API per l'account mailchimp."
+
+#: includes/blocks/form-activecampaign-rest-api.php:129
+#: includes/blocks/form-mailchimp-rest-api.php:157
+#: includes/blocks/form-sendinblue-rest-api.php:136
+msgid "Query Args for url."
+msgstr "Query Args per url."
+
+#: includes/blocks/form-activecampaign-rest-api.php:124
+#: includes/blocks/form-convertkit-rest-api.php:105
+#: includes/blocks/form-mailchimp-rest-api.php:152
+#: includes/blocks/form-sendinblue-rest-api.php:131
+msgid "Actionable endpoint for api call."
+msgstr "Endpoint utilizzabile per la chiamata API."
+
+#: includes/blocks/class-kadence-blocks-pro-productcarousel-block.php:258
+msgid "WooCommerce Missing"
+msgstr "Manca WooCommerce"
+
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:2340
+msgid "Comment Count"
+msgstr "Conteggio Commenti"
+
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:2213
+#: includes/dynamic-content/class-kadence-blocks-pro-dynamic-content.php:2118
+msgid "Comments"
+msgstr "Commenti"
+
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:2211
+msgid "Comment"
+msgstr "Commento"
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1188
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:651
+msgid "Next Page"
+msgstr "Pagina successiva"
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1187
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:650
+msgid "Previous Page"
+msgstr "Pagina Precedente"
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1177
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:2513
+msgid "No posts"
+msgstr "Nessun articolo"
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1116
+#: dist/blocks-videopopup.js:3865
+msgid "Zoom"
+msgstr "Zoom"
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:1115
+msgid "View Project Preview"
+msgstr "Vedi anteprima progetto"
+
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:804
+#: includes/blocks/class-kadence-blocks-pro-portfoliogrid-block.php:816
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:291
+#: includes/blocks/class-kadence-blocks-pro-postgrid-block.php:303
+#: includes/form/admin/kb-form-admin-entries-table-list.php:696
+#: includes/query/query-frontend-filters.php:435
+#: dist/blocks-portfoliogrid.js:7090 dist/blocks-portfoliogrid.js:7123
+#: dist/blocks-postgrid.js:8081 dist/blocks-postgrid.js:8114
+#: dist/blocks-query.js:3765
+msgid "All"
+msgstr "Tutto"
+
+#: includes/advanced-form/kbp-advanced-form-analytics.php:310
+#: includes/advanced-form/kbp-advanced-form-analytics.php:314
+#: includes/advanced-form/kbp-advanced-form-analytics.php:343
+msgid "Invalid Period"
+msgstr ""
+
+#: includes/advanced-form/kbp-advanced-form-analytics.php:266
+msgid "Error when querying the database for total events."
+msgstr ""
+
+#: includes/advanced-form/kbp-advanced-form-analytics.php:183
+msgid "Error when querying the database for events."
+msgstr ""
+
+#: includes/advanced-form/kbp-advanced-form-analytics.php:118
+msgid "Error when querying the database for counting events."
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:790
+msgid "View File"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:707
+#: includes/advanced-form/advanced-form-submit-actions.php:718
+#: includes/form/kbp-form-actions.php:52 includes/form/kbp-form-actions.php:62
+#: dist/blocks.js:26319
+msgid "Thanks for getting in touch, we will respond within the next 24 hours."
+msgstr "Grazie per averci contattato, ti risponderemo entro le prossime 24 ore."
+
+#: includes/advanced-form/advanced-form-submit-actions.php:706
+#: includes/advanced-form/advanced-form-submit-actions.php:717
+#: includes/form/kbp-form-actions.php:51 includes/form/kbp-form-actions.php:61
+#: dist/blocks.js:26312
+msgid "Thanks for contacting us!"
+msgstr "Grazie per averci contattato!"
+
+#: includes/advanced-form/advanced-form-submit-actions.php:684
+#: includes/form/kbp-form-actions.php:162
+#: includes/form/kbp-form-actions.php:581
+msgid "Not Collected"
+msgstr "Non raccolto"
+
+#: includes/advanced-form/advanced-form-submit-actions.php:565
+#: includes/form/kbp-form-actions.php:552
+msgid "No Response from Active Campaign"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:498
+msgid "Unable to create contact in GetResponse."
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:236
+msgid "Failed to Connect to MailChimp"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-submit-actions.php:116
+#: includes/form/kbp-form-actions.php:278
+msgid "No Response from SendInBlue"
+msgstr "Nessuna riposta da SendInBlue"
+
+#: includes/advanced-form/advanced-form-ajax.php:246
+msgid "Analytics"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-ajax.php:231
+msgid "Not Enabled"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-ajax.php:229
+msgid "View Analytics"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-ajax.php:183
+msgid "All Forms"
+msgstr ""
+
+#: includes/advanced-form/advanced-form-ajax.php:71
+msgid "Form Analytics"
+msgstr ""
+
+#. Author URI of the plugin
+#: kadence-blocks-pro.php
+msgid "https://www.kadencewp.com/"
+msgstr "https://www.kadencewp.com/"
+
+#. Author of the plugin
+#: kadence-blocks-pro.php
+msgid "Kadence WP"
+msgstr "Kadence WP"
+
+#. Description of the plugin
+#: kadence-blocks-pro.php
+msgid "Extends Kadence Blocks with powerful extras that make it possible to create beautiful content in the WordPress Block Editor"
+msgstr "Estendi Kadence Blocks con i potenti extra che ti consentono di creare fantastici contenuti nell'editor a blocchi di WordPress"
+
+#. Plugin URI of the plugin
+#: kadence-blocks-pro.php
+msgid "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
+msgstr "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
+
+#. Plugin Name of the plugin
+#: kadence-blocks-pro.php
+msgid "Kadence Blocks - PRO Extension"
+msgstr "Kadence Blocks - PRO Estensioni"

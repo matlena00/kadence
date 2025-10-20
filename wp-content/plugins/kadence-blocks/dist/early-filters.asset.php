@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('kadence-helpers', 'lodash', 'react-jsx-runtime', 'wp-blocks', 'wp-components', 'wp-compose', 'wp-data', 'wp-element', 'wp-hooks', 'wp-i18n'), 'version' => 'dccf70b079f3d9a2b41a');

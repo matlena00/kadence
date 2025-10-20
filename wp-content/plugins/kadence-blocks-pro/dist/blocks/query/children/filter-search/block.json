@@ -1,0 +1,105 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Query Filter Search",
+  "name": "kadence/query-filter-search",
+  "parent": [
+    "kadence/query",
+    "kadence/column",
+    "kadence/modal"
+  ],
+  "ancestor": [
+    "kadence/query"
+  ],
+  "category": "kadence-blocks",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "showEmpty": {
+      "type": "boolean",
+      "default": false
+    },
+    "placeholder": {
+      "type": "string",
+      "default": ""
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "autoSearch": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "supports": {
+    "html": false,
+    "className": true,
+    "reusable": false,
+    "anchor": true,
+    "lock": false,
+    "kbMetadata": true
+  }
+}

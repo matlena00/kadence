@@ -1,0 +1,109 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "No Results",
+  "name": "kadence/query-filter-range",
+  "parent": [
+    "kadence/query",
+    "kadence/column",
+    "kadence/modal"
+  ],
+  "ancestor": [
+    "kadence/query"
+  ],
+  "category": "kadence-blocks",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "default": "fields"
+    },
+    "sliderValuesType": {
+      "type": "string",
+      "default": "below"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "sliderHighlightColor": {
+      "type": "string",
+      "default": ""
+    },
+    "sliderColor": {
+      "type": "string",
+      "default": ""
+    },
+    "anchor": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false,
+    "className": true,
+    "reusable": false,
+    "anchor": true,
+    "lock": false,
+    "kbMetadata": true
+  }
+}

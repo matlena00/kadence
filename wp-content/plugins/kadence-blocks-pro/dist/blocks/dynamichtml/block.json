@@ -1,0 +1,452 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Dynamic HTML",
+  "name": "kadence/dynamichtml",
+  "category": "kadence-blocks",
+  "description": "",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "wrapTag": {
+      "type": "string",
+      "default": "div"
+    },
+    "innerWrap": {
+      "type": "string",
+      "default": ""
+    },
+    "field": {
+      "type": "string",
+      "default": ""
+    },
+    "source": {
+      "type": "string",
+      "default": ""
+    },
+    "useRepeaterContext": {
+      "type": "boolean",
+      "default": false
+    },
+    "metaField": {
+      "type": "string",
+      "default": ""
+    },
+    "customMeta": {
+      "type": "string",
+      "default": ""
+    },
+    "relate": {
+      "type": "string",
+      "default": ""
+    },
+    "relcustom": {
+      "type": "string",
+      "default": ""
+    },
+    "alignment": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "linkStyle": {
+      "type": "string"
+    },
+    "textColor": {
+      "type": "string"
+    },
+    "headingColor": {
+      "type": "string"
+    },
+    "linkColor": {
+      "type": "string"
+    },
+    "linkHoverColor": {
+      "type": "string"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingType": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginType": {
+      "type": "string",
+      "default": "px"
+    },
+    "textTypography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "h1Typography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "h2Typography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "h3Typography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "h4Typography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "h5Typography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "h6Typography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "enableH1": {
+      "type": "boolean",
+      "default": false
+    },
+    "enableH2": {
+      "type": "boolean",
+      "default": false
+    },
+    "enableH3": {
+      "type": "boolean",
+      "default": false
+    },
+    "enableH4": {
+      "type": "boolean",
+      "default": false
+    },
+    "enableH5": {
+      "type": "boolean",
+      "default": false
+    },
+    "enableH6": {
+      "type": "boolean",
+      "default": false
+    },
+    "showAllFields": {
+      "type": "boolean",
+      "default": false
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "inQueryBlock": {
+      "type": "boolean",
+      "default": false
+    },
+    "limitWords": {
+      "type": "boolean",
+      "default": false
+    },
+    "showEllipsis": {
+      "type": "boolean",
+      "default": false
+    },
+    "maxWords": {
+      "type": "number",
+      "default": 0
+    },
+    "stripHTML": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "usesContext": [
+    "postId",
+    "queryId",
+    "kadence/dynamicSource",
+    "kadence/repeaterRowData",
+    "kadence/repeaterRow"
+  ],
+  "supports": {
+    "anchor": true,
+    "html": false,
+    "kbMetadata": true
+  }
+}

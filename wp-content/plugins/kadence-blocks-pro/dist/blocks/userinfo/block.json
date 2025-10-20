@@ -1,0 +1,717 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Image Overlay",
+  "name": "kadence/userinfo",
+  "category": "kadence-blocks",
+  "description": "",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "layout": {
+      "type": "array",
+      "default": [
+        "left",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "enableAvatar": {
+      "type": "boolean",
+      "default": true
+    },
+    "avatarWidth": {
+      "type": "number",
+      "default": 80
+    },
+    "avatarBorderRadius": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "tabletAvatarBorderRadius": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "mobileAvatarBorderRadius": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "avatarBorderRadiusUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "avatarBorderColor": {
+      "type": "string"
+    },
+    "avatarBorderWidth": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "avatarPadding": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "tabletAvatarPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "mobileAvatarPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "avatarPaddingType": {
+      "type": "string",
+      "default": "px"
+    },
+    "avatarGap": {
+      "type": "number",
+      "default": 30
+    },
+    "background": {
+      "type": "string"
+    },
+    "borderColor": {
+      "type": "string"
+    },
+    "border": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "tabletBorder": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": ""
+        }
+      ]
+    },
+    "mobileBorder": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": ""
+        }
+      ]
+    },
+    "avatarBorder": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "tabletAvatarBorder": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "mobileAvatarBorder": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "paddingType": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "marginType": {
+      "type": "string",
+      "default": "px"
+    },
+    "borderWidth": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "borderRadius": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "tabletBorderRadius": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileBorderRadius": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "borderRadiusUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "displayShadow": {
+      "type": "boolean",
+      "default": false
+    },
+    "shadow": {
+      "type": "array",
+      "default": [
+        {
+          "color": "rgba(0,0,0,0.2)",
+          "spread": 0,
+          "blur": 14,
+          "hOffset": 0,
+          "vOffset": 0,
+          "inset": false
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "textAlign": {
+      "type": "string"
+    },
+    "enableName": {
+      "type": "boolean",
+      "default": true
+    },
+    "nameTag": {
+      "type": "string",
+      "default": "h2"
+    },
+    "namePreText": {
+      "type": "string",
+      "default": ""
+    },
+    "nameColor": {
+      "type": "string"
+    },
+    "nameFont": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "namePadding": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "tabletNamePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "mobileNamePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "namePaddingType": {
+      "type": "string",
+      "default": "px"
+    },
+    "nameMargin": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "tabletNameMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "mobileNameMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "nameMarginType": {
+      "type": "string",
+      "default": "px"
+    },
+    "enableDate": {
+      "type": "boolean",
+      "default": true
+    },
+    "datePreText": {
+      "type": "string",
+      "default": "Joined on"
+    },
+    "dateColor": {
+      "type": "string"
+    },
+    "dateFont": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "datePadding": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "tabletDatePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "mobileDatePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "datePaddingType": {
+      "type": "string",
+      "default": "px"
+    },
+    "dateMargin": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "tabletDateMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "mobileDateMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "dateMarginType": {
+      "type": "string",
+      "default": "px"
+    },
+    "anchor": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false,
+    "anchor": true,
+    "kbMetadata": true
+  }
+}

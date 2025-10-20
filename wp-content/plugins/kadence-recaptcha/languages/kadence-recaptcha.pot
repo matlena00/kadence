@@ -1,0 +1,399 @@
+# Copyright (C) 2022 Kadence WP
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadence reCAPTCHA 1.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kadence-recaptcha\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-02T21:46:46+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: kadence-recaptcha\n"
+
+#. Plugin Name of the plugin
+msgid "Kadence reCAPTCHA"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.kadencewp.com/product/kadence-google-recaptcha/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds Googles reCAPTCHA in WP comment forms, login forms, registration forms, woocommerce reviews, checkout, etc."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kadence WP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.kadencewp.com/"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:36
+msgid "Recaptcha Settings"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:37
+msgid "Kadence Recaptcha Settings"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:58
+msgid "Settings"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:62
+msgid "Changelog"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:67
+msgid "Web Creators Community"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:68
+msgid "Join our community of fellow kadence users creating effective websites! Share your site, ask a question and help others."
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:70
+msgid "Join our Facebook Group"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:73
+msgid "Documentation"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:74
+msgid "Need help? We have a knowledge base full of articles to get you started."
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:76
+msgid "Browse Docs"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:79
+msgid "Support"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:80
+msgid "Have a question, we are happy to help! Get in touch with our support team."
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:82
+msgid "Submit a Ticket"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:90
+msgid "API Keys"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:91
+msgid "Captcha API Keys"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:97
+msgid "Captcha Type"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:99
+msgid "Google v2"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:100
+msgid "Google v3"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:101
+msgid "Turnstile"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:108
+msgid "V2 Site Key:"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:109
+#: inc/class-kadence-recaptcha-settings.php:117
+#: inc/class-kadence-recaptcha-settings.php:125
+#: inc/class-kadence-recaptcha-settings.php:133
+#: inc/class-kadence-recaptcha-settings.php:141
+#: inc/class-kadence-recaptcha-settings.php:149
+msgid "Get API keys here: %s"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:116
+msgid "V2 Secret Key:"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:124
+msgid "V3 Site Key:"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:132
+msgid "V3 Secret Key:"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:140
+msgid "Turnstile Site Key:"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:148
+msgid "Turnstile Secret Key:"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:156
+msgid "Validate Keys"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:161
+msgid "Recaptcha score threshold"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:163
+msgid "0"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:164
+msgid "0.1"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:165
+msgid "0.2"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:166
+msgid "0.3"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:167
+msgid "0.4"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:168
+msgid "0.5"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:169
+msgid "0.6"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:170
+msgid "0.7"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:171
+msgid "0.8"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:172
+msgid "0.9"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:173
+msgid "1"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:175
+msgid "Recaptcha will rank traffic and interactions based on a score of 0.0 to 1.0, with a 1.0 being a good interaction and scores closer to 0.0 indicating a good likelihood that the traffic was generated by bots"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:182
+msgid "reCaptcha URL"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:184
+msgid "google.com"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:185
+msgid "recaptcha.net"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:187
+msgid "Both options still use google reCaptcha, however recaptcha.net is more likly to work in countries that block google."
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:194
+msgid "Force Specific Language"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:195
+msgid "View language codes here: %s"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:205
+#: inc/class-kadence-recaptcha-settings.php:206
+msgid "Form Settings"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:212
+msgid "Enable for Post and Page Comments"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:218
+msgid "Enable for Login"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:224
+msgid "Enable for Lost Password Form"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:230
+msgid "Enable for Registration"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:236
+msgid "Enable for Woocommerce Checkout"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:242
+msgid "Enable for Woocommerce Reviews"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:252
+#: inc/class-kadence-recaptcha-settings.php:253
+msgid "Design Settings"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:259
+msgid "Hide reCAPTCHA badge"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:260
+msgid "Hiding requires that information about recaptcha be added to your form: %s"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:267
+msgid "Add reCAPTCHA notice info to form"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:268
+msgid "This will add the required reCAPTCHA version 3 informtion to your form."
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:278
+msgid "Optional - Custom Notice Info"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:289
+msgid "Choose a theme"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:291
+msgid "Light"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:292
+msgid "Dark"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:301
+msgid "Choose a size"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:303
+msgid "Normal"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:304
+msgid "Compact"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:313
+msgid "Choose a type"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:315
+msgid "Image"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:316
+msgid "Audio"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:325
+msgid "Choose a alignment"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:327
+msgid "Left"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:328
+msgid "Center"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:329
+msgid "Right"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:338
+msgid "Privacy Consent"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:344
+msgid "Enable privacy consent required before reCaptcha scripts are loaded"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:351
+msgid "Consent Label"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:360
+msgid "Consent Button Text"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:369
+msgid "Consent Cookie Name"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:370
+msgid "You can use a custom cookie name or one that matches another consent plugin."
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:384
+#: inc/class-kadence-recaptcha-settings.php:385
+msgid "Theme Form Settings"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:391
+msgid "Enable for theme contact form"
+msgstr ""
+
+#: inc/class-kadence-recaptcha-settings.php:397
+msgid "Enable for testimonial form"
+msgstr ""
+
+#: inc/recaptcha.php:215
+#: inc/recaptcha.php:238
+#: inc/recaptcha.php:269
+#: inc/recaptcha.php:405
+msgid "<strong>ERROR</strong>: CAPTCHA verification failed. If you are human please try a different browser and without a VPN."
+msgstr ""
+
+#: inc/recaptcha.php:785
+msgid "I Consent"
+msgstr ""
+
+#. translators:  %s: privacy page link
+#: inc/recaptcha.php:952
+msgid "To use this form you must consent to our %s."
+msgstr ""
+
+#: inc/recaptcha.php:954
+msgid "To use this form you must consent to our privacy policy."
+msgstr ""
+
+#: inc/recaptcha.php:971
+msgid "*Cookies must be enabled in your browser"
+msgstr ""
+
+#: inc/recaptcha.php:1002
+msgid "Sorry, it seems you're a robot."
+msgstr ""
+
+#: inc/recaptcha.php:1012
+msgid "Sorry, to post a comment or login you must consent to our privacy policy and have cookies enabled."
+msgstr ""

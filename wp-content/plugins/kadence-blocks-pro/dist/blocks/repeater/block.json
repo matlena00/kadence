@@ -1,0 +1,146 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Repeater",
+  "name": "kadence/repeater",
+  "category": "kadence-blocks",
+  "description": "An advanced block that allows displaying ACF Repeater fields.",
+  "attributes": {
+    "uniqueID": {
+      "type": "string",
+      "default": ""
+    },
+    "source": {
+      "type": "string",
+      "default": ""
+    },
+    "repeaterSlug": {
+      "type": "string",
+      "default": ""
+    },
+    "columns": {
+      "type": "array",
+      "default": [
+        2,
+        "",
+        ""
+      ]
+    },
+    "columnGap": {
+      "type": "array",
+      "default": [
+        10,
+        "",
+        ""
+      ]
+    },
+    "columnGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "rowGap": {
+      "type": "array",
+      "default": [
+        10,
+        "",
+        ""
+      ]
+    },
+    "rowGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginType": {
+      "type": "string",
+      "default": "px"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingType": {
+      "type": "string",
+      "default": "px"
+    },
+    "tagName": {
+      "type": "string",
+      "default": "div"
+    },
+    "inQueryBlock": {
+      "type": "boolean",
+      "default": false
+    },
+    "previewSource": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "providesContext": {
+    "kadence/dynamicSource": "source",
+    "kadence/previewSource": "previewSource"
+  },
+  "usesContext": [
+    "postId",
+    "queryId"
+  ],
+  "supports": {
+    "align": [
+      "wide",
+      "full"
+    ],
+    "anchor": true,
+    "html": false,
+    "__experimentalLayout": true,
+    "kbMetadata": true
+  }
+}

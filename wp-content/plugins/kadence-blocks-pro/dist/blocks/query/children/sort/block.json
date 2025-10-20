@@ -1,0 +1,338 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "No Results",
+  "name": "kadence/query-sort",
+  "parent": [
+    "kadence/query",
+    "kadence/column"
+  ],
+  "ancestor": [
+    "kadence/query"
+  ],
+  "category": "kadence-blocks",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "sortItems": {
+      "type": "array",
+      "default": []
+    },
+    "post_id": {
+      "type": "object",
+      "default": {
+        "textDesc": "",
+        "textAsc": "",
+        "showDesc": true,
+        "showAsc": true,
+        "metaKey": "",
+        "metaKeyType": ""
+      }
+    },
+    "post_date": {
+      "type": "object",
+      "default": {
+        "textDesc": "",
+        "textAsc": "",
+        "showDesc": true,
+        "showAsc": true,
+        "metaKey": "",
+        "metaKeyType": ""
+      }
+    },
+    "post_modified": {
+      "type": "object",
+      "default": {
+        "textDesc": "",
+        "textAsc": "",
+        "showDesc": true,
+        "showAsc": true,
+        "metaKey": "",
+        "metaKeyType": ""
+      }
+    },
+    "post_title": {
+      "type": "object",
+      "default": {
+        "textDesc": "",
+        "textAsc": "",
+        "showDesc": true,
+        "showAsc": true,
+        "metaKey": "",
+        "metaKeyType": ""
+      }
+    },
+    "post_author": {
+      "type": "object",
+      "default": {
+        "textDesc": "",
+        "textAsc": "",
+        "showDesc": true,
+        "showAsc": true,
+        "metaKey": "",
+        "metaKeyType": ""
+      }
+    },
+    "menu_order": {
+      "type": "object",
+      "default": {
+        "textDesc": "",
+        "textAsc": "",
+        "showDesc": true,
+        "showAsc": true,
+        "metaKey": "",
+        "metaKeyType": ""
+      }
+    },
+    "meta_value": {
+      "type": "object",
+      "default": {
+        "textDesc": "",
+        "textAsc": "",
+        "showDesc": true,
+        "showAsc": true,
+        "metaKey": "",
+        "metaKeyType": ""
+      }
+    },
+    "placeholder": {
+      "type": "string",
+      "default": ""
+    },
+    "color": {
+      "type": "string",
+      "default": ""
+    },
+    "borderStyle": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "tabletBorderStyle": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "mobileBorderStyle": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "borderRadius": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletBorderRadius": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileBorderRadius": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "borderRadiusUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "background": {
+      "type": "string",
+      "default": ""
+    },
+    "gradient": {
+      "type": "string",
+      "default": ""
+    },
+    "backgroundType": {
+      "type": "string",
+      "default": "normal"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "typography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ]
+    }
+  },
+  "supports": {
+    "html": false,
+    "className": true,
+    "reusable": false,
+    "anchor": true,
+    "lock": false,
+    "kbMetadata": true
+  }
+}

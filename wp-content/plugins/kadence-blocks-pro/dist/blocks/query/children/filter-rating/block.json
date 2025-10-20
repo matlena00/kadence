@@ -1,0 +1,169 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Filter - Rating",
+  "name": "kadence/query-filter-rating",
+  "parent": [
+    "kadence/query",
+    "kadence/column",
+    "kadence/modal"
+  ],
+  "ancestor": [
+    "kadence/query"
+  ],
+  "category": "kadence-blocks",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "showEmpty": {
+      "type": "boolean",
+      "default": false
+    },
+    "showResultCount": {
+      "type": "boolean",
+      "default": false
+    },
+    "comparisonLogic": {
+      "type": "string",
+      "default": "OR"
+    },
+    "columnGap": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "columnGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "rowGap": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "rowGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "ratingIcon": {
+      "type": "string",
+      "default": "fe_star"
+    },
+    "iconColor": {
+      "type": "string",
+      "default": "#FFFFFF"
+    },
+    "iconFillColor": {
+      "type": "string",
+      "default": "#ffc001"
+    },
+    "iconStrokeColor": {
+      "type": "string",
+      "default": "rgba(26,32,44,0.19)"
+    },
+    "afterText": {
+      "type": "string",
+      "default": ""
+    },
+    "displayType": {
+      "type": "string",
+      "default": "single"
+    },
+    "width": {
+      "type": "array",
+      "default": [
+        25,
+        25,
+        25
+      ]
+    },
+    "widthUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "iconStrokeWidth": {
+      "type": "number",
+      "default": 1
+    },
+    "anchor": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false,
+    "className": true,
+    "reusable": false,
+    "anchor": true,
+    "lock": false,
+    "kbMetadata": true
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Advanced Slider",
+  "name": "kadence/slider",
+  "category": "kadence-blocks",
+  "description": "",
+  "attributes": {
+    "uniqueID": {
+      "type": "string",
+      "default": ""
+    },
+    "isEditing": {
+      "type": "boolean",
+      "default": true
+    },
+    "slideCount": {
+      "type": "number",
+      "default": 2
+    },
+    "heightType": {
+      "type": "string",
+      "default": "ratio"
+    },
+    "sliderRatio": {
+      "type": "array",
+      "default": [
+        "12-5",
+        "",
+        ""
+      ]
+    },
+    "minHeight": {
+      "type": "array",
+      "default": [
+        500,
+        "",
+        ""
+      ]
+    },
+    "heightUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "maxWidth": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "widthUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        {
+          "desk": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "tablet": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "mobile": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "marginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        {
+          "desk": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "tablet": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "mobile": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "paddingUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "autoPlay": {
+      "type": "boolean",
+      "default": true
+    },
+    "autoSpeed": {
+      "type": "number",
+      "default": 7000
+    },
+    "transSpeed": {
+      "type": "number",
+      "default": 400
+    },
+    "slidesScroll": {
+      "type": "string",
+      "default": "1"
+    },
+    "fade": {
+      "type": "boolean",
+      "default": true
+    },
+    "arrowStyle": {
+      "type": "string",
+      "default": "whiteondark"
+    },
+    "dotStyle": {
+      "type": "string",
+      "default": "dark"
+    },
+    "displayShadow": {
+      "type": "boolean",
+      "default": false
+    },
+    "hoverPause": {
+      "type": "boolean",
+      "default": false
+    },
+    "dragging": {
+      "type": "boolean",
+      "default": true
+    },
+    "shadow": {
+      "type": "array",
+      "default": [
+        {
+          "color": "#000000",
+          "opacity": 0.2,
+          "spread": 0,
+          "blur": 14,
+          "hOffset": 4,
+          "vOffset": 2
+        }
+      ]
+    },
+    "columns": {
+      "type": "array",
+      "default": [
+        3,
+        3,
+        3,
+        2,
+        1,
+        1
+      ]
+    },
+    "columnControl": {
+      "type": "string",
+      "default": "linked"
+    },
+    "sliderType": {
+      "type": "string",
+      "default": "slider"
+    },
+    "columnGap": {
+      "type": "number",
+      "default": 30
+    },
+    "columnGapTablet": {
+      "type": "number",
+      "default": ""
+    },
+    "columnGapMobile": {
+      "type": "number",
+      "default": ""
+    },
+    "columnGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "loopType": {
+      "type": "string",
+      "default": "loop"
+    },
+    "showOverflow": {
+      "type": "boolean",
+      "default": false
+    },
+    "innerHeight": {
+      "type": "boolean",
+      "default": false
+    },
+    "hideUntilHover": {
+      "type": "boolean",
+      "default": false
+    },
+    "arrowPosition": {
+      "type": "string",
+      "default": "center"
+    },
+    "arrowMargin": {
+      "type": "array",
+      "default": [
+        {
+          "desk": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "tablet": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "mobile": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "arrowMarginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "arrowSize": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "arrowSizeUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "arrowCustomColor": {
+      "type": "string",
+      "default": ""
+    },
+    "arrowCustomColorHover": {
+      "type": "string",
+      "default": ""
+    },
+    "arrowCustomColorActive": {
+      "type": "string",
+      "default": ""
+    },
+    "arrowCustomColorBackground": {
+      "type": "string",
+      "default": ""
+    },
+    "arrowCustomColorBackgroundHover": {
+      "type": "string",
+      "default": ""
+    },
+    "arrowCustomColorBackgroundActive": {
+      "type": "string",
+      "default": ""
+    },
+    "arrowCustomColorBorder": {
+      "type": "string",
+      "default": ""
+    },
+    "arrowCustomColorBorderHover": {
+      "type": "string",
+      "default": ""
+    },
+    "arrowCustomColorBorderActive": {
+      "type": "string",
+      "default": ""
+    },
+    "arrowCustomBorderWidth": {
+      "type": "number"
+    },
+    "dotCustomColor": {
+      "type": "string",
+      "default": ""
+    },
+    "dotCustomColorHover": {
+      "type": "string",
+      "default": ""
+    },
+    "dotCustomColorActive": {
+      "type": "string",
+      "default": ""
+    },
+    "dotCustomColorBorder": {
+      "type": "string",
+      "default": ""
+    },
+    "dotCustomColorBorderHover": {
+      "type": "string",
+      "default": ""
+    },
+    "dotCustomColorBorderActive": {
+      "type": "string",
+      "default": ""
+    },
+    "dotCustomBorderWidth": {
+      "type": "number"
+    },
+    "kbVersion": {
+      "type": "number",
+      "default": ""
+    },
+    "showPauseButton": {
+      "type": "boolean",
+      "default": false
+    },
+    "ariaLabel": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "supports": {
+    "anchor": true,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "kbMetadata": true
+  }
+}

@@ -1,0 +1,890 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Filter - Buttons",
+  "name": "kadence/query-filter-buttons",
+  "parent": [
+    "kadence/query",
+    "kadence/column",
+    "kadence/modal"
+  ],
+  "ancestor": [
+    "kadence/query"
+  ],
+  "category": "kadence-blocks",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "showEmpty": {
+      "type": "boolean",
+      "default": false
+    },
+    "showResultCount": {
+      "type": "boolean",
+      "default": false
+    },
+    "updateResultCountOnFilter": {
+      "type": "boolean",
+      "default": true
+    },
+    "hideWhenEmptyCount": {
+      "type": "boolean",
+      "default": false
+    },
+    "showChildren": {
+      "type": "boolean",
+      "default": true
+    },
+    "showInline": {
+      "type": "boolean",
+      "default": true
+    },
+    "allOption": {
+      "type": "boolean",
+      "default": false
+    },
+    "limitItems": {
+      "type": "integer",
+      "default": 0
+    },
+    "orderBy": {
+      "type": "string",
+      "default": "name"
+    },
+    "orderDirection": {
+      "type": "string",
+      "default": "DESC"
+    },
+    "customField": {
+      "type": "string",
+      "default": ""
+    },
+    "customMetaKey": {
+      "type": "string",
+      "default": ""
+    },
+    "showAllFields": {
+      "type": "boolean",
+      "default": false
+    },
+    "columnGap": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "columnGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "rowGap": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "rowGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "color": {
+      "type": "string",
+      "default": ""
+    },
+    "background": {
+      "type": "string",
+      "default": ""
+    },
+    "gradient": {
+      "type": "string",
+      "default": ""
+    },
+    "backgroundType": {
+      "type": "string",
+      "default": "normal"
+    },
+    "borderStyle": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "tabletBorderStyle": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "mobileBorderStyle": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "borderRadius": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletBorderRadius": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileBorderRadius": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "borderRadiusUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "paddingButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPaddingButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePaddingButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingButtonUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "marginButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMarginButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMarginButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginButtonUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "style": {
+      "type": "string",
+      "default": "basic"
+    },
+    "sizePreset": {
+      "type": "string",
+      "default": "standard"
+    },
+    "gap": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "width": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "widthUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "widthType": {
+      "type": "string",
+      "default": "auto"
+    },
+    "colorButton": {
+      "type": "string",
+      "default": ""
+    },
+    "backgroundButton": {
+      "type": "string",
+      "default": ""
+    },
+    "gradientButton": {
+      "type": "string",
+      "default": ""
+    },
+    "backgroundTypeButton": {
+      "type": "string",
+      "default": "normal"
+    },
+    "colorHoverButton": {
+      "type": "string",
+      "default": ""
+    },
+    "backgroundHoverButton": {
+      "type": "string",
+      "default": ""
+    },
+    "backgroundHoverTypeButton": {
+      "type": "string",
+      "default": "normal"
+    },
+    "gradientHoverButton": {
+      "type": "string",
+      "default": ""
+    },
+    "colorActiveButton": {
+      "type": "string",
+      "default": ""
+    },
+    "backgroundActiveButton": {
+      "type": "string",
+      "default": ""
+    },
+    "backgroundActiveTypeButton": {
+      "type": "string",
+      "default": "normal"
+    },
+    "gradientActiveButton": {
+      "type": "string",
+      "default": ""
+    },
+    "borderStyleButton": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "tabletBorderStyleButton": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "mobileBorderStyleButton": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "borderHoverStyleButton": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "tabletBorderHoverStyleButton": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "mobileBorderHoverStyleButton": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "borderActiveStyleButton": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "tabletBorderActiveStyleButton": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "mobileBorderActiveStyleButton": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "borderRadiusButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletBorderRadiusButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileBorderRadiusButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "borderRadiusButtonUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "borderHoverRadiusButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletBorderHoverRadiuButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileBorderHoverRadiusButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "borderHoverRadiusButtonUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "borderActiveRadiusButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletBorderActiveRadiuButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileBorderActiveRadiusButton": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "borderActiveRadiusButtonUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "inheritStyles": {
+      "type": "string",
+      "default": "outline"
+    },
+    "typography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ]
+    },
+    "displayShadowButton": {
+      "type": "boolean",
+      "default": false
+    },
+    "displayHoverShadowButton": {
+      "type": "boolean",
+      "default": false
+    },
+    "displayActiveShadowButton": {
+      "type": "boolean",
+      "default": false
+    },
+    "shadowButton": {
+      "type": "array",
+      "default": [
+        {
+          "color": "#000000",
+          "opacity": 0.2,
+          "spread": 0,
+          "blur": 2,
+          "hOffset": 1,
+          "vOffset": 1,
+          "inset": false
+        }
+      ]
+    },
+    "shadowHoverButton": {
+      "type": "array",
+      "default": [
+        {
+          "color": "#000000",
+          "opacity": 0.4,
+          "spread": 0,
+          "blur": 3,
+          "hOffset": 2,
+          "vOffset": 2,
+          "inset": false
+        }
+      ]
+    },
+    "shadowActiveButton": {
+      "type": "array",
+      "default": [
+        {
+          "color": "#000000",
+          "opacity": 0.4,
+          "spread": 0,
+          "blur": 3,
+          "hOffset": 2,
+          "vOffset": 2,
+          "inset": false
+        }
+      ]
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "noCustomDefaults": {
+      "type": "boolean",
+      "default": false
+    },
+    "buttonAlign": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  "supports": {
+    "html": false,
+    "className": true,
+    "reusable": false,
+    "anchor": true,
+    "lock": false,
+    "kbMetadata": true
+  }
+}

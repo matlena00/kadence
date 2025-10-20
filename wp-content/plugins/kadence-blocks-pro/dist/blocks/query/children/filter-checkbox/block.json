@@ -1,0 +1,173 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Filter - Checkbox",
+  "name": "kadence/query-filter-checkbox",
+  "parent": [
+    "kadence/query",
+    "kadence/column",
+    "kadence/modal"
+  ],
+  "ancestor": [
+    "kadence/query"
+  ],
+  "category": "kadence-blocks",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "showEmpty": {
+      "type": "boolean",
+      "default": false
+    },
+    "showResultCount": {
+      "type": "boolean",
+      "default": false
+    },
+    "updateResultCountOnFilter": {
+      "type": "boolean",
+      "default": true
+    },
+    "hideWhenEmptyCount": {
+      "type": "boolean",
+      "default": false
+    },
+    "showChildren": {
+      "type": "boolean",
+      "default": true
+    },
+    "hierarchical": {
+      "type": "boolean",
+      "default": false
+    },
+    "showInline": {
+      "type": "boolean",
+      "default": false
+    },
+    "comparisonLogic": {
+      "type": "string",
+      "default": "OR"
+    },
+    "limitItems": {
+      "type": "integer",
+      "default": 0
+    },
+    "orderBy": {
+      "type": "string",
+      "default": "name"
+    },
+    "orderDirection": {
+      "type": "string",
+      "default": "DESC"
+    },
+    "customField": {
+      "type": "string",
+      "default": ""
+    },
+    "customMetaKey": {
+      "type": "string",
+      "default": ""
+    },
+    "showAllFields": {
+      "type": "boolean",
+      "default": false
+    },
+    "columnGap": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "columnGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "rowGap": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "rowGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "anchor": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false,
+    "className": true,
+    "reusable": false,
+    "anchor": true,
+    "lock": false,
+    "kbMetadata": true
+  }
+}

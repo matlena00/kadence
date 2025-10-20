@@ -1,0 +1,18 @@
+{
+	"name": "kadence-settings",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Create a settings panel.",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "wp-scripts start",
+		"build": "wp-scripts build"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^26.18.0"
+	},
+	"dependencies": {
+		"@wordpress/icons": "^9.25.0",
+		"react-select": "^5.8.0"
+	}
+}

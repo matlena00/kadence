@@ -1,0 +1,193 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Dynamic List",
+  "name": "kadence/dynamiclist",
+  "category": "kadence-blocks",
+  "description": "",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "default": "tax"
+    },
+    "source": {
+      "type": "string",
+      "default": ""
+    },
+    "tax": {
+      "type": "string",
+      "default": ""
+    },
+    "metaField": {
+      "type": "string",
+      "default": ""
+    },
+    "customMeta": {
+      "type": "string",
+      "default": ""
+    },
+    "listDirection": {
+      "type": "string",
+      "default": "horizontal"
+    },
+    "listStyle": {
+      "type": "string",
+      "default": "basic"
+    },
+    "divider": {
+      "type": "string",
+      "default": "vline"
+    },
+    "alignment": {
+      "type": "array",
+      "default": [
+        "left",
+        "",
+        ""
+      ],
+      "items": {
+        "type": "string"
+      }
+    },
+    "enableLink": {
+      "type": "boolean",
+      "default": true
+    },
+    "linkStyle": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    },
+    "hoverColor": {
+      "type": "string"
+    },
+    "background": {
+      "type": "string"
+    },
+    "hoverBackground": {
+      "type": "string"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingType": {
+      "type": "string",
+      "default": "px"
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginType": {
+      "type": "string",
+      "default": "px"
+    },
+    "typography": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            "",
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            "",
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": [
+            "",
+            "",
+            ""
+          ],
+          "letterSpacingType": "px",
+          "textTransform": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true
+        }
+      ],
+      "items": {
+        "type": "object"
+      }
+    },
+    "showAllFields": {
+      "type": "boolean",
+      "default": false
+    },
+    "anchor": {
+      "type": "string"
+    },
+    "inQueryBlock": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "usesContext": [
+    "postId",
+    "queryId"
+  ],
+  "supports": {
+    "anchor": true,
+    "html": false,
+    "kbMetadata": true
+  }
+}

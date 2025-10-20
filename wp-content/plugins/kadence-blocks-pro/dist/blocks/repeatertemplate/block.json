@@ -1,0 +1,44 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Repeater Template",
+  "name": "kadence/repeatertemplate",
+  "category": "kadence-blocks",
+  "parent": [
+    "kadence/repeater"
+  ],
+  "description": "Contains the block elements used to render an item in a repeater loop.",
+  "usesContext": [
+    "queryId",
+    "query",
+    "queryContext",
+    "kadence/dynamicSource",
+    "kadence/previewSource",
+    "kadence/repeaterRow",
+    "displayLayout",
+    "templateSlug",
+    "previewPostType",
+    "postId"
+  ],
+  "attributes": {
+    "uniqueID": {
+      "type": "string",
+      "default": ""
+    },
+    "inQueryBlock": {
+      "type": "boolean",
+      "default": false
+    },
+    "lock": {
+      "type": "object",
+      "default": {
+        "move": true,
+        "remove": true
+      }
+    }
+  },
+  "supports": {
+    "reusable": false,
+    "customClassName": false
+  }
+}

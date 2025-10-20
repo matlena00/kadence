@@ -1,0 +1,1 @@
+jQuery(function(a){a(".woocommerce-product-gallery.gallery-has-thumbnails").each(function(){var b=a(this);b.height(b.height()),b.on("wc-product-gallery-after-init",function(){setTimeout(function(){b.height("")},500)})})});

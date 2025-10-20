@@ -1,0 +1,26 @@
+.license-test-results {
+    margin-top: 10px;
+}
+
+.key-validity {
+    display: inline-block;
+}
+
+.valid-key {
+    color: green;
+}
+
+.invalid-key {
+    color: red;
+}
+.stellarwp-uplink__settings-group-inline {
+    display: flex;
+}
+.stellarwp-uplink__settings .button-primary[disabled] {
+	display:none !important;
+}
+.stellarwp-uplink-license-key-field-clear {
+    background: transparent;
+    border: 1px solid #999;
+    min-height: 30px;
+}

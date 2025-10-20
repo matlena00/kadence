@@ -1,0 +1,471 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Modal",
+  "name": "kadence/modal",
+  "category": "kadence-blocks",
+  "description": "",
+  "attributes": {
+    "uniqueID": {
+      "type": "string",
+      "default": ""
+    },
+    "customID": {
+      "type": "string",
+      "default": ""
+    },
+    "modalAnimateIn": {
+      "type": "string",
+      "default": "fadeup"
+    },
+    "modalAnimateOut": {
+      "type": "string",
+      "default": "fadeout"
+    },
+    "modalHAlign": {
+      "type": "string",
+      "default": "center"
+    },
+    "modalVAlign": {
+      "type": "string",
+      "default": "middle"
+    },
+    "modalInnerHAlign": {
+      "type": "string",
+      "default": "left"
+    },
+    "modalInnerVAlign": {
+      "type": "string",
+      "default": "top"
+    },
+    "modalHeight": {
+      "type": "string",
+      "default": "fittocontent"
+    },
+    "modalCustomHeight": {
+      "type": "number",
+      "default": 400
+    },
+    "modalWidth": {
+      "type": "array",
+      "default": [
+        100,
+        100,
+        100
+      ]
+    },
+    "modalMaxWidth": {
+      "type": "number",
+      "default": 600
+    },
+    "modalOverlay": {
+      "type": "string",
+      "default": "#000000"
+    },
+    "modalOverlayOpacity": {
+      "type": "number",
+      "default": 0.6
+    },
+    "modalBackground": {
+      "type": "string",
+      "default": "#ffffff"
+    },
+    "modalBackgroundOpacity": {
+      "type": "number",
+      "default": 1
+    },
+    "modalBorderColor": {
+      "type": "string",
+      "default": "#ffffff"
+    },
+    "modalBorderOpacity": {
+      "type": "number",
+      "default": 1
+    },
+    "modalBorderWidth": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "borderStyleModal": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "#ffffff",
+            "solid",
+            "0"
+          ],
+          "right": [
+            "#ffffff",
+            "solid",
+            "0"
+          ],
+          "bottom": [
+            "#ffffff",
+            "solid",
+            "0"
+          ],
+          "left": [
+            "#ffffff",
+            "solid",
+            "0"
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "tabletBorderStyleModal": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "mobileBorderStyleModal": {
+      "type": "array",
+      "default": [
+        {
+          "top": [
+            "",
+            "",
+            ""
+          ],
+          "right": [
+            "",
+            "",
+            ""
+          ],
+          "bottom": [
+            "",
+            "",
+            ""
+          ],
+          "left": [
+            "",
+            "",
+            ""
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "borderRadiusModal": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletBorderRadiusModal": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileBorderRadiusModal": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "borderRadiusModalUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "modalBorderRadius": {
+      "type": "number",
+      "default": 0
+    },
+    "modalPadding": {
+      "type": "array",
+      "default": [
+        30,
+        30,
+        30,
+        30
+      ]
+    },
+    "tabletModalPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileModalPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "modalPaddingUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "modalMargin": {
+      "type": "array",
+      "default": [
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    "tabletModalMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileModalMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "modalMarginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "displayClose": {
+      "type": "boolean",
+      "default": true
+    },
+    "closePosition": {
+      "type": "string",
+      "default": "inside"
+    },
+    "closeSize": {
+      "type": "array",
+      "default": [
+        24,
+        24,
+        24
+      ]
+    },
+    "closeModal": {
+      "type": "string",
+      "default": "Close Modal"
+    },
+    "closeColor": {
+      "type": "string",
+      "default": ""
+    },
+    "closeHoverColor": {
+      "type": "string",
+      "default": ""
+    },
+    "closeBackground": {
+      "type": "string",
+      "default": ""
+    },
+    "closeHoverBackground": {
+      "type": "string",
+      "default": ""
+    },
+    "displayModalLink": {
+      "type": "boolean",
+      "default": true
+    },
+    "modalLink": {
+      "type": "rich-text",
+      "source": "rich-text",
+      "selector": ".kt-blocks-modal-link-inner",
+      "default": "Learn More"
+    },
+    "modalLinkStyles": {
+      "type": "array",
+      "default": [
+        {
+          "size": [
+            16,
+            "",
+            ""
+          ],
+          "sizeType": "px",
+          "lineHeight": [
+            24,
+            "",
+            ""
+          ],
+          "lineType": "px",
+          "letterSpacing": "",
+          "family": "",
+          "google": "",
+          "style": "",
+          "weight": "",
+          "variant": "",
+          "subset": "",
+          "loadGoogle": true,
+          "padding": [
+            4,
+            8,
+            4,
+            8
+          ],
+          "margin": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "hideLabel": false,
+          "iconSide": "right",
+          "icon": "",
+          "color": "#555555",
+          "background": "transparent",
+          "border": "#555555",
+          "borderRadius": 4,
+          "borderWidth": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "colorHover": "#ffffff",
+          "backgroundHover": "#444444",
+          "borderHover": "#444444",
+          "hideLabelTablet": "",
+          "hideLabelMobile": ""
+        }
+      ]
+    },
+    "displayLinkShadow": {
+      "type": "boolean",
+      "default": false
+    },
+    "linkShadow": {
+      "type": "array",
+      "default": [
+        {
+          "color": "rgba(0,0,0,0.2)",
+          "opacity": 0.2,
+          "spread": 0,
+          "blur": 2,
+          "hOffset": 1,
+          "vOffset": 1
+        }
+      ]
+    },
+    "displayLinkHoverShadow": {
+      "type": "boolean",
+      "default": false
+    },
+    "linkHoverShadow": {
+      "type": "array",
+      "default": [
+        {
+          "color": "rgba(0,0,0,0.4)",
+          "opacity": 0.4,
+          "spread": 0,
+          "blur": 3,
+          "hOffset": 2,
+          "vOffset": 2
+        }
+      ]
+    },
+    "displayShadow": {
+      "type": "boolean",
+      "default": false
+    },
+    "shadow": {
+      "type": "array",
+      "default": [
+        {
+          "color": "#000000",
+          "opacity": 0.2,
+          "spread": 0,
+          "blur": 14,
+          "hOffset": 0,
+          "vOffset": 0
+        }
+      ]
+    },
+    "linkAlign": {
+      "type": "string",
+      "default": "center"
+    },
+    "loadFooter": {
+      "type": "boolean",
+      "default": false
+    },
+    "inQueryBlock": {
+      "type": "boolean",
+      "default": false
+    },
+    "hideModalContentPreview": {
+      "type": "boolean",
+      "default": false
+    },
+    "linkInheritStyles": {
+      "type": "string",
+      "default": "custom"
+    },
+    "anchor": {
+      "type": "string",
+      "default": ""
+    },
+    "modalLabel": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "usesContext": [
+    "postId",
+    "queryId"
+  ],
+  "supports": {
+    "align": [
+      "left",
+      "right",
+      "center"
+    ],
+    "anchor": true,
+    "kbMetadata": true
+  }
+}

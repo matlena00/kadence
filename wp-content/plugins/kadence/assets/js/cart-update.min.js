@@ -1,0 +1,1 @@
+jQuery(function(a){a(document.body).on("removed_from_cart",function(){a(document).trigger("wc_update_cart")})});

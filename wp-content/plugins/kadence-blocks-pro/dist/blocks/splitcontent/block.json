@@ -1,0 +1,235 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Split Content",
+  "name": "kadence/splitcontent",
+  "category": "kadence-blocks",
+  "usesContext": [
+    "postId",
+    "queryId"
+  ],
+  "description": "",
+  "attributes": {
+    "uniqueID": {
+      "type": "string",
+      "default": ""
+    },
+    "contentMaxWidth": {
+      "type": "number"
+    },
+    "contentMaxWidthTablet": {
+      "type": "number"
+    },
+    "contentMaxWidthMobile": {
+      "type": "number"
+    },
+    "contentMaxWidthType": {
+      "type": "string",
+      "default": "px"
+    },
+    "mediaUrl": {
+      "type": "string"
+    },
+    "mediaId": {
+      "type": "number"
+    },
+    "mediaWidth": {
+      "type": "number"
+    },
+    "mediaHeight": {
+      "type": "number"
+    },
+    "mediaType": {
+      "type": "string"
+    },
+    "mediaAlt": {
+      "type": "string",
+      "source": "attribute",
+      "attribute": "alt",
+      "selector": "img"
+    },
+    "mediaContentWidth": {
+      "type": "number",
+      "default": 50
+    },
+    "link": {
+      "type": "string",
+      "source": "attribute",
+      "attribute": "href",
+      "selector": "a"
+    },
+    "target": {
+      "type": "string",
+      "source": "attribute",
+      "attribute": "target",
+      "selector": "a",
+      "default": "_self"
+    },
+    "nofollow": {
+      "type": "boolean",
+      "default": false
+    },
+    "sponsored": {
+      "type": "boolean",
+      "default": false
+    },
+    "linkTitle": {
+      "type": "string",
+      "default": ""
+    },
+    "blockAlignment": {
+      "type": "string",
+      "default": "center"
+    },
+    "mediaSize": {
+      "type": "string",
+      "default": "auto"
+    },
+    "minHeight": {
+      "type": "number",
+      "default": "450"
+    },
+    "minHeightTablet": {
+      "type": "number",
+      "default": ""
+    },
+    "minHeightMobile": {
+      "type": "number",
+      "default": ""
+    },
+    "minHeightType": {
+      "type": "string",
+      "default": "px"
+    },
+    "contentBackgroundColor": {
+      "type": "string",
+      "default": ""
+    },
+    "mediaBackgroundColor": {
+      "type": "string",
+      "default": ""
+    },
+    "mediaAlign": {
+      "type": "string",
+      "default": "left"
+    },
+    "hAlign": {
+      "type": "string",
+      "default": "center"
+    },
+    "vAlign": {
+      "type": "string",
+      "default": "center"
+    },
+    "contentMargin": {
+      "type": "array",
+      "default": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "contentMarginTablet": {
+      "type": "array",
+      "default": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "contentMarginMobile": {
+      "type": "array",
+      "default": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "contentMarginUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "contentPadding": {
+      "type": "array",
+      "default": [
+        24,
+        24,
+        24,
+        24
+      ]
+    },
+    "contentPaddingTablet": {
+      "type": "array",
+      "default": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "contentPaddingMobile": {
+      "type": "array",
+      "default": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "contentPaddingUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "contentShadow": {
+      "type": "boolean",
+      "default": false
+    },
+    "shadowColor": {
+      "type": "string",
+      "default": "#000000"
+    },
+    "shadowOpacity": {
+      "type": "number",
+      "default": 0.2
+    },
+    "shadowSpread": {
+      "type": "number",
+      "default": -8
+    },
+    "shadowBlur": {
+      "type": "number",
+      "default": 25
+    },
+    "shadowHOffset": {
+      "type": "number",
+      "default": 20
+    },
+    "shadowVOffset": {
+      "type": "number",
+      "default": 15
+    },
+    "anchor": {
+      "type": "string",
+      "default": ""
+    },
+    "inQueryBlock": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "supports": {
+    "anchor": true,
+    "ktanimate": true,
+    "ktanimatepreview": true,
+    "ktanimatepartsoptions": true,
+    "ktdynamic": true,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "kbMetadata": true
+  }
+}

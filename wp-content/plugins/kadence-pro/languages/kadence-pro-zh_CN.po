@@ -1,0 +1,3421 @@
+# Translation of Kadence - Kadence Theme Pro in Chinese (China)
+# This file is distributed under the same license as the Kadence - Kadence Theme Pro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-23 14:10:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Kadence - Kadence Theme Pro\n"
+
+#: build/meta.js:1
+msgid "Show on Device"
+msgstr "显示于设备"
+
+#: build/meta.js:1
+msgid "Device Settings"
+msgstr "设备设置"
+
+#: build/meta.js:1
+msgid "Please Note: WPML and Polylang have their own methods for display by language and this will not override those. This setting is useful if you have setup the Elements to display on all languages in those plugins."
+msgstr "请注意：WPML和Polylang有自己的语言显示方法，这不会覆盖这些方法。如果您已将元素设置为在这些插件中以所有语言显示，则此设置非常有用。"
+
+#: build/meta.js:1
+msgid "Y Distance from Edge"
+msgstr "垂直边距"
+
+#: build/meta.js:1
+msgid "X Distance from Edge"
+msgstr "水平边距"
+
+#: build/meta.js:1
+msgid "Position"
+msgstr "位置"
+
+#: build/meta.js:1
+msgid "Width (px)"
+msgstr "宽度 (px)"
+
+#: build/meta.js:1
+msgid "Auto"
+msgstr "自动"
+
+#: build/meta.js:1
+msgid "100%"
+msgstr "100%"
+
+#: build/meta.js:1
+msgid "Width"
+msgstr "宽度"
+
+#: build/meta.js:1
+msgid "Scroll Down Distance till Appear"
+msgstr "向下滚动距离直至出现"
+
+#: build/meta.js:1
+msgid "Priority"
+msgstr "优先级"
+
+#: build/meta.js:1
+msgid "Close"
+msgstr "关闭"
+
+#: build/meta.js:1
+msgid "Select Preview Post"
+msgstr "选择预览文章"
+
+#: build/meta.js:1
+msgid "Preview Post:"
+msgstr "预览文章："
+
+#: build/meta.js:1
+msgid "Select Preview Posts Type:"
+msgstr "选择预览文章类型："
+
+#: build/meta.js:1
+msgid "Optionally define which post is used for dynamic content while previewing in the gutenberg editor."
+msgstr "（可选）定义在区块编辑器中预览时用于动态内容的文章。"
+
+#: build/meta.js:1
+msgid "Dynamic Preview Posts"
+msgstr "动态预览文章"
+
+#: build/meta.js:1
+msgid "Optionally set a max width for the editor so your preview is more accurate to what you are creating."
+msgstr "（可选）设置编辑器的最大宽度，以便预览更准确地显示您正在创建的内容。"
+
+#: build/meta.js:1
+msgid "Editor Width (px)"
+msgstr "编辑器宽度（px）"
+
+#: build/meta.js:1
+msgid "Preview Setup"
+msgstr "预览设置"
+
+#: build/meta.js:1
+msgid "Preview Settings"
+msgstr "预览设置"
+
+#: build/meta.js:1
+msgid "Element Type"
+msgstr "元素类型"
+
+#: build/meta.js:1
+msgid "Choose Element Type"
+msgstr "选择元素类型"
+
+#: build/meta.js:1
+msgid "Element Setup"
+msgstr "元素设置"
+
+#: build/meta.js:1
+msgid "HTML Element"
+msgstr "HTML 元素"
+
+#: build/meta.js:1
+msgid "HTML Editor"
+msgstr "HTML 编辑器"
+
+#: build/meta.js:1
+msgid "Template"
+msgstr "模版"
+
+#: build/meta.js:1
+msgid "Fixed Section"
+msgstr "固定区域"
+
+#: build/meta.js:1
+msgid "Content Section"
+msgstr "内容区域"
+
+#: build/meta.js:1
+msgid "Unset"
+msgstr "重置"
+
+#: build/meta.js:1
+msgid "Search"
+msgstr "搜索"
+
+#: build/mega-menu.js:5
+msgid "Save and Close"
+msgstr "保存并关闭"
+
+#: build/mega-menu.js:5
+msgid "Save"
+msgstr "保存"
+
+#: build/mega-menu.js:5
+msgid "Highlight Label Background"
+msgstr "高亮标签背景"
+
+#: build/mega-menu.js:5
+msgid "Highlight Label Color"
+msgstr "高亮标签颜色"
+
+#: build/mega-menu.js:5
+msgid "Highlight Icon"
+msgstr "高亮图标"
+
+#: build/mega-menu.js:5
+msgid "Highlight Label"
+msgstr "高亮标签"
+
+#: build/mega-menu.js:5
+msgid "Size is percent of label size. e.g. 200 is twice the label size"
+msgstr "尺寸是标签尺寸的百分比。例如 200 是标签尺寸的两倍"
+
+#: build/mega-menu.js:5
+msgid "right"
+msgstr "右侧"
+
+#: build/mega-menu.js:5
+msgid "Icon Side"
+msgstr "图标位置"
+
+#: build/mega-menu.js:5
+msgid "Menu Item Icon"
+msgstr "菜单项目图标"
+
+#: build/mega-menu.js:5
+msgid "Enable Description"
+msgstr "启用描述"
+
+#: build/mega-menu.js:5
+msgid "Disable Link"
+msgstr "禁用链接"
+
+#: build/mega-menu.js:5
+msgid "Hide Text Label"
+msgstr "隐藏文字标签"
+
+#: build/mega-menu.js:5
+msgid "Menu Item"
+msgstr "菜单项目"
+
+#: build/mega-menu.js:5
+msgid "Link Padding"
+msgstr "链接内距"
+
+#: build/mega-menu.js:5
+msgid "Links Item Divider"
+msgstr "链接项目分隔线"
+
+#: build/mega-menu.js:5
+msgid "Mega DropDown Item Colors"
+msgstr "超级菜单项目颜色"
+
+#: build/mega-menu.js:5
+msgid "Mega DropDown Padding"
+msgstr "超级菜单内距"
+
+#: build/mega-menu.js:5
+msgid "Mega DropDown Background"
+msgstr "超级菜单下拉背景"
+
+#: build/mega-menu.js:5
+msgid "Column Heading Item Divider"
+msgstr "分栏页眉项目分隔线"
+
+#: build/mega-menu.js:5
+msgid "Mega Menu Column Layout"
+msgstr "超级菜单分栏布局"
+
+#: build/mega-menu.js:5
+msgid "Mega Menu Columns"
+msgstr "超级菜单分栏"
+
+#: build/mega-menu.js:5
+msgid "Mega Menu Custom Width"
+msgstr "超级菜单自定义宽度"
+
+#: build/mega-menu.js:5
+msgid "Custom Width"
+msgstr "自定义宽度"
+
+#: build/mega-menu.js:5
+msgid "Full Width"
+msgstr "全宽"
+
+#: build/mega-menu.js:5
+msgid "Menu Container Width"
+msgstr "菜单容器宽度"
+
+#: build/mega-menu.js:5
+msgid "Content"
+msgstr "内容"
+
+#: build/mega-menu.js:5
+msgid "Mega Menu Width"
+msgstr "超级菜单宽度"
+
+#: build/mega-menu.js:5
+msgid "Use a Custom Element"
+msgstr "使用自定义元素"
+
+#: build/mega-menu.js:5
+msgid "Mega Menu"
+msgstr "超级菜单"
+
+#: build/mega-menu.js:5
+msgid "Close Dialog"
+msgstr "关闭弹窗"
+
+#: build/mega-menu.js:5
+msgid "Editing:"
+msgstr "正在编辑："
+
+#: build/mega-menu.js:5
+msgid "Menu Item Settings"
+msgstr "超级菜单项目设置"
+
+#: build/mega-menu.js:5
+msgid "Mega Settings"
+msgstr "超级菜单设置"
+
+#: build/mega-menu.js:5
+msgid "Label Settings"
+msgstr "标签设置"
+
+#: build/mega-menu.js:5
+msgid "Please reload page, data can not be saved."
+msgstr "请重新加载页面，无法保存数据。"
+
+#: build/mega-menu.js:5
+msgid "Unit"
+msgstr "单元"
+
+#: build/mega-menu.js:5 build/meta.js:1
+msgid "Reset Values"
+msgstr "设置值"
+
+#: build/mega-menu.js:5
+msgid "Reset Device Values"
+msgstr "重置设备值"
+
+#: build/dashboard.js:1
+msgid "Customize"
+msgstr "自定义"
+
+#: build/dashboard.js:1
+msgid "Pro Addons"
+msgstr "高级版扩展"
+
+#: build/dashboard.js:1
+msgid "Allows you to assign custom display settings for taxonomies."
+msgstr "允许您为分类法分配自定义显示设置。"
+
+#: build/dashboard.js:1
+msgid "Archive Custom Settings"
+msgstr "存档自定义设置"
+
+#: build/dashboard.js:1
+msgid "Loads Gravatars from your servers to improve site performance."
+msgstr "从您的服务器加载 Gravatar 以提高网站性能。"
+
+#: build/dashboard.js:1
+msgid "Local Gravatars"
+msgstr "本地头像"
+
+#: build/dashboard.js:1
+msgid "Adds a color palette switch so you can create a \"dark\" mode for your website."
+msgstr "添加调色板开关，以便您可以为您的网站创建“深色”模式。"
+
+#: build/dashboard.js:1
+msgid "Color Palette Switch (Dark Mode)"
+msgstr "调色板开关（深色模式）"
+
+#: build/dashboard.js:1
+msgid "Adds Infinite Scroll for archives."
+msgstr "为存档页面添加无限滚动功能。"
+
+#: build/dashboard.js:1
+msgid "Adds new options into the customizer for WooCommerce stores."
+msgstr "在 WooCommerce 商店的定制器中添加新选项。"
+
+#: build/dashboard.js:1
+msgid "WooCommerce Addons"
+msgstr "WooCommerce 附加项"
+
+#: build/dashboard.js:1
+msgid "Add content anywhere into your site conditionally."
+msgstr "有条件地将内容添加到站点的任何位置。"
+
+#: build/dashboard.js:1
+msgid "Hooked Elements"
+msgstr "挂载的元素"
+
+#: build/dashboard.js:1
+msgid "Adds Options into the customizer to add header and footer scripts"
+msgstr "在定制器中添加选项以添加页眉和页脚脚本"
+
+#: build/dashboard.js:1
+msgid "Header/Footer Scripts"
+msgstr "页眉/页脚脚本"
+
+#: build/dashboard.js:1
+msgid "Adds menu options for mega menus, highlight tags, icons and more."
+msgstr "为超级菜单、高亮标签、图标等添加菜单选项。"
+
+#: build/dashboard.js:1
+msgid "Ultimate Menu"
+msgstr "超级菜单"
+
+#: build/dashboard.js:1
+msgid "Build Extra Headers to display conditionally."
+msgstr "构建额外的页眉以有条件地显示。"
+
+#: build/dashboard.js:1
+msgid "Adds 19 elements to the header builder."
+msgstr "向页眉构建器添加 19 个元素。"
+
+#: build/dashboard.js:1
+msgid "Header Addons"
+msgstr "页头附加项"
+
+#: build/customizer.js:1
+msgid "Confirm, Exit Preview Mode"
+msgstr "确认，退出预览模式"
+
+#: build/customizer.js:1
+msgid "Confirm, Save Settings"
+msgstr "确认，保存设置"
+
+#: build/customizer.js:1
+msgid "Previewing another header requires reloading the customizer in a preview mode. Click confirm below to save your settings and enter into preview mode."
+msgstr "预览另一个页眉需要在预览模式下重新加载定制器。单击下面的确认以保存您的设置并进入预览模式。"
+
+#: build/customizer.js:1
+msgid "Reset Value"
+msgstr "重置值"
+
+#: build/customizer.js:1
+msgid "Contained"
+msgstr "包含"
+
+#: build/customizer.js:1
+msgid "Add Header"
+msgstr "添加页眉"
+
+#: build/customizer.js:1
+msgid "Import and Create New"
+msgstr "导入并新建"
+
+#: build/customizer.js:1
+msgid "Copy Default Header"
+msgstr "复制默认页眉"
+
+#: build/customizer.js:1
+msgid "Import"
+msgstr "导入"
+
+#: build/customizer.js:1
+msgid "Copy Default"
+msgstr "复制默认"
+
+#: build/customizer.js:1
+msgid "Start Basic"
+msgstr "从基础内容开始"
+
+#: build/customizer.js:1
+msgid "Export Header"
+msgstr "导出页眉"
+
+#: build/customizer.js:1
+msgid "Remove Header"
+msgstr "删除页眉"
+
+#: build/customizer.js:1
+msgid "Confirm, Remove Header"
+msgstr "确认，删除页眉"
+
+#: build/customizer.js:1
+msgid "Note, This will permanently remove all the header settings connected to this conditional header."
+msgstr "请注意，这将永久删除连接到此条件页眉的所有页眉设置。"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Expires"
+msgstr "过期"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Enable Expires"
+msgstr "启用过期"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Expires Settings"
+msgstr "过期设置"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "All Languages"
+msgstr "所有语言"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Display on language:"
+msgstr "显示于语言："
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Target Language"
+msgstr "目标语言"
+
+#: build/customizer.js:1
+msgid "Hide visibility to"
+msgstr "隐藏可见于"
+
+#: build/customizer.js:1
+msgid "Exclude Visibility Settings"
+msgstr "排除可见性设置"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Visible to"
+msgstr "可见于"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "User Settings"
+msgstr "用户设置"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "User Settings [UNSET]"
+msgstr "用户设置 [UNSET]"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Hide On"
+msgstr "隐藏于"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Exclude Settings"
+msgstr "排除设置"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "All show rules must be true?"
+msgstr "所有显示规则都必须为真吗？"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Show On"
+msgstr "显示于"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Display Settings"
+msgstr "显示设置"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Display Settings [UNSET]"
+msgstr "显示设置 [UNSET]"
+
+#: build/customizer.js:1
+msgid "Header Label"
+msgstr "页眉标签"
+
+#: build/customizer.js:1
+msgid "Expand Item Controls"
+msgstr "展开项目控件"
+
+#: build/customizer.js:1
+msgid "Extra Header"
+msgstr "额外页眉"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Remove Role"
+msgstr "移除角色"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Add Rule"
+msgstr "添加规则"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "No terms for this archive."
+msgstr "此存档没有内容。"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid " Archive By:"
+msgstr " 存档:"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Must Match all Groups"
+msgstr "必须匹配所有群组"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Select Terms"
+msgstr "选择项目"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Select Taxonomy"
+msgstr "选择分类方法"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "No Groups for this post type."
+msgstr "此文章类型没有群组。"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Select Author"
+msgstr "选择作者"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Selected"
+msgstr "已选择"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Select Items"
+msgstr "选择项目"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Individually"
+msgstr "单独"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Author"
+msgstr "作者"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Group"
+msgstr "群组"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "All"
+msgstr "所有"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "By:"
+msgstr "作者："
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Select"
+msgstr "选择"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Remove Rule"
+msgstr "移除规则"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "None"
+msgstr "无"
+
+#: build/customizer.js:1
+msgid "Select a post"
+msgstr "选择文章"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Close modal"
+msgstr "关闭模态窗口"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "No results found."
+msgstr "没有结果。"
+
+#: build/customizer.js:1
+msgid "Filter Posts"
+msgstr "筛选文章"
+
+#: build/customizer.js:1 build/meta.js:1
+msgid "Filter by Post Type"
+msgstr "根据文章类型筛选"
+
+#: build/ace-html.js:1
+msgid "Write HTML…"
+msgstr "撰写HTML…"
+
+#: build/ace-html.js:1
+msgid "Write Code"
+msgstr "撰写代码"
+
+#: build/ace-html.js:1
+msgid "Preview"
+msgstr "预览"
+
+#: kadence-pro.php:179
+msgid "hide"
+msgstr "隐藏"
+
+#. translators: %s is a link to kadence theme.
+#: kadence-pro.php:178
+msgid "Kadence Theme Pro requires the %s to be active for it to work."
+msgstr "Kadence Theme Pro 需要 %s 处于激活才能工作。"
+
+#: kadence-pro.php:161
+msgid "Authorization failed. Please refresh the page and try again."
+msgstr "授权失败，请刷新页面并重试。"
+
+#: includes/uplink/Connect.php:455 includes/uplink/Connect.php:460
+msgid "Click here to activate."
+msgstr "点击这里激活。"
+
+#: includes/uplink/Connect.php:455 includes/uplink/Connect.php:460
+msgid "Kadence Pro has not been activated."
+msgstr "Kadence Pro 未激活。"
+
+#: includes/uplink/Connect.php:315
+msgid "Network License Controlled"
+msgstr "网络许可控制"
+
+#: includes/uplink/Connect.php:283
+msgid "A valid license key is required for support and updates"
+msgstr "支持和更新需要有效的许可证密钥"
+
+#: includes/uplink/Connect.php:280
+msgid "Kadence Theme Pro Addon"
+msgstr ""
+
+#: includes/uplink/Connect.php:255
+msgid "Kadence Pro License"
+msgstr "Kadence Pro 许可证"
+
+#: includes/uplink/Connect.php:255
+msgid "Kadence Pro - License"
+msgstr "Kadence Pro - 许可证"
+
+#: includes/uplink/Connect.php:151
+msgid "Clear"
+msgstr ""
+
+#: includes/uplink/Connect.php:143 includes/uplink/Connect.php:287
+#: includes/uplink/Connect.php:293
+msgid "License Key"
+msgstr "许可证密钥"
+
+#: includes/uplink/Connect.php:87
+msgid "Your license key is valid"
+msgstr "您的许可证密钥有效"
+
+#: includes/uplink/Connect.php:64
+msgid "Kadence Pro Addon"
+msgstr ""
+
+#: includes/uplink/admin-views/field.php:46 includes/uplink/Connect.php:302
+msgid "Save Changes"
+msgstr "保存修改"
+
+#: dist/woocommerce-addons/single-product-options.php:86
+msgid "Mobile Placement"
+msgstr "移动端位置"
+
+#: dist/woocommerce-addons/single-product-options.php:72
+msgid "Enabled for mobile"
+msgstr "在移动端启用"
+
+#: dist/woocommerce-addons/single-product-options.php:60
+#: dist/woocommerce-addons/single-product-options.php:114 build/mega-menu.js:5
+msgid "Bottom"
+msgstr "底部"
+
+#: dist/woocommerce-addons/single-product-options.php:57
+#: dist/woocommerce-addons/single-product-options.php:111 build/mega-menu.js:5
+msgid "Top"
+msgstr "顶部"
+
+#: dist/woocommerce-addons/single-product-options.php:37
+msgid "Sticky Placement"
+msgstr "粘性加入购物车位置"
+
+#: dist/woocommerce-addons/single-product-options.php:29
+msgid "Adds a Sticky Bar with add to cart when you scroll down the product page."
+msgstr "当您向下滚动产品页面时，添加一个带有添加到购物车的粘性栏。"
+
+#: dist/woocommerce-addons/single-product-options.php:27
+msgid "Enabled Sticky Add to Cart"
+msgstr "启用粘性加入购物车"
+
+#: dist/woocommerce-addons/single-product-options.php:19
+msgid "Sticky Add To Cart"
+msgstr "粘性加入购物车"
+
+#: dist/woocommerce-addons/product-archive-options.php:191
+msgid "Toggle Border"
+msgstr "开关边框"
+
+#: dist/woocommerce-addons/product-archive-options.php:158
+msgid "Toggle Style"
+msgstr "开关样式"
+
+#: dist/woocommerce-addons/product-archive-options.php:122
+msgid "Toggle Label"
+msgstr "开关标签"
+
+#: dist/woocommerce-addons/product-archive-options.php:82
+msgid "Toggle Icon"
+msgstr "开关图标"
+
+#: dist/woocommerce-addons/product-archive-options.php:75
+msgid "Add Off Canvas Widget Area?"
+msgstr "添加画布外小工具区域？"
+
+#: dist/woocommerce-addons/product-archive-options.php:67
+#: dist/woocommerce-addons/product-archive-options.php:144
+msgid "Off Canvas Sidebar"
+msgstr "画布外侧边栏"
+
+#: dist/woocommerce-addons/product-archive-options.php:53
+msgid "Show Button to Remove all Filters?"
+msgstr "显示按钮以删除所有过滤器？"
+
+#: dist/woocommerce-addons/product-archive-options.php:45
+msgid "Add Active Filters to top of Shop?"
+msgstr "将活动过滤器添加到商店顶部？"
+
+#: dist/woocommerce-addons/product-archive-options.php:37
+msgid "Archive Active Filters"
+msgstr "存档活动筛选器"
+
+#: dist/woocommerce-addons/product-archive-options.php:29
+msgid "This will use the page content of your shop page instead of the WooCommerce archive loop."
+msgstr ""
+
+#: dist/woocommerce-addons/product-archive-options.php:27
+msgid "Custom Content For Shop Page?"
+msgstr "为商店页面显示自定义内容？"
+
+#: dist/woocommerce-addons/product-archive-options.php:19
+msgid "Custom Shop Page"
+msgstr "自定义商店页面"
+
+#: dist/woocommerce-addons/hooks.php:117
+msgid "Remove all filters"
+msgstr "移除所有过滤器"
+
+#: dist/woocommerce-addons/hooks.php:35
+msgid "Open panel"
+msgstr "打开面板"
+
+#: dist/woocommerce-addons/cart-show-options.php:27
+msgid "Single Product Ajax Add to Cart"
+msgstr "单个产品 Ajax 添加到购物车"
+
+#: dist/woocommerce-addons/cart-show-options.php:19
+msgid "Show the cart popout on add to cart?"
+msgstr "添加到购物车时显示购物车弹出窗口吗？"
+
+#: dist/woocommerce-addons/cart-notice-options.php:73
+msgid "Cart Notice Message"
+msgstr "购物车通知消息"
+
+#: dist/woocommerce-addons/cart-notice-options.php:57
+msgid "Amount needed for Free Shipping."
+msgstr "免费送货所需金额。"
+
+#: dist/woocommerce-addons/cart-notice-options.php:27
+msgid "Show amount left in order to receive free shipping in cart Popout"
+msgstr "在购物车弹窗中显示还差多少包邮"
+
+#: dist/woocommerce-addons/cart-notice-options.php:15
+msgid "Use {cart_difference} placeholder in message to output the amount needed for free shipping."
+msgstr "在消息中使用{cart_difference}占位符来输出免费送货所需的金额。"
+
+#: dist/woocommerce-addons/cart-notice-options.php:14
+msgid "You must add or remove a product from your active cart to see your settings for this take place."
+msgstr "您必须从活动购物车中添加或删除产品才能查看设置。"
+
+#: dist/woocommerce-addons.php:668
+msgid "Add to Cart Behavior"
+msgstr "加入购物车行为"
+
+#: dist/woocommerce-addons.php:558
+msgid "Filter"
+msgstr "筛选器"
+
+#: dist/woocommerce-addons.php:339
+msgid "Catalog Off Canvas Sidebar"
+msgstr "目录画布外侧边栏"
+
+#: dist/scripts-addon/scripts-options.php:36
+msgid "Add scripts into your footer"
+msgstr "在页脚中添加脚本"
+
+#: dist/scripts-addon/scripts-options.php:28
+msgid "Add scripts right after opening body tag"
+msgstr "在打开 body 标签后立即添加脚本"
+
+#: dist/scripts-addon/scripts-options.php:20
+msgid "Add scripts into your header"
+msgstr "在页眉中添加脚本"
+
+#: dist/mega-menu/mega-menu.php:644
+msgid "Mega Menu - Container Settings"
+msgstr "超级菜单 - 容器设置"
+
+#: dist/mega-menu/mega-menu.php:608 includes/uplink/Connect.php:161
+msgid "Security Error, please reload the page."
+msgstr "安全错误，请重新加载此页。"
+
+#: dist/mega-menu/mega-menu.php:554
+msgid "Security Error, Please reload the page."
+msgstr "安全错误，请重新加载此页。"
+
+#: dist/infinite-scroll/infinite-options.php:68
+msgid "End of Content Text"
+msgstr "内容结束文本"
+
+#: dist/infinite-scroll/infinite-options.php:59
+msgid "This will use apply to all custom post archives."
+msgstr "这将适用于所有自定义文章类型存档页面。"
+
+#: dist/infinite-scroll/infinite-options.php:57
+msgid "Infinite Scroll for Custom Post Types?"
+msgstr "为自定义文章类型存档页启用无限滚动？"
+
+#: dist/infinite-scroll/infinite-options.php:49
+msgid "Infinite Scroll for Products?"
+msgstr "为产品存档页启用无限滚动？"
+
+#: dist/infinite-scroll/infinite-options.php:41
+msgid "Infinite Scroll for Search?"
+msgstr "为搜索结果页启用无限滚动？"
+
+#: dist/infinite-scroll/infinite-options.php:21
+msgid "This will use apply to all post archives."
+msgstr "这将适用于所有文章存档页面。"
+
+#: dist/infinite-scroll/infinite-options.php:19
+msgid "Infinite Scroll for Blog?"
+msgstr "为博客启用无限滚动？"
+
+#: dist/infinite-scroll.php:124 build/dashboard.js:1
+msgid "Infinite Scroll"
+msgstr "无限滚动"
+
+#: dist/infinite-scroll.php:99
+msgid "End of content"
+msgstr "内容结束"
+
+#: dist/header-addons/hooks.php:1235 dist/woocommerce-addons/hooks.php:84
+msgid "Close panel"
+msgstr "关闭面板"
+
+#: dist/header-addons/hooks.php:936
+msgid "Sign up"
+msgstr "注册"
+
+#: dist/header-addons/hooks.php:936
+msgid "Don't have an account yet?"
+msgstr "还没有账户吗？"
+
+#: dist/header-addons/hooks.php:928
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: dist/header-addons/hooks.php:903
+msgid "Close Login"
+msgstr "关闭登录"
+
+#: dist/header-addons/hooks.php:369 dist/header-addons/hooks.php:648
+msgid "Expand child menu"
+msgstr "扩展子菜单"
+
+#: dist/header-addons/hooks.php:50 dist/header-addons/hooks.php:83
+#: dist/header-addons/hooks.php:120 dist/header-addons/hooks.php:144
+#: dist/header-addons/hooks.php:165 dist/header-addons/hooks.php:186
+#: dist/header-addons/hooks.php:202 dist/header-addons/hooks.php:218
+#: dist/header-addons/hooks.php:234 dist/header-addons/hooks.php:250
+#: dist/header-addons/hooks.php:270 dist/header-addons/hooks.php:299
+#: dist/header-addons/hooks.php:429 dist/header-addons/hooks.php:701
+#: dist/header-addons/hooks.php:779 dist/header-addons/hooks.php:951
+#: dist/header-addons/hooks.php:1010
+msgid "Click to edit this element."
+msgstr "点击编辑此元素。"
+
+#: dist/header-addons/hooks.php:47 dist/header-addons/hooks.php:80
+msgid "Menu"
+msgstr "菜单"
+
+#: dist/header-addons/hooks.php:17
+msgid "Secondary Mobile Navigation"
+msgstr "次要移动端导航"
+
+#: dist/header-addons/header-widget-area-options.php:183
+msgid "Widget Area Colors"
+msgstr "小工具区域颜色"
+
+#: dist/header-addons/header-toggle-widget-options.php:670
+#: dist/header-addons/header-toggle-widget-options.php:749
+msgid "Toggle Widget Colors"
+msgstr "切换小工具颜色"
+
+#: dist/header-addons/header-toggle-widget-options.php:630
+#: dist/woocommerce-addons/product-archive-options.php:793
+msgid "Close Toggle Colors"
+msgstr "关闭切换颜色"
+
+#: dist/header-addons/header-toggle-widget-options.php:606
+#: dist/header-addons/header-toggle-widget-options.php:624
+#: dist/woocommerce-addons/product-archive-options.php:769
+#: dist/woocommerce-addons/product-archive-options.php:787
+msgid "Popup Background"
+msgstr "弹出背景"
+
+#: dist/header-addons/header-toggle-widget-options.php:569
+#: dist/woocommerce-addons/product-archive-options.php:732
+msgid "Popup Content Max Width"
+msgstr "弹出内容最大宽度"
+
+#: dist/header-addons/header-toggle-widget-options.php:558
+#: dist/woocommerce-addons/product-archive-options.php:721
+msgid "Reveal from Right"
+msgstr "从右侧显示"
+
+#: dist/header-addons/header-toggle-widget-options.php:553
+#: dist/woocommerce-addons/product-archive-options.php:716
+msgid "Reveal from Left"
+msgstr "从左侧显示"
+
+#: dist/header-addons/header-toggle-widget-options.php:528
+#: dist/woocommerce-addons/product-archive-options.php:691
+msgid "Slide-Out Side"
+msgstr "滑出式侧面板"
+
+#: dist/header-addons/header-toggle-widget-options.php:517
+#: dist/woocommerce-addons/product-archive-options.php:680
+msgid "Side Panel"
+msgstr "侧面板"
+
+#: dist/header-addons/header-toggle-widget-options.php:516
+#: dist/woocommerce-addons/product-archive-options.php:679
+msgid "Reveal as Side Panel"
+msgstr "显示为侧面板"
+
+#: dist/header-addons/header-toggle-widget-options.php:512
+#: dist/woocommerce-addons/product-archive-options.php:675
+#: build/customizer.js:1
+msgid "Fullwidth"
+msgstr "全宽"
+
+#: dist/header-addons/header-toggle-widget-options.php:511
+#: dist/woocommerce-addons/product-archive-options.php:674
+msgid "Reveal as Fullwidth"
+msgstr "显示为全宽"
+
+#: dist/header-addons/header-toggle-widget-options.php:493
+#: dist/woocommerce-addons/product-archive-options.php:656
+msgid "Layout"
+msgstr "布局"
+
+#: dist/header-addons/header-toggle-widget-options.php:480
+#: dist/woocommerce-addons/product-archive-options.php:643
+msgid "Popup Area Settings"
+msgstr "弹出区域设置"
+
+#: dist/header-addons/header-toggle-widget-options.php:358
+#: dist/header-addons/header-widget-area-options.php:61
+#: dist/woocommerce-addons/product-archive-options.php:521
+msgid "Widget Content"
+msgstr "小工具内容"
+
+#: dist/header-addons/header-toggle-widget-options.php:330
+#: dist/header-addons/header-widget-area-options.php:33
+#: dist/woocommerce-addons/product-archive-options.php:493
+msgid "Widget Titles"
+msgstr "小工具标题"
+
+#: dist/header-addons/header-toggle-widget-options.php:301
+#: dist/woocommerce-addons/product-archive-options.php:465
+msgid "Add Widget Items"
+msgstr "添加小工具项目"
+
+#: dist/header-addons/header-toggle-widget-options.php:294
+msgid "Widget Items"
+msgstr "小工具项目"
+
+#: dist/header-addons/header-toggle-widget-options.php:277
+#: dist/woocommerce-addons/product-archive-options.php:432
+msgid "Trigger Padding"
+msgstr "触发器内距"
+
+#: dist/header-addons/header-toggle-widget-options.php:246
+#: dist/woocommerce-addons/product-archive-options.php:395
+msgid "Trigger Font"
+msgstr "触发器字体"
+
+#: dist/header-addons/header-toggle-widget-options.php:212
+#: dist/woocommerce-addons/product-archive-options.php:310
+msgid "Trigger Background"
+msgstr "触发器背景"
+
+#: dist/header-addons/header-toggle-widget-options.php:178
+#: dist/woocommerce-addons/product-archive-options.php:268
+#: dist/woocommerce-addons/product-archive-options.php:352
+msgid "Trigger Colors"
+msgstr "触发器颜色"
+
+#: dist/header-addons/header-toggle-widget-options.php:116
+msgid "Trigger Border"
+msgstr "触发器边框"
+
+#: dist/header-addons/header-toggle-widget-options.php:107
+#: dist/woocommerce-addons/product-archive-options.php:181
+msgid "Bordered"
+msgstr "有边框"
+
+#: dist/header-addons/header-toggle-widget-options.php:92
+msgid "Trigger Style"
+msgstr "触发器样式"
+
+#: dist/header-addons/header-toggle-widget-options.php:67
+msgid "Trigger Icon"
+msgstr "触发器图标"
+
+#: dist/header-addons/header-toggle-widget-options.php:53
+msgid "Trigger Label"
+msgstr "触发器标签"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:352
+#: dist/header-addons/header-quaternary-navigation-options.php:360
+#: dist/header-addons/header-tertiary-navigation-options.php:352
+#: dist/header-addons/header-tertiary-navigation-options.php:360
+msgid "Dropdown Options"
+msgstr "下拉选项"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:328
+#: dist/header-addons/header-tertiary-navigation-options.php:328
+msgid "Navigation Font"
+msgstr "导航字体"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:283
+#: dist/header-addons/header-tertiary-navigation-options.php:283
+msgid "Navigation Background"
+msgstr "导航背景"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:238
+#: dist/header-addons/header-tertiary-navigation-options.php:238
+msgid "Navigation Colors"
+msgstr "导航颜色"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:185
+#: dist/header-addons/header-tertiary-navigation-options.php:185
+msgid "Items Top and Bottom Padding"
+msgstr "项目顶部和底部内距"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:174
+#: dist/header-addons/header-tertiary-navigation-options.php:174
+msgid "Full Height Underline"
+msgstr "全高下划线"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:173
+#: dist/header-addons/header-tertiary-navigation-options.php:173
+msgid "Full Height Underline Hover/Active"
+msgstr "全高悬停/活动下划线"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:168
+#: dist/header-addons/header-tertiary-navigation-options.php:168
+msgid "Underline Hover/Active"
+msgstr "悬停/激活下划线"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:164
+#: dist/header-addons/header-tertiary-navigation-options.php:164
+msgid "Full Height"
+msgstr "全高"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:163
+#: dist/header-addons/header-tertiary-navigation-options.php:163
+msgid "Menu items are full height"
+msgstr "菜单项为全高"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:158
+#: dist/header-addons/header-quaternary-navigation-options.php:159
+#: dist/header-addons/header-tertiary-navigation-options.php:158
+#: dist/header-addons/header-tertiary-navigation-options.php:159
+#: build/customizer.js:1
+msgid "Standard"
+msgstr "标准"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:146
+#: dist/header-addons/header-tertiary-navigation-options.php:146
+msgid "Navigation Style"
+msgstr "导航样式"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:124
+#: dist/header-addons/header-tertiary-navigation-options.php:124
+msgid "Fill and Center Menu Items?"
+msgstr "填充并居中菜单项目？"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:109
+#: dist/header-addons/header-tertiary-navigation-options.php:109
+msgid "Stretch Menu?"
+msgstr "拉伸菜单？"
+
+#: dist/header-addons/header-quaternary-navigation-options.php:63
+#: dist/header-addons/header-tertiary-navigation-options.php:63
+msgid "Items Spacing"
+msgstr "项目间距"
+
+#: dist/header-addons/header-mobile-search-bar-options.php:378
+#: dist/header-addons/header-search-bar-options.php:378
+msgid "Search only Products?"
+msgstr "只搜索产品？"
+
+#: dist/header-addons/header-mobile-search-bar-options.php:330
+#: dist/header-addons/header-search-bar-options.php:330
+msgid "Search Bar Border Color"
+msgstr "搜索条边框颜色"
+
+#: dist/header-addons/header-mobile-search-bar-options.php:289
+#: dist/header-addons/header-search-bar-options.php:289
+msgid "Search Bar Input Background"
+msgstr "搜索条输入背景"
+
+#: dist/header-addons/header-mobile-search-bar-options.php:248
+#: dist/header-addons/header-search-bar-options.php:248
+msgid "Search Bar Input Colors"
+msgstr "搜索条输入颜色"
+
+#: dist/header-addons/header-mobile-search-bar-options.php:173
+#: dist/header-addons/header-search-bar-options.php:173
+msgid "Input Border Color"
+msgstr "输入框边框颜色"
+
+#: dist/header-addons/header-mobile-search-bar-options.php:119
+#: dist/header-addons/header-search-bar-options.php:119
+msgid "Input Background"
+msgstr "输入框背景"
+
+#: dist/header-addons/header-mobile-search-bar-options.php:110
+#: dist/header-addons/header-mobile-search-bar-options.php:144
+#: dist/header-addons/header-mobile-search-bar-options.php:198
+#: dist/header-addons/header-mobile-search-bar-options.php:280
+#: dist/header-addons/header-mobile-search-bar-options.php:321
+#: dist/header-addons/header-mobile-search-bar-options.php:362
+#: dist/header-addons/header-search-bar-options.php:110
+#: dist/header-addons/header-search-bar-options.php:144
+#: dist/header-addons/header-search-bar-options.php:198
+#: dist/header-addons/header-search-bar-options.php:280
+#: dist/header-addons/header-search-bar-options.php:321
+#: dist/header-addons/header-search-bar-options.php:362
+msgid "Focus Color"
+msgstr "聚焦文字颜色"
+
+#: dist/header-addons/header-mobile-search-bar-options.php:85
+#: dist/header-addons/header-search-bar-options.php:85
+msgid "Input Text Colors"
+msgstr "输入文字颜色"
+
+#: dist/header-addons/header-mobile-search-bar-options.php:51
+#: dist/header-addons/header-search-bar-options.php:51
+msgid "Search Bar Width"
+msgstr "搜索条宽度"
+
+#: dist/header-addons/header-mobile-nav2-options.php:265
+msgid "Entire parent menu item expands sub menu"
+msgstr "整个父菜单项展开子菜单"
+
+#: dist/header-addons/header-mobile-nav2-options.php:252
+msgid "Collapse sub menu items?"
+msgstr "折叠子菜单项目？"
+
+#: dist/header-addons/header-mobile-nav2-options.php:205
+msgid "Items Vertical Spacing"
+msgstr "项目垂直间距"
+
+#: dist/header-addons/header-mobile-nav2-options.php:153
+msgid "Item Divider"
+msgstr "项目分隔线"
+
+#: dist/header-addons/header-mobile-nav2-options.php:143
+#: dist/header-addons/header-quaternary-navigation-options.php:319
+#: dist/header-addons/header-tertiary-navigation-options.php:319
+msgid "Active Background"
+msgstr "活动背景"
+
+#: dist/header-addons/header-mobile-nav2-options.php:97
+#: dist/header-addons/header-quaternary-navigation-options.php:274
+#: dist/header-addons/header-tertiary-navigation-options.php:274
+msgid "Active Color"
+msgstr "活动颜色"
+
+#: dist/header-addons/header-mobile-divider2-options.php:102
+msgid "Mobile Divider 2 Color"
+msgstr "移动端分隔线 2 颜色"
+
+#: dist/header-addons/header-mobile-divider2-options.php:17
+msgid "Mobile Divider 2"
+msgstr "移动端分隔线 2"
+
+#: dist/header-addons/header-mobile-divider-options.php:102
+msgid "Mobile Divider Color"
+msgstr "移动端分隔线颜色"
+
+#: dist/header-addons/header-mobile-divider-options.php:44
+#: dist/header-addons/header-mobile-divider2-options.php:44
+msgid "Mobile Divider Length"
+msgstr "移动端分隔线长度"
+
+#: dist/header-addons/header-mobile-contact-options.php:118
+msgid "Item Vertical Spacing"
+msgstr "项目垂直间距"
+
+#: dist/header-addons/header-mobile-contact-options.php:63
+msgid "Item Horizontal Spacing"
+msgstr "项目水平间距"
+
+#: dist/header-addons/header-mobile-button2-options.php:100
+msgid "Large"
+msgstr "大号"
+
+#: dist/header-addons/header-mobile-button2-options.php:96
+msgid "Medium"
+msgstr "中号"
+
+#: dist/header-addons/header-mobile-button2-options.php:93
+msgid "Small"
+msgstr "小号"
+
+#: dist/header-addons/header-html2-options.php:212
+#: dist/header-addons/header-widget-area-options.php:225
+msgid "Link Hover"
+msgstr "链接悬停"
+
+#: dist/header-addons/header-html2-options.php:208
+#: dist/header-addons/header-widget-area-options.php:221
+msgid "Link Color"
+msgstr "链接颜色"
+
+#: dist/header-addons/header-html2-options.php:176
+msgid "HTML2 Colors"
+msgstr "HTML2 颜色"
+
+#: dist/header-addons/header-html2-options.php:123
+#: dist/header-addons/header-mobile-html2-options.php:123
+#: dist/header-addons/header-toggle-widget-options.php:386
+#: dist/header-addons/header-widget-area-options.php:89
+#: dist/woocommerce-addons/product-archive-options.php:549
+msgid "Link Colors"
+msgstr "链接颜色"
+
+#: dist/header-addons/header-html2-options.php:67
+#: dist/header-addons/header-mobile-html2-options.php:67
+msgid "Automatically Add Paragraphs"
+msgstr "自动添加段落"
+
+#: dist/header-addons/header-divider3-options.php:87
+msgid "Divider 3 Color"
+msgstr "分隔线 3 颜色"
+
+#: dist/header-addons/header-divider2-options.php:87
+msgid "Divider 2 Color"
+msgstr "分隔线 2 颜色"
+
+#: dist/header-addons/header-divider-options.php:87
+msgid "Divider Color"
+msgstr "分隔线颜色"
+
+#: dist/header-addons/header-divider-options.php:36
+#: dist/header-addons/header-divider2-options.php:36
+#: dist/header-addons/header-divider3-options.php:36
+msgid "Divider Height"
+msgstr "分隔线高度"
+
+#: dist/header-addons/header-contact-options.php:292
+#: dist/header-addons/header-contact-options.php:326
+#: dist/header-addons/header-mobile-contact-options.php:318
+msgid "Hover"
+msgstr "悬停"
+
+#: dist/header-addons/header-contact-options.php:266
+#: dist/header-addons/header-contact-options.php:301
+#: dist/header-addons/header-mobile-contact-options.php:293
+msgid "Contact Colors"
+msgstr "联系颜色"
+
+#: dist/header-addons/header-contact-options.php:208
+#: dist/header-addons/header-html2-options.php:107
+#: dist/header-addons/header-mobile-contact-options.php:235
+#: dist/header-addons/header-mobile-html2-options.php:107
+#: dist/header-addons/header-toggle-widget-options.php:434
+#: dist/header-addons/header-widget-area-options.php:137
+#: dist/woocommerce-addons/product-archive-options.php:597
+msgid "No Underline"
+msgstr "无下划线"
+
+#: dist/header-addons/header-contact-options.php:205
+#: dist/header-addons/header-html2-options.php:104
+#: dist/header-addons/header-mobile-contact-options.php:232
+#: dist/header-addons/header-mobile-html2-options.php:104
+#: dist/header-addons/header-quaternary-navigation-options.php:169
+#: dist/header-addons/header-tertiary-navigation-options.php:169
+#: dist/header-addons/header-toggle-widget-options.php:431
+#: dist/header-addons/header-widget-area-options.php:134
+#: dist/woocommerce-addons/product-archive-options.php:594
+msgid "Underline"
+msgstr "下划线"
+
+#: dist/header-addons/header-contact-options.php:201
+#: dist/header-addons/header-html2-options.php:100
+#: dist/header-addons/header-mobile-contact-options.php:228
+#: dist/header-addons/header-mobile-html2-options.php:100
+#: dist/header-addons/header-toggle-widget-options.php:427
+#: dist/header-addons/header-widget-area-options.php:130
+#: dist/woocommerce-addons/product-archive-options.php:590
+msgid "Link Style"
+msgstr "链接样式"
+
+#: dist/header-addons/header-contact-options.php:63
+msgid "Item Spacing"
+msgstr "项目间距"
+
+#: dist/header-addons/header-contact-options.php:53
+#: dist/header-addons/header-mobile-contact-options.php:53
+msgid "Contact Items"
+msgstr "联系项目"
+
+#: dist/header-addons/header-button2-options.php:511
+#: dist/header-addons/header-button2-options.php:590
+#: dist/header-addons/header-toggle-widget-options.php:740
+#: dist/header-addons/header-toggle-widget-options.php:818
+msgid "Border Hover"
+msgstr "边框悬停"
+
+#: dist/header-addons/header-button2-options.php:503
+#: dist/header-addons/header-button2-options.php:582
+#: dist/header-addons/header-toggle-widget-options.php:732
+#: dist/header-addons/header-toggle-widget-options.php:810
+msgid "Background Hover"
+msgstr "背景悬停"
+
+#: dist/header-addons/header-button2-options.php:499
+#: dist/header-addons/header-button2-options.php:578
+#: dist/header-addons/header-mobile-nav2-options.php:107
+#: dist/header-addons/header-toggle-widget-options.php:728
+#: dist/header-addons/header-toggle-widget-options.php:806
+msgid "Background"
+msgstr "背景"
+
+#: dist/header-addons/header-button2-options.php:491
+#: dist/header-addons/header-button2-options.php:570
+#: dist/header-addons/header-contact-options.php:288
+#: dist/header-addons/header-contact-options.php:322
+#: dist/header-addons/header-divider-options.php:101
+#: dist/header-addons/header-divider2-options.php:101
+#: dist/header-addons/header-divider3-options.php:101
+#: dist/header-addons/header-html2-options.php:204
+#: dist/header-addons/header-mobile-contact-options.php:314
+#: dist/header-addons/header-mobile-divider-options.php:116
+#: dist/header-addons/header-mobile-divider2-options.php:116
+#: dist/header-addons/header-toggle-widget-options.php:720
+#: dist/header-addons/header-toggle-widget-options.php:798
+#: dist/header-addons/header-widget-area-options.php:217
+msgid "Color"
+msgstr "颜色"
+
+#: dist/header-addons/header-button2-options.php:442
+#: dist/header-addons/header-button2-options.php:520
+msgid "Button2 Colors"
+msgstr "按钮2颜色"
+
+#: dist/header-addons/header-button2-options.php:408
+#: dist/header-addons/header-mobile-button2-options.php:371
+msgid "Button Hover State Shadow"
+msgstr "按钮悬停状态阴影"
+
+#: dist/header-addons/header-button2-options.php:393
+#: dist/header-addons/header-mobile-button2-options.php:356
+msgid "Button Shadow"
+msgstr "按钮阴影"
+
+#: dist/header-addons/header-button2-options.php:370
+#: dist/header-addons/header-contact-options.php:224
+#: dist/header-addons/header-html2-options.php:77
+#: dist/header-addons/header-mobile-button2-options.php:333
+#: dist/header-addons/header-mobile-contact-options.php:251
+#: dist/header-addons/header-mobile-html2-options.php:77
+#: dist/header-addons/header-mobile-nav2-options.php:181
+#: dist/header-addons/header-mobile-search-bar-options.php:207
+#: dist/header-addons/header-search-bar-options.php:207
+msgid "Font"
+msgstr "字体"
+
+#: dist/header-addons/header-button2-options.php:332
+#: dist/header-addons/header-button2-options.php:507
+#: dist/header-addons/header-button2-options.php:586
+#: dist/header-addons/header-mobile-button2-options.php:295
+#: dist/header-addons/header-mobile-search-bar-options.php:153
+#: dist/header-addons/header-search-bar-options.php:153
+#: dist/header-addons/header-toggle-widget-options.php:736
+#: dist/header-addons/header-toggle-widget-options.php:814
+msgid "Border"
+msgstr "边框"
+
+#: dist/header-addons/header-button2-options.php:298
+#: dist/header-addons/header-mobile-button2-options.php:261
+msgid "Border Colors"
+msgstr "边框颜色"
+
+#: dist/header-addons/header-button2-options.php:257
+#: dist/header-addons/header-mobile-button2-options.php:220
+msgid "Background Colors"
+msgstr "背景颜色"
+
+#: dist/header-addons/header-button2-options.php:223
+#: dist/header-addons/header-contact-options.php:166
+#: dist/header-addons/header-mobile-button2-options.php:186
+#: dist/header-addons/header-mobile-contact-options.php:193
+#: dist/header-addons/header-mobile-nav2-options.php:61
+msgid "Colors"
+msgstr "颜色"
+
+#: dist/header-addons/header-button2-options.php:183
+msgid "Lg"
+msgstr "Lg"
+
+#: dist/header-addons/header-button2-options.php:179
+msgid "Md"
+msgstr "Md"
+
+#: dist/header-addons/header-button2-options.php:176
+msgid "Sm"
+msgstr "Sm"
+
+#: dist/header-addons/header-button2-options.php:164
+#: dist/header-addons/header-mobile-button2-options.php:81
+msgid "Button Size"
+msgstr "按钮尺寸"
+
+#: dist/header-addons/header-button2-options.php:153
+#: dist/header-addons/header-mobile-button2-options.php:177
+msgid "Logged In Only"
+msgstr "仅登入用户"
+
+#: dist/header-addons/header-button2-options.php:150
+#: dist/header-addons/header-mobile-button2-options.php:174
+msgid "Logged Out Only"
+msgstr "仅登出用户"
+
+#: dist/header-addons/header-button2-options.php:147
+#: dist/header-addons/header-mobile-button2-options.php:171
+msgid "Everyone"
+msgstr "所有人"
+
+#: dist/header-addons/header-button2-options.php:138
+#: dist/header-addons/header-mobile-button2-options.php:162
+msgid "Button Visibility"
+msgstr "按钮可见性"
+
+#: dist/header-addons/header-button2-options.php:126
+#: dist/header-addons/header-mobile-button2-options.php:69
+msgid "Outline"
+msgstr "轮廓"
+
+#: dist/header-addons/header-button2-options.php:123
+#: dist/header-addons/header-mobile-button2-options.php:66
+msgid "Filled"
+msgstr "填充"
+
+#: dist/header-addons/header-button2-options.php:111
+#: dist/header-addons/header-mobile-button2-options.php:54
+msgid "Button Style"
+msgstr "按钮样式"
+
+#: dist/header-addons/header-button2-options.php:104
+msgid "Set link to Download?"
+msgstr "设置链接为下载？"
+
+#: dist/header-addons/header-button2-options.php:97
+#: dist/header-addons/header-mobile-button2-options.php:155
+msgid "Set link attribute Sponsored?"
+msgstr "设置链接Sponsored属性？"
+
+#: dist/header-addons/header-button2-options.php:90
+#: dist/header-addons/header-mobile-button2-options.php:148
+msgid "Set link to nofollow?"
+msgstr "设置链接为 nofollow?"
+
+#: dist/header-addons/header-button2-options.php:83
+#: dist/header-addons/header-mobile-button2-options.php:141
+msgid "Open in New Tab?"
+msgstr "在新选项卡中打开？"
+
+#: dist/header-addons/header-button2-options.php:69
+#: dist/header-addons/header-mobile-button2-options.php:127
+msgid "URL"
+msgstr "URL"
+
+#: dist/header-addons/header-account-options.php:1254
+#: dist/header-addons/header-mobile-account-options.php:1108
+msgid "Logged in Account Background"
+msgstr "登入账户背景"
+
+#: dist/header-addons/header-account-options.php:1213
+#: dist/header-addons/header-mobile-account-options.php:1067
+msgid "Logged in Account Colors"
+msgstr "登入账户颜色"
+
+#: dist/header-addons/header-account-options.php:1172
+#: dist/header-addons/header-mobile-account-options.php:1026
+msgid "Logged out Account Background"
+msgstr "登出账户背景"
+
+#: dist/header-addons/header-account-options.php:1131
+#: dist/header-addons/header-mobile-account-options.php:985
+msgid "Logged out Account Colors"
+msgstr "登录账户颜色"
+
+#: dist/header-addons/header-account-options.php:1050
+#: dist/header-addons/header-mobile-account-options.php:904
+msgid "Label/Name Font"
+msgstr "标签/名称字体"
+
+#: dist/header-addons/header-account-options.php:914
+#: dist/header-addons/header-mobile-account-options.php:768
+msgid "Avatar Border Radius"
+msgstr "头像圆角"
+
+#: dist/header-addons/header-account-options.php:865
+#: dist/header-addons/header-mobile-account-options.php:719
+msgid "Icon/Image Size"
+msgstr "图标/图像尺寸"
+
+#: dist/header-addons/header-account-options.php:766
+msgid "Woocommerce Account Menu"
+msgstr "WooCommerce账户菜单"
+
+#: dist/header-addons/header-account-options.php:763
+msgid "Navigation Menu"
+msgstr "导航菜单"
+
+#: dist/header-addons/header-account-options.php:746
+msgid "Dropdown Source"
+msgstr "下拉来源"
+
+#: dist/header-addons/header-account-options.php:645
+#: dist/header-addons/header-mobile-account-options.php:590
+msgid "User Name + Icon"
+msgstr "用户名 + 图标"
+
+#: dist/header-addons/header-account-options.php:642
+#: dist/header-addons/header-mobile-account-options.php:587
+msgid "Icon + User Name"
+msgstr "图标 + 用户名"
+
+#: dist/header-addons/header-account-options.php:639
+#: dist/header-addons/header-mobile-account-options.php:584
+msgid "User Name + Avatar"
+msgstr "用户名 + 头像"
+
+#: dist/header-addons/header-account-options.php:636
+#: dist/header-addons/header-mobile-account-options.php:581
+msgid "Avatar + User Name"
+msgstr "头像 + 用户名"
+
+#: dist/header-addons/header-account-options.php:633
+#: dist/header-addons/header-mobile-account-options.php:578
+msgid "Label + Avatar"
+msgstr "标签 + 头像"
+
+#: dist/header-addons/header-account-options.php:630
+#: dist/header-addons/header-mobile-account-options.php:575
+msgid "Avatar + Label"
+msgstr "头像 + 标签"
+
+#: dist/header-addons/header-account-options.php:588
+#: dist/header-addons/header-account-options.php:852
+#: dist/header-addons/header-mobile-account-options.php:533
+#: dist/header-addons/header-mobile-account-options.php:706
+msgid "Logged In Options"
+msgstr "登录选项"
+
+#: dist/header-addons/header-account-options.php:539
+#: dist/header-addons/header-account-options.php:1081
+#: dist/header-addons/header-button2-options.php:199
+#: dist/header-addons/header-mobile-account-options.php:484
+#: dist/header-addons/header-mobile-account-options.php:935
+#: dist/header-addons/header-toggle-widget-options.php:457
+#: dist/woocommerce-addons/product-archive-options.php:620
+msgid "Padding"
+msgstr "内距"
+
+#: dist/header-addons/header-account-options.php:503
+#: dist/header-addons/header-mobile-account-options.php:448
+msgid "Label Font"
+msgstr "标签字体"
+
+#: dist/header-addons/header-account-options.php:479
+#: dist/header-addons/header-account-options.php:1026
+#: dist/header-addons/header-button2-options.php:353
+#: dist/header-addons/header-mobile-account-options.php:424
+#: dist/header-addons/header-mobile-account-options.php:880
+#: dist/header-addons/header-mobile-button2-options.php:316
+msgid "Border Radius"
+msgstr "边框半径"
+
+#: dist/header-addons/header-account-options.php:469
+#: dist/header-addons/header-account-options.php:1016
+#: dist/header-addons/header-account-options.php:1204
+#: dist/header-addons/header-account-options.php:1286
+#: dist/header-addons/header-mobile-account-options.php:414
+#: dist/header-addons/header-mobile-account-options.php:870
+#: dist/header-addons/header-mobile-account-options.php:1058
+#: dist/header-addons/header-mobile-account-options.php:1140
+#: dist/header-addons/header-mobile-nav2-options.php:139
+#: dist/header-addons/header-quaternary-navigation-options.php:315
+#: dist/header-addons/header-tertiary-navigation-options.php:315
+#: dist/header-addons/header-toggle-widget-options.php:237
+#: dist/woocommerce-addons/product-archive-options.php:343
+msgid "Hover Background"
+msgstr "悬停背景"
+
+#: dist/header-addons/header-account-options.php:465
+#: dist/header-addons/header-account-options.php:1012
+#: dist/header-addons/header-account-options.php:1200
+#: dist/header-addons/header-account-options.php:1282
+#: dist/header-addons/header-mobile-account-options.php:410
+#: dist/header-addons/header-mobile-account-options.php:866
+#: dist/header-addons/header-mobile-account-options.php:1054
+#: dist/header-addons/header-mobile-account-options.php:1136
+#: dist/header-addons/header-mobile-nav2-options.php:135
+#: dist/header-addons/header-quaternary-navigation-options.php:311
+#: dist/header-addons/header-tertiary-navigation-options.php:311
+#: dist/header-addons/header-toggle-widget-options.php:233
+#: dist/woocommerce-addons/product-archive-options.php:339
+msgid "Initial Background"
+msgstr "初始背景"
+
+#: dist/header-addons/header-account-options.php:437
+#: dist/header-addons/header-account-options.php:984
+#: dist/header-addons/header-mobile-account-options.php:382
+#: dist/header-addons/header-mobile-account-options.php:838
+msgid "Account Background"
+msgstr "账户背景"
+
+#: dist/header-addons/header-account-options.php:428
+#: dist/header-addons/header-account-options.php:968
+#: dist/header-addons/header-account-options.php:1163
+#: dist/header-addons/header-account-options.php:1238
+#: dist/header-addons/header-button2-options.php:248
+#: dist/header-addons/header-button2-options.php:289
+#: dist/header-addons/header-button2-options.php:323
+#: dist/header-addons/header-button2-options.php:495
+#: dist/header-addons/header-button2-options.php:574
+#: dist/header-addons/header-contact-options.php:191
+#: dist/header-addons/header-html2-options.php:148
+#: dist/header-addons/header-mobile-account-options.php:373
+#: dist/header-addons/header-mobile-account-options.php:822
+#: dist/header-addons/header-mobile-account-options.php:1017
+#: dist/header-addons/header-mobile-account-options.php:1092
+#: dist/header-addons/header-mobile-button2-options.php:211
+#: dist/header-addons/header-mobile-button2-options.php:252
+#: dist/header-addons/header-mobile-button2-options.php:286
+#: dist/header-addons/header-mobile-contact-options.php:218
+#: dist/header-addons/header-mobile-html2-options.php:148
+#: dist/header-addons/header-mobile-nav2-options.php:93
+#: dist/header-addons/header-quaternary-navigation-options.php:270
+#: dist/header-addons/header-tertiary-navigation-options.php:270
+#: dist/header-addons/header-toggle-widget-options.php:203
+#: dist/header-addons/header-toggle-widget-options.php:417
+#: dist/header-addons/header-toggle-widget-options.php:661
+#: dist/header-addons/header-toggle-widget-options.php:724
+#: dist/header-addons/header-toggle-widget-options.php:802
+#: dist/header-addons/header-widget-area-options.php:120
+#: dist/woocommerce-addons/product-archive-options.php:301
+#: dist/woocommerce-addons/product-archive-options.php:385
+#: dist/woocommerce-addons/product-archive-options.php:580
+#: dist/woocommerce-addons/product-archive-options.php:824
+msgid "Hover Color"
+msgstr "悬停颜色"
+
+#: dist/header-addons/header-account-options.php:424
+#: dist/header-addons/header-account-options.php:964
+#: dist/header-addons/header-account-options.php:1159
+#: dist/header-addons/header-account-options.php:1234
+#: dist/header-addons/header-button2-options.php:244
+#: dist/header-addons/header-button2-options.php:285
+#: dist/header-addons/header-button2-options.php:319
+#: dist/header-addons/header-contact-options.php:187
+#: dist/header-addons/header-html2-options.php:144
+#: dist/header-addons/header-mobile-account-options.php:369
+#: dist/header-addons/header-mobile-account-options.php:818
+#: dist/header-addons/header-mobile-account-options.php:1013
+#: dist/header-addons/header-mobile-account-options.php:1088
+#: dist/header-addons/header-mobile-button2-options.php:207
+#: dist/header-addons/header-mobile-button2-options.php:248
+#: dist/header-addons/header-mobile-button2-options.php:282
+#: dist/header-addons/header-mobile-contact-options.php:214
+#: dist/header-addons/header-mobile-html2-options.php:144
+#: dist/header-addons/header-mobile-nav2-options.php:89
+#: dist/header-addons/header-mobile-search-bar-options.php:106
+#: dist/header-addons/header-mobile-search-bar-options.php:140
+#: dist/header-addons/header-mobile-search-bar-options.php:194
+#: dist/header-addons/header-mobile-search-bar-options.php:276
+#: dist/header-addons/header-mobile-search-bar-options.php:317
+#: dist/header-addons/header-mobile-search-bar-options.php:358
+#: dist/header-addons/header-quaternary-navigation-options.php:266
+#: dist/header-addons/header-search-bar-options.php:106
+#: dist/header-addons/header-search-bar-options.php:140
+#: dist/header-addons/header-search-bar-options.php:194
+#: dist/header-addons/header-search-bar-options.php:276
+#: dist/header-addons/header-search-bar-options.php:317
+#: dist/header-addons/header-search-bar-options.php:358
+#: dist/header-addons/header-tertiary-navigation-options.php:266
+#: dist/header-addons/header-toggle-widget-options.php:199
+#: dist/header-addons/header-toggle-widget-options.php:413
+#: dist/header-addons/header-toggle-widget-options.php:657
+#: dist/header-addons/header-widget-area-options.php:116
+#: dist/woocommerce-addons/product-archive-options.php:297
+#: dist/woocommerce-addons/product-archive-options.php:381
+#: dist/woocommerce-addons/product-archive-options.php:576
+#: dist/woocommerce-addons/product-archive-options.php:820
+msgid "Initial Color"
+msgstr "初始颜色"
+
+#: dist/header-addons/header-account-options.php:396
+#: dist/header-addons/header-account-options.php:943
+#: dist/header-addons/header-mobile-account-options.php:341
+#: dist/header-addons/header-mobile-account-options.php:797
+msgid "Account Colors"
+msgstr "账户颜色"
+
+#: dist/header-addons/header-account-options.php:317
+#: dist/header-addons/header-account-options.php:827
+#: dist/header-addons/header-mobile-nav2-options.php:53
+#: dist/header-addons/header-quaternary-navigation-options.php:54
+#: dist/header-addons/header-tertiary-navigation-options.php:54
+msgid "Select Menu"
+msgstr "选择菜单"
+
+#: dist/header-addons/header-account-options.php:293
+#: dist/header-addons/header-account-options.php:808
+#: dist/header-addons/header-mobile-account-options.php:259
+#: dist/header-addons/header-mobile-account-options.php:688
+msgid "Account Item Link"
+msgstr "账户项目链接"
+
+#: dist/header-addons/header-account-options.php:263
+#: dist/header-addons/header-mobile-account-options.php:229
+msgid "Registration Link"
+msgstr "注册链接"
+
+#: dist/header-addons/header-account-options.php:256
+#: dist/header-addons/header-mobile-account-options.php:222
+msgid "Show registration link below login?"
+msgstr "在登录按钮下显示注册链接？"
+
+#: dist/header-addons/header-account-options.php:213
+#: dist/header-addons/header-account-options.php:777
+msgid "Dropdown Direction"
+msgstr "下拉方向"
+
+#: dist/header-addons/header-account-options.php:202
+#: dist/header-addons/header-mobile-account-options.php:199
+msgid "Modal Login"
+msgstr "模态窗口登录"
+
+#: dist/header-addons/header-account-options.php:199
+#: dist/header-addons/header-account-options.php:735
+msgid "Dropdown Menu"
+msgstr "下拉菜单"
+
+#: dist/header-addons/header-account-options.php:196
+#: dist/header-addons/header-account-options.php:732
+#: dist/header-addons/header-mobile-account-options.php:196
+msgid "Link"
+msgstr "链接"
+
+#: dist/header-addons/header-account-options.php:184
+#: dist/header-addons/header-account-options.php:720
+#: dist/header-addons/header-mobile-account-options.php:184
+msgid "Account Action"
+msgstr "账户操作"
+
+#: dist/header-addons/header-account-options.php:147
+#: dist/header-addons/header-account-options.php:683
+#: dist/header-addons/header-mobile-account-options.php:147
+#: dist/header-addons/header-mobile-account-options.php:628
+msgid "Account Icon"
+msgstr "账户图标"
+
+#: dist/header-addons/header-account-options.php:121
+#: dist/header-addons/header-account-options.php:657
+#: dist/header-addons/header-mobile-account-options.php:121
+#: dist/header-addons/header-mobile-account-options.php:602
+msgid "Account Label"
+msgstr "账户标签"
+
+#: dist/header-addons/header-account-options.php:109
+#: dist/header-addons/header-account-options.php:627
+#: dist/header-addons/header-mobile-account-options.php:109
+#: dist/header-addons/header-mobile-account-options.php:572
+msgid "Icon + Label"
+msgstr "图标 + 标签"
+
+#: dist/header-addons/header-account-options.php:106
+#: dist/header-addons/header-account-options.php:624
+#: dist/header-addons/header-mobile-account-options.php:106
+#: dist/header-addons/header-mobile-account-options.php:569
+msgid "Label + Icon"
+msgstr "标签 + 图标"
+
+#: dist/header-addons/header-account-options.php:103
+#: dist/header-addons/header-account-options.php:621
+#: dist/header-addons/header-mobile-account-options.php:103
+#: dist/header-addons/header-mobile-account-options.php:566
+msgid "Icon"
+msgstr "图标"
+
+#: dist/header-addons/header-account-options.php:100
+#: dist/header-addons/header-account-options.php:618
+#: dist/header-addons/header-button2-options.php:54
+#: dist/header-addons/header-mobile-account-options.php:100
+#: dist/header-addons/header-mobile-account-options.php:563
+#: dist/header-addons/header-mobile-button2-options.php:112
+msgid "Label"
+msgstr "标签"
+
+#: dist/header-addons/header-account-options.php:84
+#: dist/header-addons/header-account-options.php:602
+#: dist/header-addons/header-mobile-account-options.php:84
+#: dist/header-addons/header-mobile-account-options.php:547
+msgid "Account Style"
+msgstr "账户样式"
+
+#: dist/header-addons/header-account-options.php:70
+#: dist/header-addons/header-account-options.php:337
+#: dist/header-addons/header-mobile-account-options.php:70
+#: dist/header-addons/header-mobile-account-options.php:282
+msgid "Logged Out Options"
+msgstr "登出选项"
+
+#: dist/header-addons/header-account-options.php:60
+#: dist/header-addons/header-mobile-account-options.php:60
+msgid "Logged out view"
+msgstr "登出后查看"
+
+#: dist/header-addons/header-account-options.php:57
+#: dist/header-addons/header-mobile-account-options.php:57
+msgid "Logged in view"
+msgstr "登录后查看"
+
+#: dist/header-addons/header-account-options.php:52
+#: dist/header-addons/header-mobile-account-options.php:52
+msgid "Preview/Customize"
+msgstr "预览/自定义"
+
+#: dist/header-addons/header-account-options.php:25
+#: dist/header-addons/header-account-options.php:42
+#: dist/header-addons/header-button2-options.php:26
+#: dist/header-addons/header-button2-options.php:43
+#: dist/header-addons/header-contact-options.php:25
+#: dist/header-addons/header-contact-options.php:42
+#: dist/header-addons/header-html2-options.php:25
+#: dist/header-addons/header-html2-options.php:42
+#: dist/header-addons/header-mobile-account-options.php:25
+#: dist/header-addons/header-mobile-account-options.php:42
+#: dist/header-addons/header-mobile-button2-options.php:26
+#: dist/header-addons/header-mobile-button2-options.php:43
+#: dist/header-addons/header-mobile-contact-options.php:25
+#: dist/header-addons/header-mobile-contact-options.php:42
+#: dist/header-addons/header-mobile-html2-options.php:25
+#: dist/header-addons/header-mobile-html2-options.php:42
+#: dist/header-addons/header-mobile-nav2-options.php:25
+#: dist/header-addons/header-mobile-nav2-options.php:42
+#: dist/header-addons/header-mobile-search-bar-options.php:25
+#: dist/header-addons/header-mobile-search-bar-options.php:42
+#: dist/header-addons/header-quaternary-navigation-options.php:26
+#: dist/header-addons/header-quaternary-navigation-options.php:43
+#: dist/header-addons/header-search-bar-options.php:25
+#: dist/header-addons/header-search-bar-options.php:42
+#: dist/header-addons/header-tertiary-navigation-options.php:26
+#: dist/header-addons/header-tertiary-navigation-options.php:43
+#: dist/header-addons/header-toggle-widget-options.php:25
+#: dist/header-addons/header-toggle-widget-options.php:42
+msgid "Design"
+msgstr "设计"
+
+#: dist/header-addons.php:2439 dist/woocommerce-addons.php:349
+msgid "Add widgets here."
+msgstr "在这里添加小工具。"
+
+#: dist/header-addons.php:2429
+msgid "Header Off Canvas"
+msgstr "超出页眉画布"
+
+#: dist/header-addons.php:2428
+msgid "Header Area"
+msgstr "页眉区域"
+
+#: dist/header-addons.php:2417
+msgid "Mobile Contact Design"
+msgstr "移动端联系信息设计"
+
+#: dist/header-addons.php:2412
+msgid "Mobile Contact"
+msgstr "移动端联系信息"
+
+#: dist/header-addons.php:2407
+msgid "Mobile Button 2 Design"
+msgstr "移动端按钮 2 设计"
+
+#: dist/header-addons.php:2402
+msgid "Mobile Button 2"
+msgstr "移动端按钮 2"
+
+#: dist/header-addons.php:2397
+msgid "Button 2 Design"
+msgstr "按钮 2 设计"
+
+#: dist/header-addons.php:2387
+msgid "Toggle Widget Area Design"
+msgstr "切换小工具区域设计"
+
+#: dist/header-addons.php:2377
+msgid "Contact Design"
+msgstr "联系信息涉及"
+
+#: dist/header-addons.php:2357 dist/header-addons.php:2367
+msgid "Search Bar Design"
+msgstr "搜索条设计"
+
+#: dist/header-addons.php:2347
+msgid "Mobile Divider2"
+msgstr "移动端分隔线 2"
+
+#: dist/header-addons.php:2342
+#: dist/header-addons/header-mobile-divider-options.php:17
+msgid "Mobile Divider"
+msgstr "移动端分隔线"
+
+#: dist/header-addons.php:2337
+msgid "Divider3"
+msgstr "分隔线 3"
+
+#: dist/header-addons.php:2332
+msgid "Divider2"
+msgstr "分隔线 2"
+
+#: dist/header-addons.php:2277 dist/header-addons.php:2282
+#: dist/header-addons.php:2297 dist/header-addons.php:2302
+msgid "Header HTML2"
+msgstr "页眉 HTML2"
+
+#: dist/header-addons.php:2257 dist/header-addons.php:2262
+#: dist/header-addons.php:2267 dist/header-addons.php:2272
+msgid "Header Account"
+msgstr "页眉账户"
+
+#: dist/header-addons.php:2227 dist/header-addons.php:2231
+#: dist/header-addons.php:2382
+msgid "Toggle Widget Area"
+msgstr "切换小工具区域"
+
+#: dist/header-addons.php:2223 dist/header-addons.php:2235
+#: dist/header-addons.php:2392
+msgid "Button 2"
+msgstr "按钮 2"
+
+#: dist/header-addons.php:2219 dist/header-addons.php:2239
+#: dist/header-addons.php:2372
+msgid "Contact"
+msgstr "联系信息"
+
+#: dist/header-addons.php:2215
+msgid "Widget area"
+msgstr "小工具区域"
+
+#: dist/header-addons.php:2211 dist/header-addons.php:2243
+#: dist/header-addons.php:2352 dist/header-addons.php:2362
+msgid "Search Bar"
+msgstr "搜索条"
+
+#: dist/header-addons.php:2199
+msgid "Divider 3"
+msgstr "分隔线 3"
+
+#: dist/header-addons.php:2195 dist/header-addons.php:2207
+msgid "Divider 2"
+msgstr "分隔线 2"
+
+#: dist/header-addons.php:2191 dist/header-addons.php:2203
+#: dist/header-addons.php:2327 dist/header-addons/header-divider-options.php:17
+#: dist/header-addons/header-divider2-options.php:17
+#: dist/header-addons/header-divider3-options.php:17
+msgid "Divider"
+msgstr "分隔线"
+
+#: dist/header-addons.php:2187 dist/header-addons.php:2317
+#: dist/header-addons.php:2322
+msgid "Fourth Navigation"
+msgstr "第四导航"
+
+#: dist/header-addons.php:2183 dist/header-addons.php:2307
+#: dist/header-addons.php:2312
+msgid "Third Navigation"
+msgstr "第三导航"
+
+#: dist/header-addons.php:2175 dist/header-addons.php:2179
+msgid "HTML 2"
+msgstr "HTML 2"
+
+#: dist/header-addons.php:2167 dist/header-addons.php:2287
+#: dist/header-addons.php:2292
+msgid "Mobile Navigation 2"
+msgstr "移动端导航 2"
+
+#: dist/header-addons.php:1263 dist/header-addons.php:1380
+#: dist/header-addons.php:2163 dist/header-addons.php:2171
+#: dist/header-addons/hooks.php:304 dist/header-addons/hooks.php:339
+#: dist/header-addons/hooks.php:434 dist/header-addons/hooks.php:544
+#: dist/header-addons/hooks.php:706 dist/header-addons/hooks.php:784
+msgid "Account"
+msgstr "账户"
+
+#: dist/header-addons.php:1216 dist/header-addons.php:1334
+#: dist/header-addons/hooks.php:388 dist/header-addons/hooks.php:738
+msgid "Login"
+msgstr "登录"
+
+#: dist/header-addons.php:1157 dist/header-addons.php:1183
+msgid "Insert HTML here"
+msgstr "在这里插入HTML"
+
+#: dist/header-addons.php:943
+msgid "Logged In Account"
+msgstr "登入账户"
+
+#: dist/header-addons.php:942
+msgid "Logged Out Account"
+msgstr "登出账户"
+
+#: dist/header-addons.php:941
+msgid "Mobile Secondary"
+msgstr "移动端第二"
+
+#: dist/header-addons.php:940
+msgid "Fourth"
+msgstr "第四"
+
+#: dist/header-addons.php:939
+msgid "Third"
+msgstr "第三"
+
+#. translators: %s: taxonomy name
+#: dist/elements/post-select-rest-controller.php:263
+msgid "Limit result set to all items that have the specified term assigned in the %s taxonomy."
+msgstr "将结果集限制为在 %s 分类法中分配了指定分类法的所有项目。"
+
+#: dist/elements/post-select-rest-controller.php:252
+msgid "Page of results to return."
+msgstr "要返回的结果页面。"
+
+#: dist/elements/post-select-rest-controller.php:245
+msgid "Number of results to return."
+msgstr "要返回的结果数。"
+
+#: dist/elements/post-select-rest-controller.php:238
+msgid "Include posts by ID."
+msgstr "按 ID 添加文章。"
+
+#: dist/elements/post-select-rest-controller.php:233
+msgid "Limit results to items that match search query."
+msgstr "将结果限制为与搜索查询匹配的项目。"
+
+#: dist/elements/post-select-rest-controller.php:222
+msgid "Limit results to items of an object type."
+msgstr "将结果限制为某一对象类型的项目。"
+
+#: dist/elements/elements-init.php:3809
+msgid "Visible to:"
+msgstr "可见于："
+
+#: dist/elements/elements-init.php:3797 dist/elements/elements-init.php:3813
+#: dist/elements/elements-init.php:3816
+msgid "[UNSET]"
+msgstr "[UNSET]"
+
+#: dist/elements/elements-init.php:3676
+msgid "Status"
+msgstr "状态"
+
+#: dist/elements/elements-init.php:3675
+msgid "Shortcode"
+msgstr "短代码"
+
+#: dist/elements/elements-init.php:3674
+msgid "Visible To"
+msgstr "可见于"
+
+#: dist/elements/elements-init.php:3673
+msgid "Display On"
+msgstr "显示在"
+
+#: dist/elements/elements-init.php:3672 build/meta.js:1
+msgid "Placement"
+msgstr "替换"
+
+#: dist/elements/elements-init.php:3671
+msgid "Type"
+msgstr "类型"
+
+#: dist/elements/elements-init.php:3315 build/meta.js:1
+msgid "Custom Hook"
+msgstr "自定义Hook"
+
+#: dist/elements/elements-init.php:3311
+#: dist/header-addons/header-button2-options.php:187
+msgid "Custom"
+msgstr "自定义"
+
+#: dist/elements/elements-init.php:3302
+msgid "Single Event: After Meta (Classic Mode Only)"
+msgstr "单一事件：元数据之后（仅限经典模式）"
+
+#: dist/elements/elements-init.php:3298
+msgid "Single Event: Before Meta (Classic Mode Only)"
+msgstr "单一事件：元数据之前（仅限经典模式）"
+
+#: dist/elements/elements-init.php:3294
+msgid "Single Event: After Inner Content (Classic Mode Only)"
+msgstr "单一事件：内部内容之后（仅限经典模式）"
+
+#: dist/elements/elements-init.php:3290
+msgid "Single Event: Before Inner Content (Classic Mode Only)"
+msgstr "单一事件：内部内容之前（仅限经典模式）"
+
+#: dist/elements/elements-init.php:3286
+msgid "Events: After Content"
+msgstr "事项：内容之后"
+
+#: dist/elements/elements-init.php:3282
+msgid "Events: Before Content"
+msgstr "事项：内容之前"
+
+#: dist/elements/elements-init.php:3278
+msgid "The Events Calendar"
+msgstr "The Events Calendar"
+
+#: dist/elements/elements-init.php:3268
+msgid "After Group Content"
+msgstr "群组页面之后"
+
+#: dist/elements/elements-init.php:3264
+msgid "Before Group Content"
+msgstr "群组页面之前"
+
+#: dist/elements/elements-init.php:3260
+msgid "LearnDash Group Page"
+msgstr "LearnDash 群组页面"
+
+#: dist/elements/elements-init.php:3255
+msgid "After Course Content"
+msgstr "课程内容之后"
+
+#: dist/elements/elements-init.php:3251
+msgid "Before Course Content"
+msgstr "课程内容之前"
+
+#: dist/elements/elements-init.php:3247
+msgid "LearnDash Course Page"
+msgstr "LearnDash 课程页面"
+
+#: dist/elements/elements-init.php:3242
+msgid "Focus Mode: After Content"
+msgstr "聚焦模式：内容之后"
+
+#: dist/elements/elements-init.php:3238
+msgid "Focus Mode: Before Content"
+msgstr "聚焦模式：内容之前"
+
+#: dist/elements/elements-init.php:3234
+msgid "Focus Mode: Before Title"
+msgstr "聚焦模式：标题之前"
+
+#: dist/elements/elements-init.php:3230
+msgid "Focus Mode: After Sidebar Nav"
+msgstr "聚焦模式：侧边栏导航之后"
+
+#: dist/elements/elements-init.php:3226
+msgid "Focus Mode: Before Sidebar Nav"
+msgstr "聚焦模式：侧边栏导航之前"
+
+#: dist/elements/elements-init.php:3222
+msgid "LearnDash Focus Mode"
+msgstr "LearnDash 聚焦模式"
+
+#: dist/elements/elements-init.php:3212
+msgid "After Widget Toggle Off Canvas Content"
+msgstr "画布外区域开关之后"
+
+#: dist/elements/elements-init.php:3208
+msgid "Before Widget Toggle Off Canvas Content"
+msgstr "画布外区域开关之前"
+
+#: dist/elements/elements-init.php:3204
+msgid "Shop Widget Toggle Off Canvas Area"
+msgstr "商店小工具画布外区域开关"
+
+#: dist/elements/elements-init.php:3199
+msgid "After Order Received Content"
+msgstr "订单已收到内容之后"
+
+#: dist/elements/elements-init.php:3195
+msgid "Before Order Received Content"
+msgstr "订单已收到内容之前"
+
+#: dist/elements/elements-init.php:3191
+msgid "Woocommerce Order Received"
+msgstr "Woocommerce 订单已收到"
+
+#: dist/elements/elements-init.php:3186
+msgid "After Checkout Form"
+msgstr "结账表单之后"
+
+#: dist/elements/elements-init.php:3182
+msgid "After Order Review Total"
+msgstr "订单审核设计之后"
+
+#: dist/elements/elements-init.php:3178
+msgid "Before Order Review Total"
+msgstr "订单审核合计之后"
+
+#: dist/elements/elements-init.php:3174
+msgid "After Order Review Contents"
+msgstr "订单审核内容之前"
+
+#: dist/elements/elements-init.php:3170
+msgid "Order Review"
+msgstr "订单审核"
+
+#: dist/elements/elements-init.php:3166
+msgid "After Customer Details"
+msgstr "客户详情之后"
+
+#: dist/elements/elements-init.php:3162
+msgid "Before Customer Details"
+msgstr "客户详情之前"
+
+#: dist/elements/elements-init.php:3158
+msgid "Before Checkout Form"
+msgstr "结账表单之前"
+
+#: dist/elements/elements-init.php:3154
+msgid "Woocommerce Checkout"
+msgstr "Woocommerce 结账"
+
+#: dist/elements/elements-init.php:3149
+msgid "After Side Cart Content"
+msgstr "侧购物车内容之后"
+
+#: dist/elements/elements-init.php:3145
+msgid "After Side Cart Buttons"
+msgstr "侧边购物车按钮之后"
+
+#: dist/elements/elements-init.php:3141
+msgid "Before Side Cart Buttons"
+msgstr "侧边购物车按钮之前"
+
+#: dist/elements/elements-init.php:3137
+msgid "After Side Cart List Items"
+msgstr "侧边购物车列表项之后"
+
+#: dist/elements/elements-init.php:3133
+msgid "Before Side Cart List Items"
+msgstr "侧边购物车列表项之前"
+
+#: dist/elements/elements-init.php:3129
+msgid "Before Side Cart Content"
+msgstr "侧边购物车内容之前"
+
+#: dist/elements/elements-init.php:3125
+msgid "Woocommerce Side Cart"
+msgstr "Woocommerce 侧边购物车"
+
+#: dist/elements/elements-init.php:3120
+msgid "After Cart Content"
+msgstr "购物车内容之后"
+
+#: dist/elements/elements-init.php:3116
+msgid "Cart Totals"
+msgstr "购物车总计"
+
+#: dist/elements/elements-init.php:3112
+msgid "After Cart Table"
+msgstr "购物车表格之后"
+
+#: dist/elements/elements-init.php:3108
+msgid "Before Cart Table"
+msgstr "购物车表格之前"
+
+#: dist/elements/elements-init.php:3104
+msgid "Before Cart Content"
+msgstr "购物车内容之前"
+
+#: dist/elements/elements-init.php:3100
+msgid "Woocommerce Cart"
+msgstr "Woocommerce 购物车"
+
+#: dist/elements/elements-init.php:3095
+msgid "Account Dashboard"
+msgstr "账户仪表盘"
+
+#: dist/elements/elements-init.php:3091
+msgid "Account Content (Logged In View)"
+msgstr "账户内容（登入视图）"
+
+#: dist/elements/elements-init.php:3087
+msgid "After Account Navigation"
+msgstr "账户导航之后"
+
+#: dist/elements/elements-init.php:3083
+msgid "Before Account Navigation"
+msgstr "账户导航之前"
+
+#: dist/elements/elements-init.php:3079
+msgid "After Login Form (Logged Out View)"
+msgstr "登录表单之后（登出视图）"
+
+#: dist/elements/elements-init.php:3075
+msgid "Before Login Form (Logged Out View)"
+msgstr "登录表单v (登出视图)"
+
+#: dist/elements/elements-init.php:3071
+msgid "Woocommerce Account"
+msgstr "Woocommerce 账户"
+
+#: dist/elements/elements-init.php:3066
+msgid "After Shop Loop"
+msgstr "商店循环之后"
+
+#: dist/elements/elements-init.php:3062
+msgid "After Shop Loop Item"
+msgstr "商店循化项目之后"
+
+#: dist/elements/elements-init.php:3058
+msgid "Loop Item Price"
+msgstr "循环项目价格"
+
+#: dist/elements/elements-init.php:3054
+msgid "Loop Item Title"
+msgstr "循环项目标题"
+
+#: dist/elements/elements-init.php:3050
+msgid "Loop Item Image"
+msgstr "循环项目图像"
+
+#: dist/elements/elements-init.php:3046
+msgid "Before Loop Item"
+msgstr "商店循环项目"
+
+#: dist/elements/elements-init.php:3042
+msgid "Before Shop Loop"
+msgstr "产品循环之前"
+
+#: dist/elements/elements-init.php:3038
+msgid "Woocommerce Archive"
+msgstr "Woocommerce 存档页"
+
+#: dist/elements/elements-init.php:3033
+msgid "After Single Product"
+msgstr "单个产品之后"
+
+#: dist/elements/elements-init.php:3029
+msgid "Single Product Tabs"
+msgstr "单个产品选项卡"
+
+#: dist/elements/elements-init.php:3025
+msgid "Single Product Share"
+msgstr "单个产品分享"
+
+#: dist/elements/elements-init.php:3021
+msgid "After Add to Cart Form"
+msgstr "添加到购物车表单之后"
+
+#: dist/elements/elements-init.php:3017
+msgid "Before Add to Cart Form"
+msgstr "添加到购物车表单之前"
+
+#: dist/elements/elements-init.php:3013
+msgid "Single Product Summary"
+msgstr "单个产品摘要"
+
+#: dist/elements/elements-init.php:3009
+msgid "After Single Product Image"
+msgstr "单个产品图像之后"
+
+#: dist/elements/elements-init.php:3005
+msgid "Before Single Product Image"
+msgstr "单个产品图像之前"
+
+#: dist/elements/elements-init.php:3001
+msgid "Single Product Image"
+msgstr "单个产品图像"
+
+#: dist/elements/elements-init.php:2997
+msgid "Before Single Product"
+msgstr "单个产品之前"
+
+#: dist/elements/elements-init.php:2993
+msgid "Woocommerce Product"
+msgstr "Woocommerce 产品"
+
+#: dist/elements/elements-init.php:2988
+msgid "After Woocommerce Content"
+msgstr "Woocommerce Content 之后"
+
+#: dist/elements/elements-init.php:2984
+msgid "Before Woocommerce Content"
+msgstr "Woocommerce Content 之前"
+
+#: dist/elements/elements-init.php:2980
+msgid "Woocommerce Content"
+msgstr "Woocommerce 内容"
+
+#: dist/elements/elements-init.php:2972
+msgid "Replace Login Modal"
+msgstr "替换登录弹窗"
+
+#: dist/elements/elements-init.php:2968
+msgid "Right of Login Form"
+msgstr "登录窗口右边"
+
+#: dist/elements/elements-init.php:2964
+msgid "After Login Form"
+msgstr "登录窗口之后"
+
+#: dist/elements/elements-init.php:2960
+msgid "Before Login Form"
+msgstr "登录窗口之前"
+
+#: dist/elements/elements-init.php:2956
+msgid "Left of Login Form"
+msgstr "登录窗口左侧"
+
+#: dist/elements/elements-init.php:2952
+msgid "Header Account Login Modal"
+msgstr "页眉账户登录模态窗口"
+
+#: dist/elements/elements-init.php:2947
+msgid "After Mobile Off Canvas Content"
+msgstr "移动端菜单画布外区域之后"
+
+#: dist/elements/elements-init.php:2943
+msgid "Before Mobile Off Canvas Content"
+msgstr "移动端菜单画布外区域之前"
+
+#: dist/elements/elements-init.php:2939
+msgid "Mobile Menu Off Canvas Area"
+msgstr "移动端菜单画布外区域"
+
+#: dist/elements/elements-init.php:2930
+msgid "After 404 Page Content"
+msgstr "404 页面之后"
+
+#: dist/elements/elements-init.php:2926
+msgid "Before 404 Page Content"
+msgstr "404 页面内容之前"
+
+#: dist/elements/elements-init.php:2922
+msgid "404 Page"
+msgstr "404 页面"
+
+#: dist/elements/elements-init.php:2913
+msgid "After Footer"
+msgstr "页脚之后"
+
+#: dist/elements/elements-init.php:2909
+msgid "Before Footer"
+msgstr "页脚之前"
+
+#: dist/elements/elements-init.php:2905
+msgid "Footer"
+msgstr "页脚"
+
+#: dist/elements/elements-init.php:2900
+msgid "After Archive Inner Title"
+msgstr "存档内部标题之后"
+
+#: dist/elements/elements-init.php:2896
+msgid "Before Archive Inner Title"
+msgstr "存档内部标题之前"
+
+#: dist/elements/elements-init.php:2892
+msgid "Archive Inner Content"
+msgstr "存档内部内容"
+
+#: dist/elements/elements-init.php:2887
+msgid "After Comments"
+msgstr "评论之后"
+
+#: dist/elements/elements-init.php:2883
+msgid "After Comments List"
+msgstr "评论列表之后"
+
+#: dist/elements/elements-init.php:2879
+msgid "Before Comments List"
+msgstr "评论列表之前"
+
+#: dist/elements/elements-init.php:2875
+msgid "Before Comments"
+msgstr "评论之前"
+
+#: dist/elements/elements-init.php:2871
+msgid "Comments"
+msgstr "评论"
+
+#: dist/elements/elements-init.php:2866
+msgid "After Fourth Paragraph"
+msgstr "第四个段落之后"
+
+#: dist/elements/elements-init.php:2862
+msgid "After Third Paragraph"
+msgstr "第三个段落之后"
+
+#: dist/elements/elements-init.php:2858
+msgid "After Second Paragraph"
+msgstr "第二个段落之后"
+
+#: dist/elements/elements-init.php:2854
+msgid "After First Paragraph"
+msgstr "第一个段落之后"
+
+#: dist/elements/elements-init.php:2850
+msgid "After First Heading Tag"
+msgstr "第一个标题标签之后"
+
+#: dist/elements/elements-init.php:2846
+msgid "Before First Heading Tag"
+msgstr "第一个标题标签之前"
+
+#: dist/elements/elements-init.php:2842
+msgid "Inside the Content"
+msgstr "文章内容之中"
+
+#: dist/elements/elements-init.php:2837
+msgid "After Inner Content"
+msgstr "文章内容内部之后"
+
+#: dist/elements/elements-init.php:2833
+msgid "After Entry Content"
+msgstr "文章内容之后"
+
+#: dist/elements/elements-init.php:2829
+msgid "Before Entry Content"
+msgstr "文章内容之前"
+
+#: dist/elements/elements-init.php:2825
+msgid "After Inner Title Area"
+msgstr "文章标题区域之后"
+
+#: dist/elements/elements-init.php:2821
+msgid "After Inner Title"
+msgstr "文章标题之后"
+
+#: dist/elements/elements-init.php:2817
+msgid "Before Inner Title"
+msgstr "文章标题之中"
+
+#: dist/elements/elements-init.php:2813
+msgid "Before Inner Title Area"
+msgstr "文章标题区域之前"
+
+#: dist/elements/elements-init.php:2809
+msgid "Before Inner Content"
+msgstr "文章内容之前"
+
+#: dist/elements/elements-init.php:2805
+msgid "Single Inner Content"
+msgstr "文章内容之中"
+
+#: dist/elements/elements-init.php:2800
+msgid "After Sidebar"
+msgstr "侧边栏之后"
+
+#: dist/elements/elements-init.php:2792
+msgid "Before Sidebar"
+msgstr "侧边栏之前"
+
+#: dist/elements/elements-init.php:2788
+msgid "After Content"
+msgstr "内容之后"
+
+#: dist/elements/elements-init.php:2784
+msgid "Before Content"
+msgstr "内容之前"
+
+#: dist/elements/elements-init.php:2780
+msgid "Content and Sidebar"
+msgstr "内容和侧边栏"
+
+#: dist/elements/elements-init.php:2771
+msgid "ARCHIVE: Above Title Content (Use Priority for Before/After Placement)"
+msgstr "ARCHIVE: 标题内容智商 (使用优先级进行前/后放置"
+
+#: dist/elements/elements-init.php:2767
+msgid "SINGLE: Above Title Content (Use Priority for Before/After Placement)"
+msgstr "SINGLE: 标题内容智商 (使用优先级进行前/后放置"
+
+#: dist/elements/elements-init.php:2763
+msgid "Above Content Hero Title"
+msgstr "内容横幅标题之上"
+
+#: dist/elements/elements-init.php:2758
+msgid "After All Content"
+msgstr "所有内容之后"
+
+#: dist/elements/elements-init.php:2754
+msgid "Before All Content"
+msgstr "所有内容之前"
+
+#: dist/elements/elements-init.php:2750
+msgid "Content Wrap"
+msgstr "内容包装"
+
+#: dist/elements/elements-init.php:2741
+msgid "After Header"
+msgstr "页眉之后"
+
+#: dist/elements/elements-init.php:2737
+msgid "Before Header"
+msgstr "页眉之前"
+
+#: dist/elements/elements-init.php:2733
+msgid "Header"
+msgstr "页眉"
+
+#: dist/elements/elements-init.php:2728
+msgid "After Site Wrapper"
+msgstr "站点包装之后"
+
+#: dist/elements/elements-init.php:2724
+msgid "Before Site Wrapper"
+msgstr "站点包装之前"
+
+#: dist/elements/elements-init.php:2720
+msgid "Body"
+msgstr "主体"
+
+#: dist/elements/elements-init.php:2638 dist/elements/elements-init.php:2934
+msgid "Replace 404 Page Content"
+msgstr "替换404 页面内容"
+
+#: dist/elements/elements-init.php:2634 dist/elements/elements-init.php:2917
+msgid "Replace Footer"
+msgstr "替换页脚"
+
+#: dist/elements/elements-init.php:2630 dist/elements/elements-init.php:2796
+msgid "Replace Sidebar"
+msgstr "替换侧边栏"
+
+#: dist/elements/elements-init.php:2622
+msgid "Replace Archive Loop Item Content"
+msgstr "替换存档循环项目内容"
+
+#: dist/elements/elements-init.php:2618
+msgid "Replace Archive Content"
+msgstr "替换存档内容"
+
+#: dist/elements/elements-init.php:2614
+msgid "Replace Single Post Content"
+msgstr "替换单篇文章内容"
+
+#: dist/elements/elements-init.php:2610 dist/elements/elements-init.php:2775
+msgid "Replace Above Content Hero"
+msgstr "替换内容上方的Banner"
+
+#: dist/elements/elements-init.php:2606 dist/elements/elements-init.php:2745
+msgid "Replace Header"
+msgstr "替换页眉"
+
+#: dist/elements/elements-init.php:2587
+msgid "Footer - Before </body> tag close"
+msgstr "页脚 - </body> 标签关闭之前"
+
+#: dist/elements/elements-init.php:2583
+msgid "After <body> tag open"
+msgstr "<body> 标签打开之后"
+
+#: dist/elements/elements-init.php:2579
+msgid "Header - Inside <head> tag"
+msgstr "页眉 - <head> 标签之内"
+
+#: dist/elements/elements-init.php:2575
+msgid "Scripts"
+msgstr "脚本"
+
+#: dist/elements/elements-init.php:2528
+msgid "Fixed Bottom (no space below footer)"
+msgstr "固定在底部（页脚下面没有空间）"
+
+#: dist/elements/elements-init.php:2524
+msgid "Fixed On Bottom"
+msgstr "固定在底部"
+
+#: dist/elements/elements-init.php:2520
+msgid "Fixed Bottom After Scroll"
+msgstr "滚动后固定在底部"
+
+#: dist/elements/elements-init.php:2516
+msgid "Fixed Bottom After Scroll (no space below footer)"
+msgstr "滚动后固定在底部（页脚下面没有空间）"
+
+#: dist/elements/elements-init.php:2512
+msgid "Fixed Top After Scroll"
+msgstr "滚动后固定在顶部"
+
+#: dist/elements/elements-init.php:2508
+msgid "Fixed Above Transparent Header"
+msgstr "固定在透明页眉的上面"
+
+#: dist/elements/elements-init.php:2504
+msgid "Fixed On Top"
+msgstr "固定在顶部"
+
+#: dist/elements/elements-init.php:2500 build/meta.js:1
+msgid "Fixed"
+msgstr "固定"
+
+#: dist/elements/elements-init.php:2255
+msgid "Latest Post"
+msgstr "最新文章"
+
+#: dist/elements/elements-init.php:500
+msgid "Elements"
+msgstr "元素"
+
+#: dist/elements/elements-init.php:379 build/meta.js:1
+msgid "Element Settings"
+msgstr "元素设置"
+
+#: dist/elements/elements-init.php:340
+msgid "HTML code"
+msgstr "HTML 代码"
+
+#: dist/elements/elements-init.php:337 dist/elements/elements-init.php:2602
+msgid "Templates"
+msgstr "模板"
+
+#: dist/elements/elements-init.php:334
+msgid "Fixed Items"
+msgstr "固定项目"
+
+#: dist/elements/elements-init.php:331
+msgid "Sections"
+msgstr "章节"
+
+#: dist/elements/elements-init.php:326
+msgid "All Element Items"
+msgstr "所有元素项目"
+
+#: dist/elements/elements-init.php:236
+msgid "Error: No post information was retrieved."
+msgstr "错误：未检索到文章信息。"
+
+#: dist/elements/elements-init.php:224 dist/elements/elements-init.php:3720
+msgid "Published"
+msgstr "已发布"
+
+#: dist/elements/elements-init.php:223 dist/elements/elements-init.php:3720
+msgid "Draft"
+msgstr "草稿"
+
+#: dist/elements/duplicate-elements.php:92
+msgid "%s (Copy)"
+msgstr "%s (复制)"
+
+#. translators: %s: product id
+#: dist/elements/duplicate-elements.php:73
+msgid "Post creation failed, could not find original post: %s"
+msgstr "文章创建失败，找不到原始文章：%s"
+
+#: dist/elements/duplicate-elements.php:63
+msgid "No post to duplicate has been supplied!"
+msgstr "沒有提供可以复制的文章！"
+
+#: dist/elements/duplicate-elements.php:53
+msgid "Duplicate"
+msgstr "复制"
+
+#: dist/elements/duplicate-elements.php:52
+msgid "Make a duplicate from this."
+msgstr "制作一个副本。"
+
+#: dist/dark-mode/learndash-focus-header-options.php:44
+msgid "LearnDash Focus Mode Dark Mode Logo"
+msgstr "LearnDash专注深色模式Logo"
+
+#: dist/dark-mode/learndash-focus-header-options.php:27
+msgid "Only show dark mode in Lessons?"
+msgstr "仅在课程中显示暗模式？"
+
+#: dist/dark-mode/learndash-focus-header-options.php:19
+msgid "Enable Dark Mode Switch in LearnDash Focus Mode Header?"
+msgstr "在 LearnDash 焦点模式页眉中启用暗模式开关？"
+
+#: dist/dark-mode/hooks.php:118
+msgid "Change site color palette"
+msgstr "更改网站调色板"
+
+#: dist/dark-mode/footer-dark-mode-options.php:359
+#: dist/dark-mode/header-dark-mode-options.php:287
+#: dist/dark-mode/mobile-dark-mode-options.php:263
+#: dist/header-addons/header-account-options.php:564
+#: dist/header-addons/header-account-options.php:1106
+#: dist/header-addons/header-button2-options.php:425
+#: dist/header-addons/header-contact-options.php:249
+#: dist/header-addons/header-divider-options.php:70
+#: dist/header-addons/header-divider2-options.php:70
+#: dist/header-addons/header-divider3-options.php:70
+#: dist/header-addons/header-html2-options.php:159
+#: dist/header-addons/header-mobile-account-options.php:509
+#: dist/header-addons/header-mobile-account-options.php:960
+#: dist/header-addons/header-mobile-button2-options.php:388
+#: dist/header-addons/header-mobile-contact-options.php:276
+#: dist/header-addons/header-mobile-divider-options.php:85
+#: dist/header-addons/header-mobile-divider2-options.php:85
+#: dist/header-addons/header-mobile-html2-options.php:159
+#: dist/header-addons/header-mobile-search-bar-options.php:231
+#: dist/header-addons/header-search-bar-options.php:231
+#: dist/header-addons/header-widget-area-options.php:160
+msgid "Margin"
+msgstr "外距"
+
+#: dist/dark-mode/footer-dark-mode-options.php:91
+#: dist/dark-mode/header-dark-mode-options.php:19
+#: dist/dark-mode/mobile-dark-mode-options.php:19
+msgid "To view the color switcher you must enable dark mode under General then Color Switch (Dark Mode)"
+msgstr "要查看颜色切换器，您必须在“常规”下启用暗模式，然后在“颜色切换（暗模式）”下启用暗模式"
+
+#: dist/dark-mode/footer-dark-mode-options.php:90
+#: dist/dark-mode/header-dark-mode-options.php:18
+#: dist/dark-mode/mobile-dark-mode-options.php:18
+msgid "*You must Enable Dark Mode"
+msgstr "* 你必须启用深色模式"
+
+#: dist/dark-mode/footer-dark-mode-options.php:79
+msgid "Bottom Align"
+msgstr "底部对齐"
+
+#: dist/dark-mode/footer-dark-mode-options.php:75
+msgid "Middle Align"
+msgstr "居中对齐"
+
+#: dist/dark-mode/footer-dark-mode-options.php:71
+msgid "Top Align"
+msgstr "顶部对齐"
+
+#: dist/dark-mode/footer-dark-mode-options.php:53
+msgid "Content Vertical Align"
+msgstr "内容垂直对齐"
+
+#: dist/dark-mode/footer-dark-mode-options.php:43
+msgid "Right Align"
+msgstr "右对齐"
+
+#: dist/dark-mode/footer-dark-mode-options.php:39
+msgid "Center Align"
+msgstr "居中对齐"
+
+#: dist/dark-mode/footer-dark-mode-options.php:35
+msgid "Left Align"
+msgstr "左侧齐"
+
+#: dist/dark-mode/footer-dark-mode-options.php:17
+msgid "Content Align"
+msgstr "内容对齐"
+
+#: dist/dark-mode/dark-mode-options.php:662 build/mega-menu.js:5
+#: build/meta.js:1
+msgid "Mobile"
+msgstr "手机端"
+
+#: dist/dark-mode/dark-mode-options.php:658 build/mega-menu.js:5
+#: build/meta.js:1
+msgid "Tablet"
+msgstr "平板端"
+
+#. translators: %s: color hex code e.g: "#f00".
+#: dist/dark-mode/dark-mode-options.php:654 build/mega-menu.js:5
+#: build/meta.js:1
+msgid "Desktop"
+msgstr "桌面端"
+
+#: dist/dark-mode/dark-mode-options.php:638
+msgid "Visibility"
+msgstr "可见性"
+
+#: dist/dark-mode/dark-mode-options.php:618
+#: dist/dark-mode/footer-dark-mode-options.php:346
+#: dist/dark-mode/header-dark-mode-options.php:274
+#: dist/dark-mode/mobile-dark-mode-options.php:250
+msgid "Dark Palette Title"
+msgstr "深色调色板标题"
+
+#: dist/dark-mode/dark-mode-options.php:598
+#: dist/dark-mode/footer-dark-mode-options.php:333
+#: dist/dark-mode/header-dark-mode-options.php:261
+#: dist/dark-mode/mobile-dark-mode-options.php:237
+msgid "Light Palette Title"
+msgstr "浅色调色板标题"
+
+#: dist/dark-mode/dark-mode-options.php:569
+#: dist/dark-mode/footer-dark-mode-options.php:309
+#: dist/dark-mode/header-dark-mode-options.php:237
+msgid "Enable Tooltip?"
+msgstr "启用工具提示？"
+
+#: dist/dark-mode/dark-mode-options.php:530
+#: dist/dark-mode/footer-dark-mode-options.php:277
+#: dist/dark-mode/header-dark-mode-options.php:205
+#: dist/dark-mode/mobile-dark-mode-options.php:205
+msgid "Text Label Font"
+msgstr "文字标签字体"
+
+#: dist/dark-mode/dark-mode-options.php:513
+#: dist/dark-mode/footer-dark-mode-options.php:267
+#: dist/dark-mode/header-dark-mode-options.php:195
+#: dist/dark-mode/mobile-dark-mode-options.php:195
+msgid "Dark Color"
+msgstr "深色"
+
+#: dist/dark-mode/dark-mode-options.php:509
+#: dist/dark-mode/footer-dark-mode-options.php:263
+#: dist/dark-mode/header-dark-mode-options.php:191
+#: dist/dark-mode/mobile-dark-mode-options.php:191
+msgid "Light Color"
+msgstr "浅色"
+
+#: dist/dark-mode/dark-mode-options.php:488
+#: dist/dark-mode/footer-dark-mode-options.php:242
+#: dist/dark-mode/header-dark-mode-options.php:170
+#: dist/dark-mode/mobile-dark-mode-options.php:170
+msgid "Switch Colors"
+msgstr "开关颜色"
+
+#: dist/dark-mode/dark-mode-options.php:446
+#: dist/dark-mode/footer-dark-mode-options.php:207
+#: dist/dark-mode/header-dark-mode-options.php:135
+#: dist/dark-mode/mobile-dark-mode-options.php:135
+#: dist/header-addons/header-account-options.php:350
+#: dist/header-addons/header-contact-options.php:132
+#: dist/header-addons/header-mobile-account-options.php:295
+#: dist/header-addons/header-mobile-contact-options.php:159
+#: dist/header-addons/header-toggle-widget-options.php:144
+#: dist/woocommerce-addons/product-archive-options.php:226 build/mega-menu.js:5
+msgid "Icon Size"
+msgstr "图标尺寸"
+
+#: dist/dark-mode/dark-mode-options.php:414
+#: dist/dark-mode/footer-dark-mode-options.php:182
+#: dist/dark-mode/header-dark-mode-options.php:110
+#: dist/dark-mode/mobile-dark-mode-options.php:110
+msgid "Dark Mode Icon"
+msgstr "深色模式图标"
+
+#: dist/dark-mode/dark-mode-options.php:381
+#: dist/dark-mode/footer-dark-mode-options.php:156
+#: dist/dark-mode/header-dark-mode-options.php:84
+#: dist/dark-mode/mobile-dark-mode-options.php:84
+msgid "Light Mode Icon"
+msgstr "浅色模式图标"
+
+#: dist/dark-mode/dark-mode-options.php:335
+msgid "Bottom Offset"
+msgstr "底部便宜"
+
+#: dist/dark-mode/dark-mode-options.php:283
+msgid "Side Offset"
+msgstr "侧面便宜"
+
+#: dist/dark-mode/dark-mode-options.php:272
+#: dist/header-addons/header-account-options.php:233
+#: dist/header-addons/header-account-options.php:797
+#: dist/header-addons/header-toggle-widget-options.php:559
+#: dist/woocommerce-addons/product-archive-options.php:722 build/mega-menu.js:5
+#: build/meta.js:1
+msgid "Right"
+msgstr "右对齐"
+
+#: dist/dark-mode/dark-mode-options.php:268
+#: dist/header-addons/header-account-options.php:230
+#: dist/header-addons/header-account-options.php:794
+#: dist/header-addons/header-toggle-widget-options.php:554
+#: dist/woocommerce-addons/product-archive-options.php:717 build/mega-menu.js:5
+#: build/meta.js:1
+msgid "Left"
+msgstr "左对齐"
+
+#: dist/dark-mode/dark-mode-options.php:249
+msgid "Switch Align"
+msgstr "开关对齐"
+
+#: dist/dark-mode/dark-mode-options.php:224
+#: dist/dark-mode/footer-dark-mode-options.php:138
+#: dist/dark-mode/header-dark-mode-options.php:66
+#: dist/dark-mode/mobile-dark-mode-options.php:66
+msgid "Switch"
+msgstr "开关"
+
+#: dist/dark-mode/dark-mode-options.php:221
+#: dist/dark-mode/footer-dark-mode-options.php:135
+#: dist/dark-mode/header-dark-mode-options.php:63
+#: dist/dark-mode/mobile-dark-mode-options.php:63 dist/header-addons.php:1899
+#: dist/header-addons.php:1981
+msgid "Button"
+msgstr "按钮"
+
+#: dist/dark-mode/dark-mode-options.php:217
+#: dist/dark-mode/footer-dark-mode-options.php:131
+#: dist/dark-mode/header-dark-mode-options.php:59
+#: dist/dark-mode/mobile-dark-mode-options.php:59
+msgid "Switch Style"
+msgstr "开关样式"
+
+#: dist/dark-mode/dark-mode-options.php:195
+#: dist/dark-mode/footer-dark-mode-options.php:116
+#: dist/dark-mode/header-dark-mode-options.php:44
+#: dist/dark-mode/mobile-dark-mode-options.php:44
+msgid "Icons and Text"
+msgstr "图标和文字"
+
+#: dist/dark-mode/dark-mode-options.php:192
+#: dist/dark-mode/footer-dark-mode-options.php:113
+#: dist/dark-mode/header-dark-mode-options.php:41
+#: dist/dark-mode/mobile-dark-mode-options.php:41
+msgid "Text"
+msgstr "文字"
+
+#: dist/dark-mode/dark-mode-options.php:189
+#: dist/dark-mode/footer-dark-mode-options.php:110
+#: dist/dark-mode/header-dark-mode-options.php:38
+#: dist/dark-mode/mobile-dark-mode-options.php:38
+msgid "Icons"
+msgstr "图标"
+
+#: dist/dark-mode/dark-mode-options.php:185
+#: dist/dark-mode/footer-dark-mode-options.php:106
+#: dist/dark-mode/header-dark-mode-options.php:34
+#: dist/dark-mode/mobile-dark-mode-options.php:34
+msgid "Switch Type"
+msgstr "开关类型"
+
+#: dist/dark-mode/dark-mode-options.php:177
+msgid "Show Fixed Switch?"
+msgstr "显示固定开关？"
+
+#: dist/dark-mode/dark-mode-options.php:169
+msgid "Fixed Switch"
+msgstr "固定开关"
+
+#: dist/dark-mode/dark-mode-options.php:120
+msgid "Different Logo for Mobile?"
+msgstr "移动端使用不同的Logo？"
+
+#: dist/dark-mode/dark-mode-options.php:99
+#: dist/dark-mode/dark-mode-options.php:144
+msgid "Dark Mode Header Logo"
+msgstr "深色模式页眉Logo"
+
+#: dist/dark-mode/dark-mode-options.php:80
+msgid "Different Logo for Dark Mode?"
+msgstr "深色模式使用不同的Logo？"
+
+#: dist/dark-mode/dark-mode-options.php:69
+msgid "Palette 3"
+msgstr "色板 3"
+
+#: dist/dark-mode/dark-mode-options.php:66
+msgid "Palette 2"
+msgstr "色板 2"
+
+#: dist/dark-mode/dark-mode-options.php:63
+msgid "Palette 1"
+msgstr "色板 1"
+
+#: dist/dark-mode/dark-mode-options.php:59
+msgid "Dark Color Palette"
+msgstr "深色模式色板"
+
+#: dist/dark-mode/dark-mode-options.php:51
+msgid "OS Aware"
+msgstr "根据操作系统"
+
+#: dist/dark-mode/dark-mode-options.php:49
+msgid "Use users computer settings to choose default palette"
+msgstr "使用用户计算机设置选择默认调色板"
+
+#: dist/dark-mode/dark-mode-options.php:30
+msgid "Default Color Palette"
+msgstr "默认色板"
+
+#: dist/dark-mode/dark-mode-options.php:21
+msgid "Please Note, this simply allows your users to switch which color palette is active. This will not automatically convert your site to have a dark mode version."
+msgstr "请注意，这仅允许您的用户切换哪个调色板处于活动状态。这不会自动将您的网站转换为暗色模式版本。"
+
+#: dist/dark-mode/dark-mode-options.php:19
+msgid "Enable Color Palette Switch (Dark Mode)?"
+msgstr "启用色板切换（深色模式）？"
+
+#: dist/dark-mode.php:736 dist/dark-mode.php:740 dist/dark-mode.php:744
+msgid "Dark Mode Toggle"
+msgstr "深色模式切换"
+
+#: dist/dark-mode.php:687 dist/dark-mode.php:692 dist/dark-mode.php:697
+#: dist/dark-mode.php:702
+msgid "Color Switch (Dark Mode)"
+msgstr "颜色切换（深色模式）"
+
+#: dist/dark-mode.php:236 dist/dark-mode.php:298 dist/dark-mode.php:335
+#: dist/dark-mode.php:372 dist/dark-mode/dark-mode-options.php:37
+msgid "Dark"
+msgstr "深色"
+
+#: dist/dark-mode.php:235 dist/dark-mode.php:297 dist/dark-mode.php:334
+#: dist/dark-mode.php:371 dist/dark-mode/dark-mode-options.php:34
+msgid "Light"
+msgstr "浅色"
+
+#: dist/conditional-headers/conditional-header-options.php:48
+msgid "Current Previewing Header"
+msgstr "当前预览页眉"
+
+#: dist/conditional-headers/conditional-header-options.php:38
+msgid "Conditional Header"
+msgstr "条件页眉"
+
+#: dist/conditional-headers/conditional-header-options.php:31
+msgid "Previewing Header:"
+msgstr "预览页眉："
+
+#: dist/conditional-headers.php:1569
+#: dist/conditional-headers/conditional-header-options.php:57
+#: build/dashboard.js:1
+msgid "Conditional Headers"
+msgstr "条件页眉"
+
+#: dist/conditional-headers.php:1160 dist/elements/elements-init.php:2369
+msgid "Specific Role"
+msgstr "指定角色"
+
+#: dist/conditional-headers.php:1146 dist/elements/elements-init.php:2355
+msgid "Logged in Users"
+msgstr "登入用户"
+
+#: dist/conditional-headers.php:1142 dist/elements/elements-init.php:2351
+msgid "Logged out Users"
+msgstr "登出用户"
+
+#: dist/conditional-headers.php:1138 dist/elements/elements-init.php:2347
+msgid "All Users"
+msgstr "所有用户"
+
+#: dist/conditional-headers.php:1134 dist/elements/elements-init.php:2343
+msgid "Basic"
+msgstr "基础"
+
+#. translators: %1$s: post type plural label
+#: dist/conditional-headers.php:1097 dist/elements/elements-init.php:2463
+msgid "%1$s Search"
+msgstr "%1$s 搜索"
+
+#. translators: %1$s: post type plural label
+#: dist/conditional-headers.php:1090 dist/elements/elements-init.php:2456
+msgid "%1$s Archive"
+msgstr "%1$s 存档"
+
+#. translators: %1$s: taxonomy singular label.
+#: dist/conditional-headers.php:1082 dist/elements/elements-init.php:2448
+msgid "%1$s Archives"
+msgstr "%1$s 存档"
+
+#: dist/conditional-headers.php:1073 dist/conditional-headers.php:1116
+#: dist/elements/elements-init.php:2439 dist/elements/elements-init.php:2482
+msgid "Single"
+msgstr "单个"
+
+#: dist/conditional-headers.php:1053 dist/elements/elements-init.php:2422
+msgid "Paged"
+msgstr "页"
+
+#: dist/conditional-headers.php:1049 dist/elements/elements-init.php:2418
+msgid "Date Archives"
+msgstr "日期存档"
+
+#: dist/conditional-headers.php:1045 dist/elements/elements-init.php:2414
+msgid "Author Archives"
+msgstr "作者存档"
+
+#: dist/conditional-headers.php:1041 dist/elements/elements-init.php:2410
+msgid "All Archives"
+msgstr "所有存档"
+
+#: dist/conditional-headers.php:1037 dist/elements/elements-init.php:2406
+msgid "All Singular"
+msgstr "所有详情页面"
+
+#: dist/conditional-headers.php:1033 dist/elements/elements-init.php:2402
+msgid "Not Found (404)"
+msgstr "未找到（404）"
+
+#: dist/conditional-headers.php:1029 dist/elements/elements-init.php:2398
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: dist/conditional-headers.php:1025 dist/elements/elements-init.php:2394
+msgid "Blog Page"
+msgstr "博客页面"
+
+#: dist/conditional-headers.php:1021 dist/elements/elements-init.php:2390
+msgid "Front Page"
+msgstr "前端页面"
+
+#: dist/conditional-headers.php:1017 dist/elements/elements-init.php:2386
+msgid "Entire Site"
+msgstr "全站"
+
+#: dist/conditional-headers.php:1013 dist/elements/elements-init.php:2382
+#: dist/header-addons/header-account-options.php:21
+#: dist/header-addons/header-account-options.php:38
+#: dist/header-addons/header-button2-options.php:22
+#: dist/header-addons/header-button2-options.php:39
+#: dist/header-addons/header-contact-options.php:21
+#: dist/header-addons/header-contact-options.php:38
+#: dist/header-addons/header-html2-options.php:21
+#: dist/header-addons/header-html2-options.php:38
+#: dist/header-addons/header-mobile-account-options.php:21
+#: dist/header-addons/header-mobile-account-options.php:38
+#: dist/header-addons/header-mobile-button2-options.php:22
+#: dist/header-addons/header-mobile-button2-options.php:39
+#: dist/header-addons/header-mobile-contact-options.php:21
+#: dist/header-addons/header-mobile-contact-options.php:38
+#: dist/header-addons/header-mobile-html2-options.php:21
+#: dist/header-addons/header-mobile-html2-options.php:38
+#: dist/header-addons/header-mobile-nav2-options.php:21
+#: dist/header-addons/header-mobile-nav2-options.php:38
+#: dist/header-addons/header-mobile-search-bar-options.php:21
+#: dist/header-addons/header-mobile-search-bar-options.php:38
+#: dist/header-addons/header-quaternary-navigation-options.php:22
+#: dist/header-addons/header-quaternary-navigation-options.php:39
+#: dist/header-addons/header-search-bar-options.php:21
+#: dist/header-addons/header-search-bar-options.php:38
+#: dist/header-addons/header-tertiary-navigation-options.php:22
+#: dist/header-addons/header-tertiary-navigation-options.php:39
+#: dist/header-addons/header-toggle-widget-options.php:21
+#: dist/header-addons/header-toggle-widget-options.php:38
+#: dist/header-addons/header-toggle-widget-options.php:313
+#: dist/header-addons/header-widget-area-options.php:16
+#: dist/woocommerce-addons/product-archive-options.php:476
+msgid "General"
+msgstr "通用"
+
+#: dist/conditional-headers.php:958 dist/elements/elements-init.php:2685
+msgid "Assigned Course"
+msgstr "指定课程"
+
+#: dist/conditional-headers.php:878
+msgid "Please choose a file to import."
+msgstr "请选择需要导入的文件。"
+
+#: dist/conditional-headers.php:877
+msgid ""
+"Attention! This will remove all customizations to this header!\n"
+"\n"
+"This action is irreversible!"
+msgstr ""
+"注意！这将删除此标题的所有自定义设置！\n"
+"\n"
+"此操作不可逆！"
+
+#: dist/conditional-headers.php:720
+msgid "Error importing settings! The settings you uploaded are not for the Kadence Theme Conditional Header."
+msgstr "导入设置时出错！您上传的设置不适用于 Kadence 主题条件标头。"
+
+#: dist/conditional-headers.php:712 dist/conditional-headers.php:716
+msgid "Error importing settings! Please check that you uploaded a customizer export file."
+msgstr "导入设置时出错！请检查你上传的自定义导出文件。"
+
+#: dist/conditional-headers.php:691
+msgid "Error importing settings file! Please try again."
+msgstr "导入设置文件出错！请重试。"
+
+#: dist/conditional-headers.php:649 dist/conditional-headers.php:679
+#: dist/conditional-headers.php:791
+msgid "Error importing settings, Missing option information."
+msgstr "导入设置错误，选项信息丢失。"
+
+#: dist/conditional-headers.php:645 dist/conditional-headers.php:667
+msgid "Security Error, Reload Page"
+msgstr "安全错误，重新加载页面"
+
+#: dist/conditional-headers.php:634
+msgid "Error removing settings, Missing option information."
+msgstr "删除设置时出错，缺少选项信息。"
+
+#: dist/archive-meta.php:353 dist/scripts-addon.php:112
+msgid "Custom Scripts"
+msgstr "自定义脚本"
+
+#: dist/archive-meta.php:269
+msgid "4 Columns"
+msgstr "4 列"
+
+#: dist/archive-meta.php:267
+msgid "3 Columns"
+msgstr "3 列"
+
+#: dist/archive-meta.php:265
+msgid "2 Columns"
+msgstr "2 列"
+
+#: dist/archive-meta.php:263
+msgid "1 Column"
+msgstr "1 列"
+
+#: dist/archive-meta.php:261
+#: dist/conditional-headers/conditional-header-options.php:14
+#: dist/elements/elements-init.php:3738
+#: dist/header-addons/header-toggle-widget-options.php:104
+#: dist/woocommerce-addons/product-archive-options.php:178
+msgid "Default"
+msgstr "默认"
+
+#: dist/archive-meta.php:255
+msgid "Archive Columns"
+msgstr "存档分栏"
+
+#: dist/archive-meta.php:219 dist/archive-meta.php:246
+msgid "Remove Image"
+msgstr "移除图像"
+
+#: dist/archive-meta.php:218 dist/archive-meta.php:245
+msgid "Add Image"
+msgstr "添加图像"
+
+#: dist/archive-meta.php:214 dist/archive-meta.php:232
+msgid "Above Header Background Image"
+msgstr "页头之上的背景图像"
+
+#: dist/archive-meta.php:70 dist/conditional-headers.php:601
+#: dist/dark-mode.php:80 dist/elements/elements-init.php:131
+#: dist/header-addons.php:96 dist/infinite-scroll.php:65
+#: dist/mega-menu/mega-menu.php:62 dist/scripts-addon.php:65
+#: dist/woocommerce-addons.php:86
+msgid "Unserializing instances of the class is forbidden"
+msgstr "禁止反序列化该类的实例"
+
+#: dist/archive-meta.php:60 dist/conditional-headers.php:591
+#: dist/dark-mode.php:70 dist/elements/elements-init.php:121
+#: dist/header-addons.php:86 dist/infinite-scroll.php:55
+#: dist/mega-menu/mega-menu.php:52 dist/scripts-addon.php:55
+#: dist/woocommerce-addons.php:76
+msgid "Cloning instances of the class is Forbidden"
+msgstr "禁止克隆类的实例"
+
+#: class-kadence-theme-pro.php:62 class-kadence-theme-pro.php:72
+msgid "Cheatin&#8217; huh?"
+msgstr "在作弊吧？"
+
+#. Author URI of the plugin
+#: kadence-pro.php
+msgid "https://www.kadencewp.com/"
+msgstr "https://www.kadencewp.com/"
+
+#. Author of the plugin
+#: kadence-pro.php
+msgid "Kadence WP"
+msgstr "Kadence WP"
+
+#. Description of the plugin
+#: kadence-pro.php
+msgid "Extends the Kadence theme with premium features and addons."
+msgstr "通过高级功能和附加组件扩展 Kadence 主题。"
+
+#. Plugin URI of the plugin
+#: kadence-pro.php
+msgid "https://www.kadencewp.com/kadence-theme/premium/"
+msgstr "https://www.kadencewp.com/kadence-theme/premium/"
+
+#. Plugin Name of the plugin
+#: kadence-pro.php
+msgid "Kadence Pro - Premium addon for the Kadence Theme"
+msgstr "Kadence Pro - Kadence 主题的高级扩展"

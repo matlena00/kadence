@@ -1,0 +1,64 @@
+# WordPress content - keep only themes/matmat
+/wp-content/*
+!/wp-content/themes/
+/wp-content/themes/*
+!/wp-content/themes/kadence/
+!/wp-content/plugins/
+
+# WP Config
+wp-config.php
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Server configuration
+.htaccess
+
+# Node modules (for build tools)
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+/dist/
+/build/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+error_log
+debug.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+/.cache/
+wp-content/cache/
+wp-content/uploads/cache/
+
+# Backup files
+*.bak
+*.backup
+*.sql

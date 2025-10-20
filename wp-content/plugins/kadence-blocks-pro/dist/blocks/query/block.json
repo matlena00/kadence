@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Query",
+  "name": "kadence/query",
+  "category": "kadence-blocks",
+  "attributes": {
+    "uniqueID": {
+      "type": "string"
+    },
+    "id": {
+      "type": "integer",
+      "default": 0
+    }
+  },
+  "supports": {
+    "html": false,
+    "className": true,
+    "reusable": false,
+    "anchor": false,
+    "lock": false,
+    "kbMetadata": true
+  },
+  "providesContext": {
+    "queryBlockId": "id",
+    "queryId": "id"
+  }
+}

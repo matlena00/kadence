@@ -1,0 +1,208 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "title": "Product Carousel",
+  "name": "kadence/productcarousel",
+  "category": "kadence-blocks",
+  "description": "",
+  "attributes": {
+    "queryType": {
+      "type": "string",
+      "default": "query"
+    },
+    "postIds": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "order": {
+      "type": "string",
+      "default": "desc"
+    },
+    "orderBy": {
+      "type": "string",
+      "default": "menu_order"
+    },
+    "categories": {
+      "type": "array",
+      "default": [],
+      "items": {
+        "type": "object"
+      }
+    },
+    "catOperator": {
+      "type": "string",
+      "default": "any"
+    },
+    "uniqueID": {
+      "type": "string"
+    },
+    "postsToShow": {
+      "type": "number",
+      "default": 6
+    },
+    "postColumns": {
+      "type": "array",
+      "default": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "items": {
+        "type": "integer"
+      }
+    },
+    "columnControl": {
+      "type": "string",
+      "default": "linked"
+    },
+    "columnGap": {
+      "type": "number",
+      "default": 30
+    },
+    "columnGapTablet": {
+      "type": "number",
+      "default": ""
+    },
+    "columnGapMobile": {
+      "type": "number",
+      "default": ""
+    },
+    "columnGapUnit": {
+      "type": "string",
+      "default": "px"
+    },
+    "align": {
+      "type": "string",
+      "default": "none"
+    },
+    "autoPlay": {
+      "type": "boolean",
+      "default": true
+    },
+    "autoSpeed": {
+      "type": "number",
+      "default": 7000
+    },
+    "transSpeed": {
+      "type": "number",
+      "default": 400
+    },
+    "slidesScroll": {
+      "type": "string",
+      "default": "1"
+    },
+    "arrowStyle": {
+      "type": "string",
+      "default": "whiteondark"
+    },
+    "dotStyle": {
+      "type": "string",
+      "default": "dark"
+    },
+    "entryStyle": {
+      "type": "string",
+      "default": "boxed"
+    },
+    "autoScroll": {
+      "type": "boolean",
+      "default": false
+    },
+    "autoScrollSpeed": {
+      "type": "number",
+      "default": 0.4
+    },
+    "autoScrollPause": {
+      "type": "boolean",
+      "default": true
+    },
+    "margin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobileMargin": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "marginType": {
+      "type": "string",
+      "default": "px"
+    },
+    "padding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "tabletPadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "mobilePadding": {
+      "type": "array",
+      "default": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "paddingType": {
+      "type": "string",
+      "default": "px"
+    },
+    "anchor": {
+      "type": "string",
+      "default": ""
+    },
+    "noLoop": {
+      "type": "boolean",
+      "default": false
+    },
+    "showPauseButton": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "supports": {
+    "html": false,
+    "anchor": true,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "kbMetadata": true
+  }
+}
