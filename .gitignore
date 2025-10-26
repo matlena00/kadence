@@ -62,3 +62,8 @@ wp-content/uploads/cache/
 *.bak
 *.backup
 *.sql
+
+# Cursor & BMAD-METHOD
+.cursor/
+.bmad-core/
+docs/
